@@ -4,9 +4,27 @@ import torch.nn.functional as F
 import numpy as np
 from statsmodels.tsa.stattools import adfuller
 from torch.utils.data import Dataset, DataLoader
-device = torch.device("cuda:1" if torch.cuda.is_available() else "cpu")
+
+def scale_tensor(tensor: torch.Tensor) -> torch.Tensor:
+    """
+    Scales a PyTorch tensor to the range [0,1].
+    
+    Args:
+        tensor (torch.Tensor): Input tensor to be scaled.
+    
+    Returns:
+        torch.Tensor: Scaled tensor with values in the range [0,1].
+    """
+    min_val = tensor.min()
+    max_val = tensor.max()
+    
+    if max_val == min_val:
+        return torch.zeros_like(tensor)  # Avoid division by zero if all values are the same
+    
+    return (tensor - min_val) / (max_val - min_val)
+    
 class TimeSeriesDataset(Dataset):
-    def __init__(self, dataframe, time_steps=10):
+    def __init__(self, dataframe, device,time_steps=10):
         """
         Args:
             dataframe (pd.DataFrame): Time-series data
@@ -14,6 +32,7 @@ class TimeSeriesDataset(Dataset):
         """
         self.data = torch.tensor(dataframe.values, dtype=torch.float32)
         self.time_steps = time_steps
+        self.device = device
     
     def __len__(self):
         return len(self.data) - self.time_steps
@@ -24,8 +43,8 @@ class TimeSeriesDataset(Dataset):
             X: Past `time_steps` values (shape: [time_steps, num_features])
             y: Next step prediction target (shape: [num_features])
         """
-        X = self.data[idx : idx + self.time_steps, :]
-        time_context = torch.arange(self.time_steps).float()  # Time indexing
+        X = self.data[idx : idx + self.time_steps, :].to(self.device)
+        time_context = torch.arange(self.time_steps).float().to(self.device)  # Time indexing
         
         return X, time_context
 
@@ -56,7 +75,7 @@ def get_adjacency(cols,causal_indices,non_causal_indices,num_nodes):
                 A0[i,j] = -1
     return A0
 
-def replace_zero(tensor, small_number=1e-3):
+def replace_zero(tensor, device, small_number=1e-3):
   """
   Replaces zeros in a PyTorch tensor with a small number.
 
