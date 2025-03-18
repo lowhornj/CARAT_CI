@@ -169,8 +169,8 @@ class CausalGraphVAE(nn.Module):
         sparsity_loss = torch.norm(adj_now, p=1) * self.instantaneous_weight + torch.norm(adj_lag, p=1) * self.lag_weight
         h_value = (notears_constraint(adj_now) * self.instantaneous_weight + notears_constraint(adj_lag)) * self.lag_weight
     
-        self.rho = min(rho_max, 1.0 + (epoch / max_epochs) ** 2 * 15.0)
-        self.alpha = min(alpha_max, (epoch / max_epochs) ** 2 * 5.0)
+        self.rho = min(rho_max, 1.0 + (epoch / max_epochs) ** 2)
+        self.alpha = min(alpha_max, (epoch / max_epochs) ** 2)
 
     
         lagrangian_loss = (self.alpha * h_value + 0.5 * self.rho * (h_value ** 2)) / (self.num_nodes ** 2)
