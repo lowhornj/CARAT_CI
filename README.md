@@ -1,6 +1,9 @@
-# CARAT_CI
-Causal AutoRegressive ATtention with Automatic Causal Inference
+# Causal AutoRegressive ATtention with Automated Causal Inference  
 
-Praxis Research by Jeremiah Lowhorn
+### Praxis Research by Jeremiah Lowhorn  
 
-Causal discovery & causal inference through a Variational Autoencoder & graph learning model. Observational time series data is learned via the VAE while the graph learning module learns a direct and indirect adjacency matrix. Instantaneous adjacency and lagged adjacency components are learned making the learned causal graph robust to direct and temporal causal effects. The lagged adjacency matrices are aggregated via weight decay. DAGs are optimized using a NOTEARS style loss function in additional to the VAE reparameterization trick (reconstruction & KL Divergence). Inference is built into the VAE and allows for the measurement of edge strengths between the instantaneous adjacency, lagged adjacency, combined adjacency, and a negative & positive counterfactual analysis. Scores can be combined for each of the methods for a robust root cause identification. 
+This research explores **causal discovery and inference** using a **Variational Autoencoder (VAE) integrated with a graph learning module**. The VAE learns representations from observational time series data, while the graph learning component constructs both **direct and indirect adjacency matrices**, capturing both **instantaneous and lagged causal effects**.  
+
+The model's **instantaneous adjacency** reflects direct causal relationships, while **lagged adjacency matrices** account for temporal dependencies, aggregated through a **weight decay mechanism** to enhance stability. To ensure a **Directed Acyclic Graph (DAG)** structure, the model incorporates a **NOTEARS-style optimization constraint** alongside the standard **VAE reparameterization trick** (reconstruction loss & KL divergence).  
+
+Inference is embedded within the VAE, allowing for a **comprehensive evaluation of edge strengths** across different adjacency representations: instantaneous, lagged, combined, as well as **positive and negative counterfactual interventions**. These diverse scoring methods can be **combined** to provide a **robust root cause identification framework**, offering enhanced interpretability and precision in causal reasoning.
