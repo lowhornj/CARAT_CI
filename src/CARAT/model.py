@@ -173,7 +173,7 @@ class CausalGraphVAE(nn.Module):
         self.alpha = min(alpha_max, (epoch / max_epochs) ** 2)
 
     
-        lagrangian_loss = (self.alpha * h_value + 0.5 * self.rho * (h_value ** 2)) / (self.num_nodes ** 2)
+        lagrangian_loss = (self.alpha * h_value + 0.5 * self.rho * (h_value ** 2)) #/ (self.num_nodes ** 2)
 
 
         return recon_loss , kl_loss , sparsity_loss , lagrangian_loss

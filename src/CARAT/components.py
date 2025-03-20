@@ -46,9 +46,9 @@ class TemporalCausalGraph(nn.Module):
         self.pos_embedding = nn.Embedding(time_steps, hidden_dim,dtype=torch.float32,device=self.device)
 
         # Learnable adjacency matrices (instantaneous + delayed)
-        self.edge_score_now = nn.Parameter(torch.randn(num_nodes, num_nodes,device=self.device))
+        self.edge_score_now = nn.Parameter(torch.zeros(num_nodes, num_nodes,device=self.device))
         #self.adj_mat = nn.Parameter(torch.randn(num_nodes, num_nodes,device=self.device))
-        self.edge_score_lag = nn.Parameter(torch.randn(num_nodes, num_nodes,device=self.device))
+        self.edge_score_lag = nn.Parameter(torch.zeros(num_nodes, num_nodes,device=self.device))
         self.prior_adj = prior_adj if prior_adj is not None else torch.zeros(num_nodes, num_nodes,device=self.device)
 
         # Attention Layer (Query = final_hidden, Keys/Values = Transformer Output)
