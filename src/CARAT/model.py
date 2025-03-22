@@ -9,6 +9,12 @@ from CARAT.components import *
 from CARAT.model_utils import *
 import pandas as pd
 
+def generate_causal_mask(seq_len, device):
+    """Creates a causal mask with -inf values for masked positions."""
+    mask = torch.triu(torch.full((seq_len, seq_len), float('-inf')), diagonal=1)
+    return mask.to(device)
+
+
 class CausalGraphVAE(nn.Module):
     def __init__(self, input_dim, hidden_dim, latent_dim, num_nodes, device, time_steps=10, prior_adj=None,instantaneous_weight=0.5):
         super(CausalGraphVAE, self).__init__()
@@ -23,33 +29,83 @@ class CausalGraphVAE(nn.Module):
         self.alpha = torch.tensor(0.0, dtype=torch.float32, requires_grad=False, device=self.device)
         self.rho = torch.tensor(1.0, dtype=torch.float32, requires_grad=False, device=self.device)
 
+        self.pos_embedding = nn.Embedding(time_steps, hidden_dim,dtype=torch.float32,device=self.device)
+
+        self.enocder_projection =nn.Linear(num_nodes, hidden_dim,dtype=torch.float32, device=self.device)
+      
+        self.encoder_transformer = nn.TransformerEncoder(
+            nn.TransformerEncoderLayer(d_model=hidden_dim, nhead=4, dim_feedforward=hidden_dim, dtype=torch.float32,dropout=0.3,device=self.device),
+            num_layers=2
+        )
+
         # Temporal-aware Encoder and Decoder
-        self.encoder_rnn = nn.GRU(input_dim, hidden_dim, batch_first=True,dtype=torch.float32, device=self.device,num_layers =1,dropout =0)
+        #self.encoder_rnn = nn.GRU(input_dim, hidden_dim, batch_first=True,dtype=torch.float32, device=self.device,num_layers =1,dropout =0)
         self.mu_layer = nn.Linear(hidden_dim, latent_dim,dtype=torch.float32, device=self.device)
         self.logvar_layer = nn.Linear(hidden_dim, latent_dim,dtype=torch.float32, device=self.device)
-        self.decoder_rnn = nn.GRU(latent_dim, hidden_dim, batch_first=True,dtype=torch.float32, device=self.device,num_layers =1,dropout =0)
+
+        self.decoder_projection = nn.Linear(latent_dim, hidden_dim,dtype=torch.float32, device=self.device)
+
+
+        self.decoder_transformer = nn.TransformerDecoder(
+            nn.TransformerDecoderLayer(d_model=hidden_dim, nhead=4, dim_feedforward=hidden_dim, dtype=torch.float32,dropout=0.3,device=self.device),
+            num_layers=2
+        )
+
+        #self.decoder_projection = nn.GRU(hidden_dim, num_nodes, batch_first=True,dtype=torch.float32, device=self.device,num_layers =3,dropout =0.1)
+
+
+
+        
+        #self.decoder_rnn = nn.GRU(latent_dim, hidden_dim, batch_first=True,dtype=torch.float32, device=self.device,num_layers =1,dropout =0)
         self.decoder_fc = nn.Linear(hidden_dim, input_dim,dtype=torch.float32, device=self.device)
 
     def encode(self, X, time_context):
-        X_enc, _ = self.encoder_rnn(X)
-        mu, logvar = self.mu_layer(X_enc[:, -1, :]), self.logvar_layer(X_enc[:, -1, :])
+        X_enc = self.enocder_projection(X)
+        pos_indices = torch.arange(self.time_steps, device=X.device)
+        pos_emb = self.pos_embedding(pos_indices).unsqueeze(1)
+    
+        X_permuted = X_enc.permute(1, 0, 2)  # Transformer expects (seq_len, batch, hidden_dim)
+    
+        # Generate the causal mask for the encoder
+        src_mask = generate_causal_mask(self.time_steps, X.device)
+    
+        # Apply Transformer Encoder with causal mask
+        memory = self.encoder_transformer(X_permuted + pos_emb, mask=src_mask)
+    
+        mu, logvar = self.mu_layer(memory[-1, :, :]), self.logvar_layer(memory[-1, :, :])
         Z = mu + torch.randn_like(logvar) * torch.exp(0.5 * logvar)
-        adj_now, adj_lag = self.causal_graph(X, time_context,Z)  # Use temporal causal graph
-        return mu, logvar, adj_now, adj_lag
+    
+        adj_now, adj_lag = self.causal_graph(memory, time_context)
+    
+        return mu, logvar, adj_now, adj_lag, memory.detach()
 
-    def decode(self, Z, adj_now, adj_lag):
+    def decode(self, Z, adj_now, adj_lag, memory):
         Z_expanded = Z.unsqueeze(1).repeat(1, self.time_steps, 1)
-        X_dec, _ = self.decoder_rnn(Z_expanded)
-        X_dec = self.decoder_fc(X_dec)
-        return X_dec
+        X_dec = self.decoder_projection(Z_expanded)
+        X_permuted = X_dec.permute(1, 0, 2)
+    
+        # Generate new positional embedding for the decoder
+        pos_indices = torch.arange(self.time_steps, device=X_dec.device)
+        tgt_pos_emb = self.pos_embedding(pos_indices).unsqueeze(1)
+    
+        # Generate causal mask
+        tgt_mask = generate_causal_mask(self.time_steps, X_dec.device)
+    
+        # Apply Transformer Decoder
+        X_transformed = self.decoder_transformer(X_permuted + tgt_pos_emb, memory, tgt_mask=tgt_mask)
+    
+        X_transformed = X_transformed.permute(1, 0, 2)
+        x_recon = self.decoder_fc(X_transformed)
+    
+        return x_recon
 
     def forward(self, X, time_context):
         X = X.to(torch.float32)  # Convert input X to float32
         time_context = time_context.to(torch.float32)  # Convert time context to float32
 
-        mu, logvar, adj_now, adj_lag = self.encode(X, time_context)
+        mu, logvar, adj_now, adj_lag, X_transformed = self.encode(X, time_context)
         Z = mu + torch.randn_like(logvar) * torch.exp(0.5 * logvar)
-        recon_X = self.decode(Z, adj_now, adj_lag)
+        recon_X = self.decode(Z, adj_now, adj_lag, X_transformed)
         return recon_X, mu, logvar, adj_now, adj_lag
 
     def infer_causal_effect(self, X_data, T_data, target_variable, labels, non_causal_indices=[],root_rank=False):
@@ -64,7 +120,7 @@ class CausalGraphVAE(nn.Module):
         n_samples = X_data.shape[0]
     
         with torch.no_grad():
-            _, _, adj_now, adj_lag = self.encode(X_data, T_data)
+            _, _, adj_now, adj_lag, _ = self.encode(X_data, T_data)
             adj_matrix = torch.sigmoid(adj_now * self.instantaneous_weight + adj_lag * self.lag_weight)
     
             # Compute edge strengths
@@ -96,9 +152,9 @@ class CausalGraphVAE(nn.Module):
                 # Positive intervention: set cause variable to 1
                 intervention_pos = X_data.clone()
                 intervention_pos[:, :, i] = 1  
-                mu, logvar, adj_now_int, adj_lag_int = self.encode(intervention_pos, T_data)
+                mu, logvar, adj_now_int, adj_lag_int, memory = self.encode(intervention_pos, T_data)
                 Z = mu + torch.randn_like(logvar, dtype=torch.float32, device=self.device) * torch.exp(0.5 * logvar)
-                recon_X = self.decode(Z, adj_now_int, adj_lag_int)
+                recon_X = self.decode(Z, adj_now_int, adj_lag_int,memory)
     
                 # Compute normalized deviation for positive intervention
                 counterfactual_results_positive[label] = torch.abs((X_data[:, :, target_idx] - recon_X[:, :, target_idx]) / (X_data[:, :, target_idx] + 1e-6)).mean().item()
@@ -106,9 +162,9 @@ class CausalGraphVAE(nn.Module):
                 # Negative intervention: set cause variable to -1
                 intervention_neg = X_data.clone()
                 intervention_neg[:, :, i] = -1
-                mu, logvar, adj_now_int, adj_lag_int = self.encode(intervention_neg, T_data)
+                mu, logvar, adj_now_int, adj_lag_int,memory = self.encode(intervention_neg,T_data)
                 Z = mu + torch.randn_like(logvar, dtype=torch.float32, device=self.device) * torch.exp(0.5 * logvar)
-                recon_X = self.decode(Z, adj_now_int, adj_lag_int)
+                recon_X = self.decode(Z, adj_now_int, adj_lag_int,memory)
     
                 # Compute normalized deviation for negative intervention
                 counterfactual_results_negative[label] = torch.abs((X_data[:, :, target_idx] - recon_X[:, :, target_idx]) / (X_data[:, :, target_idx] + 1e-6)).mean().item()
@@ -166,7 +222,7 @@ class CausalGraphVAE(nn.Module):
         # Regularization on adjacency matrix (pretrained `prior_adj` should remain mostly intact)
         #prior_loss = lambda_prior * (torch.norm(adj_now - self.prior_adj, p=1) + torch.norm(adj_lag - self.prior_adj, p=1))
     
-        sparsity_loss = torch.norm(adj_now, p=1) * self.instantaneous_weight + torch.norm(adj_lag, p=1) * self.lag_weight
+        #sparsity_loss = torch.norm(adj_now, p=1) * self.instantaneous_weight + torch.norm(adj_lag, p=1) * self.lag_weight
         h_value = (notears_constraint(adj_now) * self.instantaneous_weight + notears_constraint(adj_lag)) * self.lag_weight
     
         self.rho = min(rho_max, 1.0 + (epoch / max_epochs) ** 2)
@@ -176,7 +232,7 @@ class CausalGraphVAE(nn.Module):
         lagrangian_loss = (self.alpha * h_value + 0.5 * self.rho * (h_value ** 2)) #/ (self.num_nodes ** 2)
 
 
-        return recon_loss , kl_loss , sparsity_loss , lagrangian_loss
+        return recon_loss , kl_loss  , lagrangian_loss
 
     def train_model(self, dataloader, optimizer, num_epochs=100, patience=10,BATCH_SIZE=64,rho_max=30.0,alpha_max=15.0):
         best_loss = float('inf')
@@ -189,9 +245,9 @@ class CausalGraphVAE(nn.Module):
                     continue
                 optimizer.zero_grad()
                 recon_X, mu, logvar, adj_now, adj_lag = self.forward(X_batch, time_batch)
-                recon_loss , kl_loss , sparsity_loss , lagrangian_loss = self.loss_function(recon_X, X_batch, mu, logvar, adj_now, 
+                recon_loss , kl_loss , lagrangian_loss = self.loss_function(recon_X, X_batch, mu, logvar, adj_now, 
                                                                                             adj_lag, epoch, num_epochs,rho_max,alpha_max)
-                loss = recon_loss + kl_loss + sparsity_loss + lagrangian_loss 
+                loss = recon_loss + kl_loss + lagrangian_loss 
                 
                 loss.backward()
                 optimizer.step()
@@ -201,7 +257,7 @@ class CausalGraphVAE(nn.Module):
             avg_loss = total_loss / len(dataloader)
             if epoch % 50 == 0:
                 print(f"Epoch {epoch + 1}: Loss = {avg_loss:.4f}")
-                print(f"Recon Loss ={recon_loss:.4f}, KL Loss = {kl_loss:.4f}, Sparsity Loss = {sparsity_loss:.4f}, Lagrangian Loss = {lagrangian_loss:.4f}") 
+                print(f"Recon Loss = {recon_loss:.4f}, KL Loss = {kl_loss:.4f}, Lagrangian Loss = {lagrangian_loss:.4f}") 
 
             
             # Early stopping
@@ -212,5 +268,5 @@ class CausalGraphVAE(nn.Module):
                 patience_counter += 1
                 if patience_counter >= patience:
                     print("Early stopping triggered. Last Epoch: " + str(epoch) )
-                    print(f"Recon Loss ={recon_loss:.4f}, KL Loss = {kl_loss:.4f}, Sparsity Loss = {sparsity_loss:.4f}, Lagrangian Loss = {lagrangian_loss:.4f}") 
+                    print(f"Recon Loss = {recon_loss:.4f}, KL Loss = {kl_loss:.4f}, Lagrangian Loss = {lagrangian_loss:.4f}") 
                     break

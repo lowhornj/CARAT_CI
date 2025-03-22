@@ -1,0 +1,18 @@
+digraph {
+	Input [label="Input Layer"]
+	Encoder_RNN [label="GRU Encoder"]
+	Mu_Layer [label="Latent Mean Layer"]
+	Logvar_Layer [label="Latent LogVar Layer"]
+	Sampling [label="Sampling Z"]
+	Decoder_RNN [label="GRU Decoder"]
+	Decoder_FC [label="Fully Connected Output"]
+	Causal_Graph [label="Temporal Causal Graph"]
+	Input -> Encoder_RNN
+	Encoder_RNN -> Mu_Layer
+	Encoder_RNN -> Logvar_Layer
+	Mu_Layer -> Sampling
+	Logvar_Layer -> Sampling
+	Sampling -> Decoder_RNN
+	Decoder_RNN -> Decoder_FC
+	Decoder_RNN -> Causal_Graph
+}

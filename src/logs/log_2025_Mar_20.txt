@@ -1,0 +1,1098 @@
+2025-03-20 10:48:45,948 INFO -- Edge Accuracy = 100.00, Instantaneous Accuracy = 100.00, Lagged Accuracy = 100.00, Counterfactual Accuracy = 0.00,  Blended Accuracy = 100.00,  RR Accuracy = 0.00  
+2025-03-20 10:50:25,656 INFO -- Edge Accuracy = 100.00, Instantaneous Accuracy = 100.00, Lagged Accuracy = 100.00, Counterfactual Accuracy = 0.00,  Blended Accuracy = 100.00,  RR Accuracy = 50.00  
+2025-03-20 10:55:49,731 INFO -- Edge Accuracy = 100.00, Instantaneous Accuracy = 100.00, Lagged Accuracy = 100.00, Counterfactual Accuracy = 33.33,  Blended Accuracy = 100.00,  RR Accuracy = 66.67  
+2025-03-20 11:00:12,330 INFO -- Edge Accuracy = 75.00, Instantaneous Accuracy = 75.00, Lagged Accuracy = 75.00, Counterfactual Accuracy = 25.00,  Blended Accuracy = 75.00,  RR Accuracy = 75.00  
+2025-03-20 11:04:10,358 INFO -- Edge Accuracy = 60.00, Instantaneous Accuracy = 60.00, Lagged Accuracy = 60.00, Counterfactual Accuracy = 40.00,  Blended Accuracy = 80.00,  RR Accuracy = 80.00  
+2025-03-20 11:07:28,104 INFO -- Edge Accuracy = 50.00, Instantaneous Accuracy = 50.00, Lagged Accuracy = 50.00, Counterfactual Accuracy = 33.33,  Blended Accuracy = 66.67,  RR Accuracy = 66.67  
+2025-03-20 11:10:54,283 INFO -- Edge Accuracy = 57.14, Instantaneous Accuracy = 57.14, Lagged Accuracy = 57.14, Counterfactual Accuracy = 28.57,  Blended Accuracy = 71.43,  RR Accuracy = 71.43  
+2025-03-20 11:12:30,176 INFO -- Edge Accuracy = 62.50, Instantaneous Accuracy = 62.50, Lagged Accuracy = 50.00, Counterfactual Accuracy = 25.00,  Blended Accuracy = 62.50,  RR Accuracy = 62.50  
+2025-03-20 11:14:16,618 INFO -- Edge Accuracy = 55.56, Instantaneous Accuracy = 55.56, Lagged Accuracy = 44.44, Counterfactual Accuracy = 22.22,  Blended Accuracy = 55.56,  RR Accuracy = 55.56  
+2025-03-20 11:18:53,338 INFO -- Edge Accuracy = 50.00, Instantaneous Accuracy = 50.00, Lagged Accuracy = 40.00, Counterfactual Accuracy = 20.00,  Blended Accuracy = 50.00,  RR Accuracy = 60.00  
+2025-03-20 11:51:09,908 INFO -- Edge Accuracy = 100.00, Instantaneous Accuracy = 100.00, Lagged Accuracy = 100.00, Counterfactual Accuracy = 0.00,  Blended Accuracy = 100.00,  RR Accuracy = 100.00  
+2025-03-20 11:55:28,412 INFO -- Edge Accuracy = 100.00, Instantaneous Accuracy = 100.00, Lagged Accuracy = 50.00, Counterfactual Accuracy = 0.00,  Blended Accuracy = 50.00,  RR Accuracy = 50.00  
+2025-03-20 11:59:51,940 INFO -- Edge Accuracy = 100.00, Instantaneous Accuracy = 100.00, Lagged Accuracy = 33.33, Counterfactual Accuracy = 0.00,  Blended Accuracy = 66.67,  RR Accuracy = 33.33  
+2025-03-20 12:05:15,783 INFO -- Edge Accuracy = 0.00, Instantaneous Accuracy = 0.00, Lagged Accuracy = 0.00, Counterfactual Accuracy = 0.00,  Blended Accuracy = 0.00,  RR Accuracy = 100.00  
+2025-03-20 12:08:38,106 INFO -- Edge Accuracy = 0.00, Instantaneous Accuracy = 0.00, Lagged Accuracy = 100.00, Counterfactual Accuracy = 0.00,  Blended Accuracy = 0.00,  RR Accuracy = 0.00  
+2025-03-20 12:10:50,675 INFO -- Edge Accuracy = 0.00, Instantaneous Accuracy = 0.00, Lagged Accuracy = 100.00, Counterfactual Accuracy = 50.00,  Blended Accuracy = 50.00,  RR Accuracy = 0.00  
+2025-03-20 12:13:54,695 INFO -- Edge Accuracy = 0.00, Instantaneous Accuracy = 0.00, Lagged Accuracy = 100.00, Counterfactual Accuracy = 66.67,  Blended Accuracy = 33.33,  RR Accuracy = 0.00  
+2025-03-20 12:18:44,826 INFO -- Edge Accuracy = 0.00, Instantaneous Accuracy = 0.00, Lagged Accuracy = 75.00, Counterfactual Accuracy = 50.00,  Blended Accuracy = 50.00,  RR Accuracy = 0.00  
+2025-03-20 12:22:31,733 INFO -- Edge Accuracy = 0.00, Instantaneous Accuracy = 20.00, Lagged Accuracy = 60.00, Counterfactual Accuracy = 40.00,  Blended Accuracy = 40.00,  RR Accuracy = 20.00  
+2025-03-20 12:26:34,326 INFO -- Edge Accuracy = 16.67, Instantaneous Accuracy = 33.33, Lagged Accuracy = 66.67, Counterfactual Accuracy = 50.00,  Blended Accuracy = 50.00,  RR Accuracy = 33.33  
+2025-03-20 12:30:04,660 INFO -- Edge Accuracy = 28.57, Instantaneous Accuracy = 42.86, Lagged Accuracy = 57.14, Counterfactual Accuracy = 57.14,  Blended Accuracy = 57.14,  RR Accuracy = 28.57  
+2025-03-20 12:33:02,770 INFO -- Edge Accuracy = 25.00, Instantaneous Accuracy = 37.50, Lagged Accuracy = 50.00, Counterfactual Accuracy = 50.00,  Blended Accuracy = 50.00,  RR Accuracy = 25.00  
+2025-03-20 12:35:03,160 INFO -- Edge Accuracy = 0.00, Instantaneous Accuracy = 0.00, Lagged Accuracy = 0.00, Counterfactual Accuracy = 100.00,  Blended Accuracy = 0.00,  RR Accuracy = 100.00  
+2025-03-20 12:36:02,210 INFO -- Edge Accuracy = 50.00, Instantaneous Accuracy = 50.00, Lagged Accuracy = 50.00, Counterfactual Accuracy = 100.00,  Blended Accuracy = 0.00,  RR Accuracy = 50.00  
+2025-03-20 12:37:49,619 INFO -- Edge Accuracy = 33.33, Instantaneous Accuracy = 33.33, Lagged Accuracy = 33.33, Counterfactual Accuracy = 100.00,  Blended Accuracy = 0.00,  RR Accuracy = 66.67  
+2025-03-20 12:39:43,946 INFO -- Edge Accuracy = 50.00, Instantaneous Accuracy = 50.00, Lagged Accuracy = 50.00, Counterfactual Accuracy = 75.00,  Blended Accuracy = 0.00,  RR Accuracy = 50.00  
+2025-03-20 12:40:05,954 INFO -- Edge Accuracy = 60.00, Instantaneous Accuracy = 60.00, Lagged Accuracy = 60.00, Counterfactual Accuracy = 80.00,  Blended Accuracy = 20.00,  RR Accuracy = 40.00  
+2025-03-20 12:41:43,725 INFO -- Edge Accuracy = 66.67, Instantaneous Accuracy = 50.00, Lagged Accuracy = 50.00, Counterfactual Accuracy = 83.33,  Blended Accuracy = 16.67,  RR Accuracy = 33.33  
+2025-03-20 12:43:22,617 INFO -- Edge Accuracy = 71.43, Instantaneous Accuracy = 57.14, Lagged Accuracy = 57.14, Counterfactual Accuracy = 85.71,  Blended Accuracy = 28.57,  RR Accuracy = 42.86  
+2025-03-20 12:44:43,914 INFO -- Edge Accuracy = 62.50, Instantaneous Accuracy = 50.00, Lagged Accuracy = 62.50, Counterfactual Accuracy = 87.50,  Blended Accuracy = 25.00,  RR Accuracy = 50.00  
+2025-03-20 12:45:37,303 INFO -- Edge Accuracy = 55.56, Instantaneous Accuracy = 44.44, Lagged Accuracy = 55.56, Counterfactual Accuracy = 77.78,  Blended Accuracy = 22.22,  RR Accuracy = 44.44  
+2025-03-20 12:47:12,402 INFO -- Edge Accuracy = 50.00, Instantaneous Accuracy = 50.00, Lagged Accuracy = 50.00, Counterfactual Accuracy = 70.00,  Blended Accuracy = 20.00,  RR Accuracy = 40.00  
+2025-03-20 12:49:02,946 INFO -- Edge Accuracy = 54.55, Instantaneous Accuracy = 54.55, Lagged Accuracy = 54.55, Counterfactual Accuracy = 72.73,  Blended Accuracy = 27.27,  RR Accuracy = 45.45  
+2025-03-20 12:50:40,856 INFO -- Edge Accuracy = 58.33, Instantaneous Accuracy = 58.33, Lagged Accuracy = 50.00, Counterfactual Accuracy = 75.00,  Blended Accuracy = 25.00,  RR Accuracy = 50.00  
+2025-03-20 12:51:31,362 INFO -- Edge Accuracy = 53.85, Instantaneous Accuracy = 61.54, Lagged Accuracy = 46.15, Counterfactual Accuracy = 76.92,  Blended Accuracy = 23.08,  RR Accuracy = 53.85  
+2025-03-20 12:53:08,475 INFO -- Edge Accuracy = 57.14, Instantaneous Accuracy = 64.29, Lagged Accuracy = 42.86, Counterfactual Accuracy = 78.57,  Blended Accuracy = 28.57,  RR Accuracy = 50.00  
+2025-03-20 12:54:09,015 INFO -- Edge Accuracy = 53.33, Instantaneous Accuracy = 60.00, Lagged Accuracy = 40.00, Counterfactual Accuracy = 80.00,  Blended Accuracy = 26.67,  RR Accuracy = 46.67  
+2025-03-20 12:55:31,414 INFO -- Edge Accuracy = 56.25, Instantaneous Accuracy = 62.50, Lagged Accuracy = 43.75, Counterfactual Accuracy = 75.00,  Blended Accuracy = 25.00,  RR Accuracy = 43.75  
+2025-03-20 12:57:35,753 INFO -- Edge Accuracy = 58.82, Instantaneous Accuracy = 64.71, Lagged Accuracy = 41.18, Counterfactual Accuracy = 76.47,  Blended Accuracy = 29.41,  RR Accuracy = 47.06  
+2025-03-20 12:59:21,562 INFO -- Edge Accuracy = 61.11, Instantaneous Accuracy = 66.67, Lagged Accuracy = 44.44, Counterfactual Accuracy = 77.78,  Blended Accuracy = 33.33,  RR Accuracy = 44.44  
+2025-03-20 13:00:30,511 INFO -- Edge Accuracy = 57.89, Instantaneous Accuracy = 63.16, Lagged Accuracy = 42.11, Counterfactual Accuracy = 78.95,  Blended Accuracy = 36.84,  RR Accuracy = 42.11  
+2025-03-20 13:01:38,824 INFO -- Edge Accuracy = 60.00, Instantaneous Accuracy = 65.00, Lagged Accuracy = 45.00, Counterfactual Accuracy = 75.00,  Blended Accuracy = 40.00,  RR Accuracy = 45.00  
+2025-03-20 13:03:23,566 INFO -- Edge Accuracy = 61.90, Instantaneous Accuracy = 61.90, Lagged Accuracy = 47.62, Counterfactual Accuracy = 76.19,  Blended Accuracy = 42.86,  RR Accuracy = 47.62  
+2025-03-20 13:04:18,453 INFO -- Edge Accuracy = 63.64, Instantaneous Accuracy = 63.64, Lagged Accuracy = 50.00, Counterfactual Accuracy = 77.27,  Blended Accuracy = 45.45,  RR Accuracy = 50.00  
+2025-03-20 13:05:14,562 INFO -- Edge Accuracy = 65.22, Instantaneous Accuracy = 65.22, Lagged Accuracy = 47.83, Counterfactual Accuracy = 73.91,  Blended Accuracy = 43.48,  RR Accuracy = 47.83  
+2025-03-20 13:07:07,284 INFO -- Edge Accuracy = 66.67, Instantaneous Accuracy = 66.67, Lagged Accuracy = 50.00, Counterfactual Accuracy = 75.00,  Blended Accuracy = 45.83,  RR Accuracy = 50.00  
+2025-03-20 13:08:47,215 INFO -- Edge Accuracy = 68.00, Instantaneous Accuracy = 68.00, Lagged Accuracy = 48.00, Counterfactual Accuracy = 76.00,  Blended Accuracy = 44.00,  RR Accuracy = 52.00  
+2025-03-20 13:10:22,769 INFO -- Edge Accuracy = 69.23, Instantaneous Accuracy = 69.23, Lagged Accuracy = 50.00, Counterfactual Accuracy = 73.08,  Blended Accuracy = 46.15,  RR Accuracy = 53.85  
+2025-03-20 13:11:31,378 INFO -- Edge Accuracy = 66.67, Instantaneous Accuracy = 66.67, Lagged Accuracy = 51.85, Counterfactual Accuracy = 70.37,  Blended Accuracy = 44.44,  RR Accuracy = 55.56  
+2025-03-20 13:12:24,396 INFO -- Edge Accuracy = 67.86, Instantaneous Accuracy = 67.86, Lagged Accuracy = 53.57, Counterfactual Accuracy = 67.86,  Blended Accuracy = 46.43,  RR Accuracy = 57.14  
+2025-03-20 13:12:54,168 INFO -- Edge Accuracy = 68.97, Instantaneous Accuracy = 68.97, Lagged Accuracy = 55.17, Counterfactual Accuracy = 68.97,  Blended Accuracy = 48.28,  RR Accuracy = 58.62  
+2025-03-20 13:13:40,253 INFO -- Edge Accuracy = 70.00, Instantaneous Accuracy = 66.67, Lagged Accuracy = 56.67, Counterfactual Accuracy = 66.67,  Blended Accuracy = 46.67,  RR Accuracy = 56.67  
+2025-03-20 14:05:03,942 INFO -- Edge Accuracy = 100.00, Instantaneous Accuracy = 100.00, Lagged Accuracy = 100.00, Counterfactual Accuracy = 100.00,  Blended Accuracy = 100.00,  RR Accuracy = 0.00  
+2025-03-20 14:06:16,385 INFO -- Edge Accuracy = 50.00, Instantaneous Accuracy = 50.00, Lagged Accuracy = 50.00, Counterfactual Accuracy = 50.00,  Blended Accuracy = 50.00,  RR Accuracy = 0.00  
+2025-03-20 14:07:23,359 INFO -- Edge Accuracy = 66.67, Instantaneous Accuracy = 66.67, Lagged Accuracy = 66.67, Counterfactual Accuracy = 66.67,  Blended Accuracy = 66.67,  RR Accuracy = 0.00  
+2025-03-20 14:08:35,041 INFO -- Edge Accuracy = 50.00, Instantaneous Accuracy = 50.00, Lagged Accuracy = 50.00, Counterfactual Accuracy = 50.00,  Blended Accuracy = 50.00,  RR Accuracy = 25.00  
+2025-03-20 14:09:59,383 INFO -- Edge Accuracy = 40.00, Instantaneous Accuracy = 40.00, Lagged Accuracy = 40.00, Counterfactual Accuracy = 40.00,  Blended Accuracy = 40.00,  RR Accuracy = 20.00  
+2025-03-20 14:11:30,298 INFO -- Edge Accuracy = 33.33, Instantaneous Accuracy = 33.33, Lagged Accuracy = 33.33, Counterfactual Accuracy = 33.33,  Blended Accuracy = 33.33,  RR Accuracy = 16.67  
+2025-03-20 14:13:33,459 INFO -- Edge Accuracy = 100.00, Instantaneous Accuracy = 0.00, Lagged Accuracy = 100.00, Counterfactual Accuracy = 0.00,  Blended Accuracy = 0.00,  RR Accuracy = 100.00  
+2025-03-20 14:14:51,670 INFO -- Edge Accuracy = 50.00, Instantaneous Accuracy = 0.00, Lagged Accuracy = 50.00, Counterfactual Accuracy = 0.00,  Blended Accuracy = 0.00,  RR Accuracy = 100.00  
+2025-03-20 14:16:03,328 INFO -- Edge Accuracy = 33.33, Instantaneous Accuracy = 0.00, Lagged Accuracy = 33.33, Counterfactual Accuracy = 33.33,  Blended Accuracy = 0.00,  RR Accuracy = 66.67  
+2025-03-20 14:17:17,120 INFO -- Edge Accuracy = 25.00, Instantaneous Accuracy = 0.00, Lagged Accuracy = 25.00, Counterfactual Accuracy = 50.00,  Blended Accuracy = 25.00,  RR Accuracy = 50.00  
+2025-03-20 14:18:25,523 INFO -- Edge Accuracy = 40.00, Instantaneous Accuracy = 20.00, Lagged Accuracy = 40.00, Counterfactual Accuracy = 60.00,  Blended Accuracy = 40.00,  RR Accuracy = 40.00  
+2025-03-20 14:19:41,309 INFO -- Edge Accuracy = 33.33, Instantaneous Accuracy = 16.67, Lagged Accuracy = 33.33, Counterfactual Accuracy = 50.00,  Blended Accuracy = 33.33,  RR Accuracy = 50.00  
+2025-03-20 14:20:51,528 INFO -- Edge Accuracy = 42.86, Instantaneous Accuracy = 28.57, Lagged Accuracy = 42.86, Counterfactual Accuracy = 42.86,  Blended Accuracy = 28.57,  RR Accuracy = 42.86  
+2025-03-20 14:21:18,731 INFO -- Edge Accuracy = 37.50, Instantaneous Accuracy = 25.00, Lagged Accuracy = 50.00, Counterfactual Accuracy = 37.50,  Blended Accuracy = 25.00,  RR Accuracy = 37.50  
+2025-03-20 14:22:39,670 INFO -- Edge Accuracy = 33.33, Instantaneous Accuracy = 22.22, Lagged Accuracy = 44.44, Counterfactual Accuracy = 33.33,  Blended Accuracy = 22.22,  RR Accuracy = 44.44  
+2025-03-20 14:24:06,614 INFO -- Edge Accuracy = 30.00, Instantaneous Accuracy = 20.00, Lagged Accuracy = 50.00, Counterfactual Accuracy = 30.00,  Blended Accuracy = 20.00,  RR Accuracy = 40.00  
+2025-03-20 14:34:32,690 INFO -- Edge Accuracy = 100.00, Instantaneous Accuracy = 100.00, Lagged Accuracy = 0.00, Counterfactual Accuracy = 0.00,  Blended Accuracy = 100.00,  RR Accuracy = 0.00  
+2025-03-20 14:35:48,944 INFO -- Edge Accuracy = 100.00, Instantaneous Accuracy = 100.00, Lagged Accuracy = 50.00, Counterfactual Accuracy = 50.00,  Blended Accuracy = 100.00,  RR Accuracy = 50.00  
+2025-03-20 14:37:05,420 INFO -- Edge Accuracy = 66.67, Instantaneous Accuracy = 66.67, Lagged Accuracy = 33.33, Counterfactual Accuracy = 66.67,  Blended Accuracy = 100.00,  RR Accuracy = 66.67  
+2025-03-20 14:38:21,414 INFO -- Edge Accuracy = 75.00, Instantaneous Accuracy = 75.00, Lagged Accuracy = 50.00, Counterfactual Accuracy = 50.00,  Blended Accuracy = 100.00,  RR Accuracy = 75.00  
+2025-03-20 14:39:20,214 INFO -- Edge Accuracy = 60.00, Instantaneous Accuracy = 60.00, Lagged Accuracy = 60.00, Counterfactual Accuracy = 40.00,  Blended Accuracy = 80.00,  RR Accuracy = 60.00  
+2025-03-20 14:40:20,788 INFO -- Edge Accuracy = 66.67, Instantaneous Accuracy = 66.67, Lagged Accuracy = 66.67, Counterfactual Accuracy = 50.00,  Blended Accuracy = 83.33,  RR Accuracy = 66.67  
+2025-03-20 14:41:33,328 INFO -- Edge Accuracy = 71.43, Instantaneous Accuracy = 71.43, Lagged Accuracy = 71.43, Counterfactual Accuracy = 42.86,  Blended Accuracy = 71.43,  RR Accuracy = 71.43  
+2025-03-20 14:42:37,392 INFO -- Edge Accuracy = 75.00, Instantaneous Accuracy = 75.00, Lagged Accuracy = 62.50, Counterfactual Accuracy = 37.50,  Blended Accuracy = 62.50,  RR Accuracy = 62.50  
+2025-03-20 14:43:14,075 INFO -- Edge Accuracy = 66.67, Instantaneous Accuracy = 66.67, Lagged Accuracy = 55.56, Counterfactual Accuracy = 33.33,  Blended Accuracy = 55.56,  RR Accuracy = 66.67  
+2025-03-20 14:43:59,582 INFO -- Edge Accuracy = 0.00, Instantaneous Accuracy = 0.00, Lagged Accuracy = 0.00, Counterfactual Accuracy = 0.00,  Blended Accuracy = 0.00,  RR Accuracy = 100.00  
+2025-03-20 14:46:35,687 INFO -- Edge Accuracy = 100.00, Instantaneous Accuracy = 100.00, Lagged Accuracy = 100.00, Counterfactual Accuracy = 0.00,  Blended Accuracy = 100.00,  RR Accuracy = 100.00  
+2025-03-20 14:47:38,459 INFO -- Edge Accuracy = 100.00, Instantaneous Accuracy = 100.00, Lagged Accuracy = 100.00, Counterfactual Accuracy = 50.00,  Blended Accuracy = 100.00,  RR Accuracy = 100.00  
+2025-03-20 14:48:02,753 INFO -- Edge Accuracy = 66.67, Instantaneous Accuracy = 66.67, Lagged Accuracy = 100.00, Counterfactual Accuracy = 33.33,  Blended Accuracy = 100.00,  RR Accuracy = 66.67  
+2025-03-20 14:48:34,986 INFO -- Edge Accuracy = 50.00, Instantaneous Accuracy = 50.00, Lagged Accuracy = 75.00, Counterfactual Accuracy = 25.00,  Blended Accuracy = 75.00,  RR Accuracy = 50.00  
+2025-03-20 14:49:06,433 INFO -- Edge Accuracy = 60.00, Instantaneous Accuracy = 60.00, Lagged Accuracy = 80.00, Counterfactual Accuracy = 40.00,  Blended Accuracy = 80.00,  RR Accuracy = 60.00  
+2025-03-20 14:50:17,561 INFO -- Edge Accuracy = 66.67, Instantaneous Accuracy = 66.67, Lagged Accuracy = 83.33, Counterfactual Accuracy = 33.33,  Blended Accuracy = 66.67,  RR Accuracy = 50.00  
+2025-03-20 14:50:43,397 INFO -- Edge Accuracy = 71.43, Instantaneous Accuracy = 57.14, Lagged Accuracy = 85.71, Counterfactual Accuracy = 28.57,  Blended Accuracy = 57.14,  RR Accuracy = 42.86  
+2025-03-20 14:50:57,568 INFO -- Edge Accuracy = 75.00, Instantaneous Accuracy = 62.50, Lagged Accuracy = 75.00, Counterfactual Accuracy = 37.50,  Blended Accuracy = 62.50,  RR Accuracy = 37.50  
+2025-03-20 14:51:38,885 INFO -- Edge Accuracy = 100.00, Instantaneous Accuracy = 100.00, Lagged Accuracy = 0.00, Counterfactual Accuracy = 100.00,  Blended Accuracy = 100.00,  RR Accuracy = 0.00  
+2025-03-20 14:51:59,392 INFO -- Edge Accuracy = 50.00, Instantaneous Accuracy = 50.00, Lagged Accuracy = 0.00, Counterfactual Accuracy = 100.00,  Blended Accuracy = 50.00,  RR Accuracy = 50.00  
+2025-03-20 14:52:15,643 INFO -- Edge Accuracy = 66.67, Instantaneous Accuracy = 66.67, Lagged Accuracy = 33.33, Counterfactual Accuracy = 100.00,  Blended Accuracy = 33.33,  RR Accuracy = 33.33  
+2025-03-20 14:52:55,174 INFO -- Edge Accuracy = 50.00, Instantaneous Accuracy = 75.00, Lagged Accuracy = 25.00, Counterfactual Accuracy = 75.00,  Blended Accuracy = 25.00,  RR Accuracy = 50.00  
+2025-03-20 14:53:14,624 INFO -- Edge Accuracy = 60.00, Instantaneous Accuracy = 80.00, Lagged Accuracy = 40.00, Counterfactual Accuracy = 60.00,  Blended Accuracy = 40.00,  RR Accuracy = 40.00  
+2025-03-20 14:53:45,787 INFO -- Edge Accuracy = 66.67, Instantaneous Accuracy = 83.33, Lagged Accuracy = 50.00, Counterfactual Accuracy = 50.00,  Blended Accuracy = 50.00,  RR Accuracy = 50.00  
+2025-03-20 14:54:20,255 INFO -- Edge Accuracy = 100.00, Instantaneous Accuracy = 100.00, Lagged Accuracy = 0.00, Counterfactual Accuracy = 0.00,  Blended Accuracy = 0.00,  RR Accuracy = 0.00  
+2025-03-20 14:55:01,557 INFO -- Edge Accuracy = 0.00, Instantaneous Accuracy = 0.00, Lagged Accuracy = 0.00, Counterfactual Accuracy = 100.00,  Blended Accuracy = 0.00,  RR Accuracy = 0.00  
+2025-03-20 14:55:42,805 INFO -- Edge Accuracy = 0.00, Instantaneous Accuracy = 0.00, Lagged Accuracy = 0.00, Counterfactual Accuracy = 100.00,  Blended Accuracy = 0.00,  RR Accuracy = 50.00  
+2025-03-20 14:56:08,086 INFO -- Edge Accuracy = 33.33, Instantaneous Accuracy = 33.33, Lagged Accuracy = 33.33, Counterfactual Accuracy = 66.67,  Blended Accuracy = 33.33,  RR Accuracy = 66.67  
+2025-03-20 14:56:27,963 INFO -- Edge Accuracy = 50.00, Instantaneous Accuracy = 50.00, Lagged Accuracy = 25.00, Counterfactual Accuracy = 50.00,  Blended Accuracy = 25.00,  RR Accuracy = 50.00  
+2025-03-20 14:57:06,661 INFO -- Edge Accuracy = 40.00, Instantaneous Accuracy = 40.00, Lagged Accuracy = 20.00, Counterfactual Accuracy = 60.00,  Blended Accuracy = 20.00,  RR Accuracy = 60.00  
+2025-03-20 14:58:02,599 INFO -- Edge Accuracy = 0.00, Instantaneous Accuracy = 0.00, Lagged Accuracy = 0.00, Counterfactual Accuracy = 100.00,  Blended Accuracy = 0.00,  RR Accuracy = 0.00  
+2025-03-20 14:58:14,071 INFO -- Edge Accuracy = 50.00, Instantaneous Accuracy = 50.00, Lagged Accuracy = 50.00, Counterfactual Accuracy = 50.00,  Blended Accuracy = 50.00,  RR Accuracy = 50.00  
+2025-03-20 14:58:37,768 INFO -- Edge Accuracy = 66.67, Instantaneous Accuracy = 66.67, Lagged Accuracy = 66.67, Counterfactual Accuracy = 66.67,  Blended Accuracy = 66.67,  RR Accuracy = 33.33  
+2025-03-20 14:59:19,396 INFO -- Edge Accuracy = 50.00, Instantaneous Accuracy = 50.00, Lagged Accuracy = 50.00, Counterfactual Accuracy = 50.00,  Blended Accuracy = 50.00,  RR Accuracy = 25.00  
+2025-03-20 14:59:50,129 INFO -- Edge Accuracy = 40.00, Instantaneous Accuracy = 40.00, Lagged Accuracy = 60.00, Counterfactual Accuracy = 40.00,  Blended Accuracy = 40.00,  RR Accuracy = 20.00  
+2025-03-20 15:00:30,968 INFO -- Edge Accuracy = 33.33, Instantaneous Accuracy = 33.33, Lagged Accuracy = 50.00, Counterfactual Accuracy = 50.00,  Blended Accuracy = 33.33,  RR Accuracy = 33.33  
+2025-03-20 15:01:16,013 INFO -- Edge Accuracy = 42.86, Instantaneous Accuracy = 42.86, Lagged Accuracy = 42.86, Counterfactual Accuracy = 57.14,  Blended Accuracy = 42.86,  RR Accuracy = 42.86  
+2025-03-20 15:02:02,536 INFO -- Edge Accuracy = 50.00, Instantaneous Accuracy = 50.00, Lagged Accuracy = 50.00, Counterfactual Accuracy = 50.00,  Blended Accuracy = 50.00,  RR Accuracy = 50.00  
+2025-03-20 15:02:15,763 INFO -- Edge Accuracy = 55.56, Instantaneous Accuracy = 55.56, Lagged Accuracy = 55.56, Counterfactual Accuracy = 55.56,  Blended Accuracy = 55.56,  RR Accuracy = 55.56  
+2025-03-20 15:03:23,319 INFO -- Edge Accuracy = 100.00, Instantaneous Accuracy = 100.00, Lagged Accuracy = 0.00, Counterfactual Accuracy = 0.00,  Blended Accuracy = 0.00,  RR Accuracy = 100.00  
+2025-03-20 15:04:10,221 INFO -- Edge Accuracy = 50.00, Instantaneous Accuracy = 50.00, Lagged Accuracy = 0.00, Counterfactual Accuracy = 50.00,  Blended Accuracy = 0.00,  RR Accuracy = 100.00  
+2025-03-20 15:04:22,133 INFO -- Edge Accuracy = 33.33, Instantaneous Accuracy = 66.67, Lagged Accuracy = 0.00, Counterfactual Accuracy = 66.67,  Blended Accuracy = 0.00,  RR Accuracy = 100.00  
+2025-03-20 15:04:56,916 INFO -- Edge Accuracy = 25.00, Instantaneous Accuracy = 50.00, Lagged Accuracy = 0.00, Counterfactual Accuracy = 50.00,  Blended Accuracy = 0.00,  RR Accuracy = 75.00  
+2025-03-20 15:05:17,491 INFO -- Edge Accuracy = 40.00, Instantaneous Accuracy = 40.00, Lagged Accuracy = 20.00, Counterfactual Accuracy = 60.00,  Blended Accuracy = 20.00,  RR Accuracy = 80.00  
+2025-03-20 15:05:27,315 INFO -- Edge Accuracy = 50.00, Instantaneous Accuracy = 50.00, Lagged Accuracy = 33.33, Counterfactual Accuracy = 66.67,  Blended Accuracy = 33.33,  RR Accuracy = 83.33  
+2025-03-20 15:05:37,604 INFO -- Edge Accuracy = 42.86, Instantaneous Accuracy = 42.86, Lagged Accuracy = 28.57, Counterfactual Accuracy = 71.43,  Blended Accuracy = 28.57,  RR Accuracy = 71.43  
+2025-03-20 15:05:49,738 INFO -- Edge Accuracy = 37.50, Instantaneous Accuracy = 37.50, Lagged Accuracy = 37.50, Counterfactual Accuracy = 62.50,  Blended Accuracy = 25.00,  RR Accuracy = 62.50  
+2025-03-20 15:06:22,864 INFO -- Edge Accuracy = 33.33, Instantaneous Accuracy = 33.33, Lagged Accuracy = 44.44, Counterfactual Accuracy = 66.67,  Blended Accuracy = 22.22,  RR Accuracy = 55.56  
+2025-03-20 15:06:31,146 INFO -- Edge Accuracy = 30.00, Instantaneous Accuracy = 30.00, Lagged Accuracy = 40.00, Counterfactual Accuracy = 70.00,  Blended Accuracy = 20.00,  RR Accuracy = 50.00  
+2025-03-20 15:07:15,901 INFO -- Edge Accuracy = 36.36, Instantaneous Accuracy = 36.36, Lagged Accuracy = 45.45, Counterfactual Accuracy = 63.64,  Blended Accuracy = 18.18,  RR Accuracy = 45.45  
+2025-03-20 15:07:31,820 INFO -- Edge Accuracy = 33.33, Instantaneous Accuracy = 33.33, Lagged Accuracy = 41.67, Counterfactual Accuracy = 66.67,  Blended Accuracy = 16.67,  RR Accuracy = 50.00  
+2025-03-20 15:07:41,774 INFO -- Edge Accuracy = 38.46, Instantaneous Accuracy = 38.46, Lagged Accuracy = 38.46, Counterfactual Accuracy = 61.54,  Blended Accuracy = 23.08,  RR Accuracy = 46.15  
+2025-03-20 15:07:58,537 INFO -- Edge Accuracy = 42.86, Instantaneous Accuracy = 42.86, Lagged Accuracy = 42.86, Counterfactual Accuracy = 57.14,  Blended Accuracy = 21.43,  RR Accuracy = 42.86  
+2025-03-20 15:08:07,505 INFO -- Edge Accuracy = 40.00, Instantaneous Accuracy = 40.00, Lagged Accuracy = 40.00, Counterfactual Accuracy = 60.00,  Blended Accuracy = 20.00,  RR Accuracy = 40.00  
+2025-03-20 15:08:17,800 INFO -- Edge Accuracy = 43.75, Instantaneous Accuracy = 43.75, Lagged Accuracy = 43.75, Counterfactual Accuracy = 56.25,  Blended Accuracy = 25.00,  RR Accuracy = 37.50  
+2025-03-20 15:08:28,511 INFO -- Edge Accuracy = 47.06, Instantaneous Accuracy = 47.06, Lagged Accuracy = 47.06, Counterfactual Accuracy = 58.82,  Blended Accuracy = 29.41,  RR Accuracy = 35.29  
+2025-03-20 15:08:46,425 INFO -- Edge Accuracy = 44.44, Instantaneous Accuracy = 50.00, Lagged Accuracy = 44.44, Counterfactual Accuracy = 61.11,  Blended Accuracy = 33.33,  RR Accuracy = 33.33  
+2025-03-20 15:08:56,264 INFO -- Edge Accuracy = 47.37, Instantaneous Accuracy = 52.63, Lagged Accuracy = 42.11, Counterfactual Accuracy = 63.16,  Blended Accuracy = 36.84,  RR Accuracy = 31.58  
+2025-03-20 15:09:16,697 INFO -- Edge Accuracy = 50.00, Instantaneous Accuracy = 55.00, Lagged Accuracy = 45.00, Counterfactual Accuracy = 60.00,  Blended Accuracy = 40.00,  RR Accuracy = 35.00  
+2025-03-20 15:09:32,855 INFO -- Edge Accuracy = 47.62, Instantaneous Accuracy = 52.38, Lagged Accuracy = 42.86, Counterfactual Accuracy = 61.90,  Blended Accuracy = 38.10,  RR Accuracy = 38.10  
+2025-03-20 15:09:50,555 INFO -- Edge Accuracy = 45.45, Instantaneous Accuracy = 50.00, Lagged Accuracy = 45.45, Counterfactual Accuracy = 63.64,  Blended Accuracy = 40.91,  RR Accuracy = 40.91  
+2025-03-20 15:09:59,383 INFO -- Edge Accuracy = 47.83, Instantaneous Accuracy = 47.83, Lagged Accuracy = 47.83, Counterfactual Accuracy = 65.22,  Blended Accuracy = 43.48,  RR Accuracy = 43.48  
+2025-03-20 15:10:36,456 INFO -- Edge Accuracy = 45.83, Instantaneous Accuracy = 45.83, Lagged Accuracy = 45.83, Counterfactual Accuracy = 66.67,  Blended Accuracy = 41.67,  RR Accuracy = 41.67  
+2025-03-20 15:10:50,313 INFO -- Edge Accuracy = 44.00, Instantaneous Accuracy = 44.00, Lagged Accuracy = 44.00, Counterfactual Accuracy = 68.00,  Blended Accuracy = 40.00,  RR Accuracy = 40.00  
+2025-03-20 15:11:16,646 INFO -- Edge Accuracy = 46.15, Instantaneous Accuracy = 46.15, Lagged Accuracy = 46.15, Counterfactual Accuracy = 65.38,  Blended Accuracy = 42.31,  RR Accuracy = 42.31  
+2025-03-20 15:11:26,046 INFO -- Edge Accuracy = 48.15, Instantaneous Accuracy = 44.44, Lagged Accuracy = 48.15, Counterfactual Accuracy = 62.96,  Blended Accuracy = 44.44,  RR Accuracy = 40.74  
+2025-03-20 15:11:57,940 INFO -- Edge Accuracy = 50.00, Instantaneous Accuracy = 46.43, Lagged Accuracy = 46.43, Counterfactual Accuracy = 64.29,  Blended Accuracy = 46.43,  RR Accuracy = 42.86  
+2025-03-20 15:12:11,857 INFO -- Edge Accuracy = 51.72, Instantaneous Accuracy = 48.28, Lagged Accuracy = 48.28, Counterfactual Accuracy = 65.52,  Blended Accuracy = 48.28,  RR Accuracy = 44.83  
+2025-03-20 15:12:26,831 INFO -- Edge Accuracy = 50.00, Instantaneous Accuracy = 46.67, Lagged Accuracy = 50.00, Counterfactual Accuracy = 66.67,  Blended Accuracy = 50.00,  RR Accuracy = 46.67  
+2025-03-20 15:13:04,894 INFO -- Edge Accuracy = 100.00, Instantaneous Accuracy = 100.00, Lagged Accuracy = 100.00, Counterfactual Accuracy = 100.00,  Blended Accuracy = 100.00,  RR Accuracy = 0.00  
+2025-03-20 15:13:26,508 INFO -- Edge Accuracy = 100.00, Instantaneous Accuracy = 100.00, Lagged Accuracy = 100.00, Counterfactual Accuracy = 50.00,  Blended Accuracy = 100.00,  RR Accuracy = 0.00  
+2025-03-20 15:13:44,417 INFO -- Edge Accuracy = 100.00, Instantaneous Accuracy = 100.00, Lagged Accuracy = 100.00, Counterfactual Accuracy = 33.33,  Blended Accuracy = 100.00,  RR Accuracy = 33.33  
+2025-03-20 15:13:54,317 INFO -- Edge Accuracy = 75.00, Instantaneous Accuracy = 100.00, Lagged Accuracy = 100.00, Counterfactual Accuracy = 25.00,  Blended Accuracy = 75.00,  RR Accuracy = 25.00  
+2025-03-20 15:14:10,297 INFO -- Edge Accuracy = 60.00, Instantaneous Accuracy = 80.00, Lagged Accuracy = 100.00, Counterfactual Accuracy = 20.00,  Blended Accuracy = 60.00,  RR Accuracy = 20.00  
+2025-03-20 15:14:22,793 INFO -- Edge Accuracy = 66.67, Instantaneous Accuracy = 83.33, Lagged Accuracy = 83.33, Counterfactual Accuracy = 33.33,  Blended Accuracy = 66.67,  RR Accuracy = 16.67  
+2025-03-20 15:14:38,392 INFO -- Edge Accuracy = 71.43, Instantaneous Accuracy = 85.71, Lagged Accuracy = 85.71, Counterfactual Accuracy = 28.57,  Blended Accuracy = 71.43,  RR Accuracy = 28.57  
+2025-03-20 15:14:47,469 INFO -- Edge Accuracy = 62.50, Instantaneous Accuracy = 75.00, Lagged Accuracy = 87.50, Counterfactual Accuracy = 37.50,  Blended Accuracy = 62.50,  RR Accuracy = 25.00  
+2025-03-20 15:15:03,444 INFO -- Edge Accuracy = 55.56, Instantaneous Accuracy = 66.67, Lagged Accuracy = 88.89, Counterfactual Accuracy = 44.44,  Blended Accuracy = 55.56,  RR Accuracy = 33.33  
+2025-03-20 15:15:15,441 INFO -- Edge Accuracy = 60.00, Instantaneous Accuracy = 60.00, Lagged Accuracy = 90.00, Counterfactual Accuracy = 40.00,  Blended Accuracy = 60.00,  RR Accuracy = 30.00  
+2025-03-20 15:15:32,190 INFO -- Edge Accuracy = 63.64, Instantaneous Accuracy = 63.64, Lagged Accuracy = 90.91, Counterfactual Accuracy = 45.45,  Blended Accuracy = 63.64,  RR Accuracy = 27.27  
+2025-03-20 15:15:49,859 INFO -- Edge Accuracy = 66.67, Instantaneous Accuracy = 66.67, Lagged Accuracy = 91.67, Counterfactual Accuracy = 41.67,  Blended Accuracy = 66.67,  RR Accuracy = 33.33  
+2025-03-20 15:15:59,978 INFO -- Edge Accuracy = 61.54, Instantaneous Accuracy = 61.54, Lagged Accuracy = 92.31, Counterfactual Accuracy = 38.46,  Blended Accuracy = 61.54,  RR Accuracy = 38.46  
+2025-03-20 15:16:11,696 INFO -- Edge Accuracy = 64.29, Instantaneous Accuracy = 64.29, Lagged Accuracy = 85.71, Counterfactual Accuracy = 42.86,  Blended Accuracy = 57.14,  RR Accuracy = 35.71  
+2025-03-20 15:16:44,919 INFO -- Edge Accuracy = 60.00, Instantaneous Accuracy = 60.00, Lagged Accuracy = 80.00, Counterfactual Accuracy = 40.00,  Blended Accuracy = 53.33,  RR Accuracy = 40.00  
+2025-03-20 15:16:59,860 INFO -- Edge Accuracy = 56.25, Instantaneous Accuracy = 56.25, Lagged Accuracy = 75.00, Counterfactual Accuracy = 43.75,  Blended Accuracy = 50.00,  RR Accuracy = 43.75  
+2025-03-20 15:17:13,868 INFO -- Edge Accuracy = 58.82, Instantaneous Accuracy = 58.82, Lagged Accuracy = 76.47, Counterfactual Accuracy = 41.18,  Blended Accuracy = 52.94,  RR Accuracy = 47.06  
+2025-03-20 15:17:26,692 INFO -- Edge Accuracy = 55.56, Instantaneous Accuracy = 55.56, Lagged Accuracy = 77.78, Counterfactual Accuracy = 44.44,  Blended Accuracy = 55.56,  RR Accuracy = 44.44  
+2025-03-20 15:17:51,711 INFO -- Edge Accuracy = 52.63, Instantaneous Accuracy = 52.63, Lagged Accuracy = 73.68, Counterfactual Accuracy = 47.37,  Blended Accuracy = 52.63,  RR Accuracy = 42.11  
+2025-03-20 15:18:17,734 INFO -- Edge Accuracy = 55.00, Instantaneous Accuracy = 55.00, Lagged Accuracy = 75.00, Counterfactual Accuracy = 50.00,  Blended Accuracy = 55.00,  RR Accuracy = 40.00  
+2025-03-20 15:18:30,038 INFO -- Edge Accuracy = 57.14, Instantaneous Accuracy = 57.14, Lagged Accuracy = 76.19, Counterfactual Accuracy = 52.38,  Blended Accuracy = 57.14,  RR Accuracy = 38.10  
+2025-03-20 15:18:46,821 INFO -- Edge Accuracy = 59.09, Instantaneous Accuracy = 59.09, Lagged Accuracy = 77.27, Counterfactual Accuracy = 50.00,  Blended Accuracy = 59.09,  RR Accuracy = 36.36  
+2025-03-20 15:18:56,707 INFO -- Edge Accuracy = 60.87, Instantaneous Accuracy = 60.87, Lagged Accuracy = 73.91, Counterfactual Accuracy = 52.17,  Blended Accuracy = 56.52,  RR Accuracy = 34.78  
+2025-03-20 15:19:15,862 INFO -- Edge Accuracy = 58.33, Instantaneous Accuracy = 58.33, Lagged Accuracy = 70.83, Counterfactual Accuracy = 50.00,  Blended Accuracy = 54.17,  RR Accuracy = 37.50  
+2025-03-20 15:20:07,477 INFO -- Edge Accuracy = 100.00, Instantaneous Accuracy = 0.00, Lagged Accuracy = 100.00, Counterfactual Accuracy = 100.00,  Blended Accuracy = 0.00,  RR Accuracy = 100.00  
+2025-03-20 15:20:43,914 INFO -- Edge Accuracy = 50.00, Instantaneous Accuracy = 50.00, Lagged Accuracy = 50.00, Counterfactual Accuracy = 100.00,  Blended Accuracy = 0.00,  RR Accuracy = 50.00  
+2025-03-20 15:21:20,255 INFO -- Edge Accuracy = 66.67, Instantaneous Accuracy = 66.67, Lagged Accuracy = 66.67, Counterfactual Accuracy = 66.67,  Blended Accuracy = 33.33,  RR Accuracy = 66.67  
+2025-03-20 15:21:39,269 INFO -- Edge Accuracy = 75.00, Instantaneous Accuracy = 50.00, Lagged Accuracy = 75.00, Counterfactual Accuracy = 75.00,  Blended Accuracy = 50.00,  RR Accuracy = 75.00  
+2025-03-20 15:21:51,544 INFO -- Edge Accuracy = 80.00, Instantaneous Accuracy = 60.00, Lagged Accuracy = 60.00, Counterfactual Accuracy = 60.00,  Blended Accuracy = 40.00,  RR Accuracy = 60.00  
+2025-03-20 15:22:15,229 INFO -- Edge Accuracy = 66.67, Instantaneous Accuracy = 50.00, Lagged Accuracy = 50.00, Counterfactual Accuracy = 66.67,  Blended Accuracy = 33.33,  RR Accuracy = 66.67  
+2025-03-20 15:22:31,524 INFO -- Edge Accuracy = 57.14, Instantaneous Accuracy = 42.86, Lagged Accuracy = 57.14, Counterfactual Accuracy = 71.43,  Blended Accuracy = 28.57,  RR Accuracy = 57.14  
+2025-03-20 15:22:53,552 INFO -- Edge Accuracy = 50.00, Instantaneous Accuracy = 50.00, Lagged Accuracy = 62.50, Counterfactual Accuracy = 62.50,  Blended Accuracy = 37.50,  RR Accuracy = 50.00  
+2025-03-20 15:23:05,286 INFO -- Edge Accuracy = 55.56, Instantaneous Accuracy = 55.56, Lagged Accuracy = 55.56, Counterfactual Accuracy = 66.67,  Blended Accuracy = 44.44,  RR Accuracy = 55.56  
+2025-03-20 15:23:19,094 INFO -- Edge Accuracy = 50.00, Instantaneous Accuracy = 50.00, Lagged Accuracy = 50.00, Counterfactual Accuracy = 70.00,  Blended Accuracy = 40.00,  RR Accuracy = 50.00  
+2025-03-20 15:23:56,914 INFO -- Edge Accuracy = 45.45, Instantaneous Accuracy = 45.45, Lagged Accuracy = 45.45, Counterfactual Accuracy = 63.64,  Blended Accuracy = 36.36,  RR Accuracy = 45.45  
+2025-03-20 15:24:22,942 INFO -- Edge Accuracy = 50.00, Instantaneous Accuracy = 50.00, Lagged Accuracy = 50.00, Counterfactual Accuracy = 66.67,  Blended Accuracy = 41.67,  RR Accuracy = 50.00  
+2025-03-20 15:25:07,436 INFO -- Edge Accuracy = 53.85, Instantaneous Accuracy = 46.15, Lagged Accuracy = 53.85, Counterfactual Accuracy = 69.23,  Blended Accuracy = 46.15,  RR Accuracy = 53.85  
+2025-03-20 15:25:24,921 INFO -- Edge Accuracy = 50.00, Instantaneous Accuracy = 42.86, Lagged Accuracy = 50.00, Counterfactual Accuracy = 64.29,  Blended Accuracy = 42.86,  RR Accuracy = 50.00  
+2025-03-20 15:25:43,605 INFO -- Edge Accuracy = 53.33, Instantaneous Accuracy = 40.00, Lagged Accuracy = 53.33, Counterfactual Accuracy = 66.67,  Blended Accuracy = 46.67,  RR Accuracy = 53.33  
+2025-03-20 15:25:55,385 INFO -- Edge Accuracy = 50.00, Instantaneous Accuracy = 37.50, Lagged Accuracy = 50.00, Counterfactual Accuracy = 62.50,  Blended Accuracy = 43.75,  RR Accuracy = 50.00  
+2025-03-20 15:26:18,570 INFO -- Edge Accuracy = 47.06, Instantaneous Accuracy = 35.29, Lagged Accuracy = 52.94, Counterfactual Accuracy = 58.82,  Blended Accuracy = 41.18,  RR Accuracy = 52.94  
+2025-03-20 15:26:38,866 INFO -- Edge Accuracy = 50.00, Instantaneous Accuracy = 38.89, Lagged Accuracy = 55.56, Counterfactual Accuracy = 55.56,  Blended Accuracy = 44.44,  RR Accuracy = 55.56  
+2025-03-20 15:27:41,163 INFO -- Edge Accuracy = 100.00, Instantaneous Accuracy = 100.00, Lagged Accuracy = 100.00, Counterfactual Accuracy = 0.00,  Blended Accuracy = 100.00,  RR Accuracy = 100.00  
+2025-03-20 15:28:30,300 INFO -- Edge Accuracy = 100.00, Instantaneous Accuracy = 100.00, Lagged Accuracy = 100.00, Counterfactual Accuracy = 0.00,  Blended Accuracy = 50.00,  RR Accuracy = 100.00  
+2025-03-20 15:28:54,151 INFO -- Edge Accuracy = 100.00, Instantaneous Accuracy = 100.00, Lagged Accuracy = 100.00, Counterfactual Accuracy = 33.33,  Blended Accuracy = 66.67,  RR Accuracy = 66.67  
+2025-03-20 15:29:05,293 INFO -- Edge Accuracy = 100.00, Instantaneous Accuracy = 100.00, Lagged Accuracy = 100.00, Counterfactual Accuracy = 25.00,  Blended Accuracy = 75.00,  RR Accuracy = 50.00  
+2025-03-20 15:29:19,561 INFO -- Edge Accuracy = 100.00, Instantaneous Accuracy = 100.00, Lagged Accuracy = 80.00, Counterfactual Accuracy = 20.00,  Blended Accuracy = 80.00,  RR Accuracy = 40.00  
+2025-03-20 15:29:29,030 INFO -- Edge Accuracy = 100.00, Instantaneous Accuracy = 100.00, Lagged Accuracy = 83.33, Counterfactual Accuracy = 33.33,  Blended Accuracy = 66.67,  RR Accuracy = 50.00  
+2025-03-20 15:29:46,488 INFO -- Edge Accuracy = 100.00, Instantaneous Accuracy = 85.71, Lagged Accuracy = 85.71, Counterfactual Accuracy = 42.86,  Blended Accuracy = 57.14,  RR Accuracy = 57.14  
+2025-03-20 15:30:17,200 INFO -- Edge Accuracy = 100.00, Instantaneous Accuracy = 75.00, Lagged Accuracy = 87.50, Counterfactual Accuracy = 37.50,  Blended Accuracy = 50.00,  RR Accuracy = 50.00  
+2025-03-20 15:30:26,998 INFO -- Edge Accuracy = 88.89, Instantaneous Accuracy = 66.67, Lagged Accuracy = 77.78, Counterfactual Accuracy = 44.44,  Blended Accuracy = 44.44,  RR Accuracy = 44.44  
+2025-03-20 15:30:45,094 INFO -- Edge Accuracy = 90.00, Instantaneous Accuracy = 60.00, Lagged Accuracy = 80.00, Counterfactual Accuracy = 40.00,  Blended Accuracy = 40.00,  RR Accuracy = 50.00  
+2025-03-20 15:31:05,504 INFO -- Edge Accuracy = 90.91, Instantaneous Accuracy = 63.64, Lagged Accuracy = 81.82, Counterfactual Accuracy = 45.45,  Blended Accuracy = 36.36,  RR Accuracy = 45.45  
+2025-03-20 15:31:17,190 INFO -- Edge Accuracy = 91.67, Instantaneous Accuracy = 66.67, Lagged Accuracy = 83.33, Counterfactual Accuracy = 50.00,  Blended Accuracy = 33.33,  RR Accuracy = 50.00  
+2025-03-20 15:31:27,653 INFO -- Edge Accuracy = 92.31, Instantaneous Accuracy = 61.54, Lagged Accuracy = 84.62, Counterfactual Accuracy = 46.15,  Blended Accuracy = 30.77,  RR Accuracy = 53.85  
+2025-03-20 15:31:38,036 INFO -- Edge Accuracy = 92.86, Instantaneous Accuracy = 57.14, Lagged Accuracy = 85.71, Counterfactual Accuracy = 50.00,  Blended Accuracy = 35.71,  RR Accuracy = 57.14  
+2025-03-20 15:31:51,007 INFO -- Edge Accuracy = 86.67, Instantaneous Accuracy = 60.00, Lagged Accuracy = 86.67, Counterfactual Accuracy = 53.33,  Blended Accuracy = 33.33,  RR Accuracy = 53.33  
+2025-03-20 15:32:00,066 INFO -- Edge Accuracy = 81.25, Instantaneous Accuracy = 56.25, Lagged Accuracy = 81.25, Counterfactual Accuracy = 56.25,  Blended Accuracy = 31.25,  RR Accuracy = 50.00  
+2025-03-20 15:32:10,160 INFO -- Edge Accuracy = 76.47, Instantaneous Accuracy = 52.94, Lagged Accuracy = 76.47, Counterfactual Accuracy = 52.94,  Blended Accuracy = 29.41,  RR Accuracy = 47.06  
+2025-03-20 15:32:26,307 INFO -- Edge Accuracy = 77.78, Instantaneous Accuracy = 55.56, Lagged Accuracy = 77.78, Counterfactual Accuracy = 55.56,  Blended Accuracy = 33.33,  RR Accuracy = 50.00  
+2025-03-20 15:33:09,209 INFO -- Edge Accuracy = 78.95, Instantaneous Accuracy = 52.63, Lagged Accuracy = 78.95, Counterfactual Accuracy = 52.63,  Blended Accuracy = 31.58,  RR Accuracy = 52.63  
+2025-03-20 15:33:27,804 INFO -- Edge Accuracy = 80.00, Instantaneous Accuracy = 50.00, Lagged Accuracy = 80.00, Counterfactual Accuracy = 55.00,  Blended Accuracy = 35.00,  RR Accuracy = 55.00  
+2025-03-20 15:33:42,339 INFO -- Edge Accuracy = 80.95, Instantaneous Accuracy = 52.38, Lagged Accuracy = 80.95, Counterfactual Accuracy = 52.38,  Blended Accuracy = 38.10,  RR Accuracy = 52.38  
+2025-03-20 15:33:52,642 INFO -- Edge Accuracy = 81.82, Instantaneous Accuracy = 54.55, Lagged Accuracy = 81.82, Counterfactual Accuracy = 54.55,  Blended Accuracy = 40.91,  RR Accuracy = 54.55  
+2025-03-20 15:34:14,833 INFO -- Edge Accuracy = 82.61, Instantaneous Accuracy = 56.52, Lagged Accuracy = 82.61, Counterfactual Accuracy = 56.52,  Blended Accuracy = 43.48,  RR Accuracy = 52.17  
+2025-03-20 15:34:35,865 INFO -- Edge Accuracy = 83.33, Instantaneous Accuracy = 58.33, Lagged Accuracy = 83.33, Counterfactual Accuracy = 58.33,  Blended Accuracy = 45.83,  RR Accuracy = 54.17  
+2025-03-20 15:34:55,782 INFO -- Edge Accuracy = 80.00, Instantaneous Accuracy = 56.00, Lagged Accuracy = 80.00, Counterfactual Accuracy = 60.00,  Blended Accuracy = 44.00,  RR Accuracy = 52.00  
+2025-03-20 15:35:15,345 INFO -- Edge Accuracy = 80.77, Instantaneous Accuracy = 57.69, Lagged Accuracy = 80.77, Counterfactual Accuracy = 57.69,  Blended Accuracy = 42.31,  RR Accuracy = 53.85  
+2025-03-20 15:35:48,809 INFO -- Edge Accuracy = 81.48, Instantaneous Accuracy = 55.56, Lagged Accuracy = 81.48, Counterfactual Accuracy = 59.26,  Blended Accuracy = 44.44,  RR Accuracy = 55.56  
+2025-03-20 15:36:00,357 INFO -- Edge Accuracy = 82.14, Instantaneous Accuracy = 57.14, Lagged Accuracy = 78.57, Counterfactual Accuracy = 57.14,  Blended Accuracy = 46.43,  RR Accuracy = 53.57  
+2025-03-20 15:36:12,432 INFO -- Edge Accuracy = 82.76, Instantaneous Accuracy = 55.17, Lagged Accuracy = 79.31, Counterfactual Accuracy = 58.62,  Blended Accuracy = 44.83,  RR Accuracy = 55.17  
+2025-03-20 15:36:22,536 INFO -- Edge Accuracy = 80.00, Instantaneous Accuracy = 56.67, Lagged Accuracy = 76.67, Counterfactual Accuracy = 56.67,  Blended Accuracy = 46.67,  RR Accuracy = 53.33  
+2025-03-20 15:41:07,882 INFO -- Edge Accuracy = 0.00, Instantaneous Accuracy = 0.00, Lagged Accuracy = 0.00, Counterfactual Accuracy = 0.00,  Blended Accuracy = 0.00,  RR Accuracy = 100.00  
+2025-03-20 15:41:10,457 INFO -- Edge Accuracy = 50.00, Instantaneous Accuracy = 50.00, Lagged Accuracy = 50.00, Counterfactual Accuracy = 50.00,  Blended Accuracy = 50.00,  RR Accuracy = 50.00  
+2025-03-20 15:41:17,088 INFO -- Edge Accuracy = 66.67, Instantaneous Accuracy = 66.67, Lagged Accuracy = 66.67, Counterfactual Accuracy = 33.33,  Blended Accuracy = 66.67,  RR Accuracy = 66.67  
+2025-03-20 15:41:21,033 INFO -- Edge Accuracy = 75.00, Instantaneous Accuracy = 75.00, Lagged Accuracy = 75.00, Counterfactual Accuracy = 50.00,  Blended Accuracy = 75.00,  RR Accuracy = 75.00  
+2025-03-20 15:41:26,436 INFO -- Edge Accuracy = 60.00, Instantaneous Accuracy = 60.00, Lagged Accuracy = 80.00, Counterfactual Accuracy = 60.00,  Blended Accuracy = 60.00,  RR Accuracy = 80.00  
+2025-03-20 15:41:29,623 INFO -- Edge Accuracy = 66.67, Instantaneous Accuracy = 66.67, Lagged Accuracy = 83.33, Counterfactual Accuracy = 66.67,  Blended Accuracy = 66.67,  RR Accuracy = 83.33  
+2025-03-20 15:41:33,650 INFO -- Edge Accuracy = 57.14, Instantaneous Accuracy = 57.14, Lagged Accuracy = 71.43, Counterfactual Accuracy = 71.43,  Blended Accuracy = 57.14,  RR Accuracy = 71.43  
+2025-03-20 15:41:36,316 INFO -- Edge Accuracy = 62.50, Instantaneous Accuracy = 62.50, Lagged Accuracy = 75.00, Counterfactual Accuracy = 62.50,  Blended Accuracy = 50.00,  RR Accuracy = 75.00  
+2025-03-20 15:41:41,172 INFO -- Edge Accuracy = 66.67, Instantaneous Accuracy = 66.67, Lagged Accuracy = 66.67, Counterfactual Accuracy = 66.67,  Blended Accuracy = 55.56,  RR Accuracy = 77.78  
+2025-03-20 15:41:46,283 INFO -- Edge Accuracy = 60.00, Instantaneous Accuracy = 60.00, Lagged Accuracy = 60.00, Counterfactual Accuracy = 60.00,  Blended Accuracy = 50.00,  RR Accuracy = 70.00  
+2025-03-20 15:41:49,370 INFO -- Edge Accuracy = 63.64, Instantaneous Accuracy = 54.55, Lagged Accuracy = 63.64, Counterfactual Accuracy = 54.55,  Blended Accuracy = 54.55,  RR Accuracy = 63.64  
+2025-03-20 15:42:05,347 INFO -- Edge Accuracy = 100.00, Instantaneous Accuracy = 100.00, Lagged Accuracy = 100.00, Counterfactual Accuracy = 100.00,  Blended Accuracy = 100.00,  RR Accuracy = 100.00  
+2025-03-20 15:42:09,419 INFO -- Edge Accuracy = 50.00, Instantaneous Accuracy = 50.00, Lagged Accuracy = 50.00, Counterfactual Accuracy = 100.00,  Blended Accuracy = 100.00,  RR Accuracy = 100.00  
+2025-03-20 15:42:12,699 INFO -- Edge Accuracy = 33.33, Instantaneous Accuracy = 33.33, Lagged Accuracy = 33.33, Counterfactual Accuracy = 66.67,  Blended Accuracy = 66.67,  RR Accuracy = 66.67  
+2025-03-20 15:42:19,292 INFO -- Edge Accuracy = 25.00, Instantaneous Accuracy = 50.00, Lagged Accuracy = 25.00, Counterfactual Accuracy = 75.00,  Blended Accuracy = 75.00,  RR Accuracy = 75.00  
+2025-03-20 15:42:21,948 INFO -- Edge Accuracy = 40.00, Instantaneous Accuracy = 60.00, Lagged Accuracy = 40.00, Counterfactual Accuracy = 80.00,  Blended Accuracy = 80.00,  RR Accuracy = 80.00  
+2025-03-20 15:42:24,529 INFO -- Edge Accuracy = 33.33, Instantaneous Accuracy = 66.67, Lagged Accuracy = 33.33, Counterfactual Accuracy = 83.33,  Blended Accuracy = 83.33,  RR Accuracy = 66.67  
+2025-03-20 15:42:29,113 INFO -- Edge Accuracy = 42.86, Instantaneous Accuracy = 71.43, Lagged Accuracy = 42.86, Counterfactual Accuracy = 85.71,  Blended Accuracy = 85.71,  RR Accuracy = 71.43  
+2025-03-20 15:42:34,061 INFO -- Edge Accuracy = 50.00, Instantaneous Accuracy = 75.00, Lagged Accuracy = 50.00, Counterfactual Accuracy = 87.50,  Blended Accuracy = 87.50,  RR Accuracy = 75.00  
+2025-03-20 15:42:37,963 INFO -- Edge Accuracy = 55.56, Instantaneous Accuracy = 77.78, Lagged Accuracy = 55.56, Counterfactual Accuracy = 88.89,  Blended Accuracy = 88.89,  RR Accuracy = 66.67  
+2025-03-20 15:42:40,751 INFO -- Edge Accuracy = 50.00, Instantaneous Accuracy = 80.00, Lagged Accuracy = 60.00, Counterfactual Accuracy = 90.00,  Blended Accuracy = 90.00,  RR Accuracy = 70.00  
+2025-03-20 15:42:45,778 INFO -- Edge Accuracy = 54.55, Instantaneous Accuracy = 81.82, Lagged Accuracy = 63.64, Counterfactual Accuracy = 90.91,  Blended Accuracy = 90.91,  RR Accuracy = 72.73  
+2025-03-20 15:42:48,386 INFO -- Edge Accuracy = 50.00, Instantaneous Accuracy = 75.00, Lagged Accuracy = 58.33, Counterfactual Accuracy = 91.67,  Blended Accuracy = 83.33,  RR Accuracy = 75.00  
+2025-03-20 15:42:52,035 INFO -- Edge Accuracy = 46.15, Instantaneous Accuracy = 69.23, Lagged Accuracy = 53.85, Counterfactual Accuracy = 84.62,  Blended Accuracy = 76.92,  RR Accuracy = 76.92  
+2025-03-20 15:42:56,372 INFO -- Edge Accuracy = 42.86, Instantaneous Accuracy = 71.43, Lagged Accuracy = 50.00, Counterfactual Accuracy = 85.71,  Blended Accuracy = 71.43,  RR Accuracy = 78.57  
+2025-03-20 15:43:01,038 INFO -- Edge Accuracy = 40.00, Instantaneous Accuracy = 66.67, Lagged Accuracy = 46.67, Counterfactual Accuracy = 86.67,  Blended Accuracy = 66.67,  RR Accuracy = 80.00  
+2025-03-20 15:43:05,818 INFO -- Edge Accuracy = 43.75, Instantaneous Accuracy = 68.75, Lagged Accuracy = 50.00, Counterfactual Accuracy = 87.50,  Blended Accuracy = 68.75,  RR Accuracy = 81.25  
+2025-03-20 15:43:09,015 INFO -- Edge Accuracy = 41.18, Instantaneous Accuracy = 64.71, Lagged Accuracy = 47.06, Counterfactual Accuracy = 88.24,  Blended Accuracy = 64.71,  RR Accuracy = 76.47  
+2025-03-20 15:43:12,232 INFO -- Edge Accuracy = 44.44, Instantaneous Accuracy = 61.11, Lagged Accuracy = 50.00, Counterfactual Accuracy = 88.89,  Blended Accuracy = 66.67,  RR Accuracy = 77.78  
+2025-03-20 15:43:16,525 INFO -- Edge Accuracy = 47.37, Instantaneous Accuracy = 63.16, Lagged Accuracy = 52.63, Counterfactual Accuracy = 89.47,  Blended Accuracy = 68.42,  RR Accuracy = 73.68  
+2025-03-20 15:43:20,427 INFO -- Edge Accuracy = 50.00, Instantaneous Accuracy = 65.00, Lagged Accuracy = 55.00, Counterfactual Accuracy = 90.00,  Blended Accuracy = 70.00,  RR Accuracy = 75.00  
+2025-03-20 15:43:23,187 INFO -- Edge Accuracy = 52.38, Instantaneous Accuracy = 66.67, Lagged Accuracy = 57.14, Counterfactual Accuracy = 85.71,  Blended Accuracy = 71.43,  RR Accuracy = 76.19  
+2025-03-20 15:43:29,016 INFO -- Edge Accuracy = 50.00, Instantaneous Accuracy = 68.18, Lagged Accuracy = 54.55, Counterfactual Accuracy = 86.36,  Blended Accuracy = 72.73,  RR Accuracy = 72.73  
+2025-03-20 15:43:32,880 INFO -- Edge Accuracy = 52.17, Instantaneous Accuracy = 69.57, Lagged Accuracy = 56.52, Counterfactual Accuracy = 86.96,  Blended Accuracy = 73.91,  RR Accuracy = 73.91  
+2025-03-20 15:43:36,492 INFO -- Edge Accuracy = 54.17, Instantaneous Accuracy = 70.83, Lagged Accuracy = 58.33, Counterfactual Accuracy = 87.50,  Blended Accuracy = 75.00,  RR Accuracy = 70.83  
+2025-03-20 15:43:39,532 INFO -- Edge Accuracy = 56.00, Instantaneous Accuracy = 68.00, Lagged Accuracy = 60.00, Counterfactual Accuracy = 84.00,  Blended Accuracy = 76.00,  RR Accuracy = 72.00  
+2025-03-20 15:43:46,360 INFO -- Edge Accuracy = 57.69, Instantaneous Accuracy = 69.23, Lagged Accuracy = 61.54, Counterfactual Accuracy = 84.62,  Blended Accuracy = 76.92,  RR Accuracy = 69.23  
+2025-03-20 15:43:51,686 INFO -- Edge Accuracy = 59.26, Instantaneous Accuracy = 66.67, Lagged Accuracy = 62.96, Counterfactual Accuracy = 81.48,  Blended Accuracy = 74.07,  RR Accuracy = 70.37  
+2025-03-20 15:43:54,515 INFO -- Edge Accuracy = 60.71, Instantaneous Accuracy = 67.86, Lagged Accuracy = 64.29, Counterfactual Accuracy = 82.14,  Blended Accuracy = 75.00,  RR Accuracy = 67.86  
+2025-03-20 15:43:57,462 INFO -- Edge Accuracy = 62.07, Instantaneous Accuracy = 68.97, Lagged Accuracy = 65.52, Counterfactual Accuracy = 82.76,  Blended Accuracy = 75.86,  RR Accuracy = 68.97  
+2025-03-20 15:44:01,655 INFO -- Edge Accuracy = 63.33, Instantaneous Accuracy = 70.00, Lagged Accuracy = 66.67, Counterfactual Accuracy = 83.33,  Blended Accuracy = 76.67,  RR Accuracy = 70.00  
+2025-03-20 15:46:27,552 INFO -- Edge Accuracy = 100.00, Instantaneous Accuracy = 100.00, Lagged Accuracy = 0.00, Counterfactual Accuracy = 100.00,  Blended Accuracy = 100.00,  RR Accuracy = 100.00  
+2025-03-20 15:46:31,558 INFO -- Edge Accuracy = 100.00, Instantaneous Accuracy = 100.00, Lagged Accuracy = 0.00, Counterfactual Accuracy = 50.00,  Blended Accuracy = 100.00,  RR Accuracy = 50.00  
+2025-03-20 15:46:34,899 INFO -- Edge Accuracy = 66.67, Instantaneous Accuracy = 66.67, Lagged Accuracy = 0.00, Counterfactual Accuracy = 66.67,  Blended Accuracy = 100.00,  RR Accuracy = 66.67  
+2025-03-20 15:46:38,220 INFO -- Edge Accuracy = 75.00, Instantaneous Accuracy = 50.00, Lagged Accuracy = 0.00, Counterfactual Accuracy = 75.00,  Blended Accuracy = 100.00,  RR Accuracy = 50.00  
+2025-03-20 15:46:44,003 INFO -- Edge Accuracy = 80.00, Instantaneous Accuracy = 60.00, Lagged Accuracy = 20.00, Counterfactual Accuracy = 80.00,  Blended Accuracy = 100.00,  RR Accuracy = 60.00  
+2025-03-20 15:46:48,047 INFO -- Edge Accuracy = 83.33, Instantaneous Accuracy = 66.67, Lagged Accuracy = 16.67, Counterfactual Accuracy = 83.33,  Blended Accuracy = 100.00,  RR Accuracy = 50.00  
+2025-03-20 15:46:51,931 INFO -- Edge Accuracy = 85.71, Instantaneous Accuracy = 71.43, Lagged Accuracy = 14.29, Counterfactual Accuracy = 85.71,  Blended Accuracy = 100.00,  RR Accuracy = 42.86  
+2025-03-20 15:46:57,929 INFO -- Edge Accuracy = 87.50, Instantaneous Accuracy = 62.50, Lagged Accuracy = 25.00, Counterfactual Accuracy = 87.50,  Blended Accuracy = 100.00,  RR Accuracy = 37.50  
+2025-03-20 15:47:06,690 INFO -- Edge Accuracy = 77.78, Instantaneous Accuracy = 66.67, Lagged Accuracy = 33.33, Counterfactual Accuracy = 88.89,  Blended Accuracy = 100.00,  RR Accuracy = 44.44  
+2025-03-20 15:47:11,510 INFO -- Edge Accuracy = 70.00, Instantaneous Accuracy = 70.00, Lagged Accuracy = 30.00, Counterfactual Accuracy = 90.00,  Blended Accuracy = 100.00,  RR Accuracy = 50.00  
+2025-03-20 15:47:16,634 INFO -- Edge Accuracy = 63.64, Instantaneous Accuracy = 72.73, Lagged Accuracy = 27.27, Counterfactual Accuracy = 81.82,  Blended Accuracy = 90.91,  RR Accuracy = 45.45  
+2025-03-20 15:47:21,003 INFO -- Edge Accuracy = 66.67, Instantaneous Accuracy = 75.00, Lagged Accuracy = 25.00, Counterfactual Accuracy = 75.00,  Blended Accuracy = 83.33,  RR Accuracy = 50.00  
+2025-03-20 15:47:24,111 INFO -- Edge Accuracy = 69.23, Instantaneous Accuracy = 76.92, Lagged Accuracy = 23.08, Counterfactual Accuracy = 76.92,  Blended Accuracy = 84.62,  RR Accuracy = 46.15  
+2025-03-20 15:47:27,185 INFO -- Edge Accuracy = 64.29, Instantaneous Accuracy = 78.57, Lagged Accuracy = 21.43, Counterfactual Accuracy = 78.57,  Blended Accuracy = 85.71,  RR Accuracy = 50.00  
+2025-03-20 15:47:32,982 INFO -- Edge Accuracy = 60.00, Instantaneous Accuracy = 73.33, Lagged Accuracy = 26.67, Counterfactual Accuracy = 73.33,  Blended Accuracy = 80.00,  RR Accuracy = 46.67  
+2025-03-20 15:47:35,833 INFO -- Edge Accuracy = 62.50, Instantaneous Accuracy = 75.00, Lagged Accuracy = 25.00, Counterfactual Accuracy = 75.00,  Blended Accuracy = 81.25,  RR Accuracy = 50.00  
+2025-03-20 15:47:40,484 INFO -- Edge Accuracy = 64.71, Instantaneous Accuracy = 76.47, Lagged Accuracy = 29.41, Counterfactual Accuracy = 76.47,  Blended Accuracy = 82.35,  RR Accuracy = 52.94  
+2025-03-20 15:47:43,569 INFO -- Edge Accuracy = 66.67, Instantaneous Accuracy = 77.78, Lagged Accuracy = 33.33, Counterfactual Accuracy = 77.78,  Blended Accuracy = 83.33,  RR Accuracy = 55.56  
+2025-03-20 15:47:47,746 INFO -- Edge Accuracy = 68.42, Instantaneous Accuracy = 78.95, Lagged Accuracy = 36.84, Counterfactual Accuracy = 78.95,  Blended Accuracy = 84.21,  RR Accuracy = 52.63  
+2025-03-20 15:47:51,589 INFO -- Edge Accuracy = 65.00, Instantaneous Accuracy = 75.00, Lagged Accuracy = 35.00, Counterfactual Accuracy = 80.00,  Blended Accuracy = 85.00,  RR Accuracy = 55.00  
+2025-03-20 15:47:55,254 INFO -- Edge Accuracy = 66.67, Instantaneous Accuracy = 76.19, Lagged Accuracy = 38.10, Counterfactual Accuracy = 76.19,  Blended Accuracy = 80.95,  RR Accuracy = 52.38  
+2025-03-20 15:47:58,796 INFO -- Edge Accuracy = 68.18, Instantaneous Accuracy = 77.27, Lagged Accuracy = 40.91, Counterfactual Accuracy = 72.73,  Blended Accuracy = 77.27,  RR Accuracy = 54.55  
+2025-03-20 15:48:01,794 INFO -- Edge Accuracy = 65.22, Instantaneous Accuracy = 78.26, Lagged Accuracy = 39.13, Counterfactual Accuracy = 73.91,  Blended Accuracy = 73.91,  RR Accuracy = 52.17  
+2025-03-20 15:48:05,112 INFO -- Edge Accuracy = 62.50, Instantaneous Accuracy = 79.17, Lagged Accuracy = 37.50, Counterfactual Accuracy = 70.83,  Blended Accuracy = 70.83,  RR Accuracy = 50.00  
+2025-03-20 15:48:11,026 INFO -- Edge Accuracy = 64.00, Instantaneous Accuracy = 80.00, Lagged Accuracy = 36.00, Counterfactual Accuracy = 68.00,  Blended Accuracy = 72.00,  RR Accuracy = 52.00  
+2025-03-20 15:48:14,493 INFO -- Edge Accuracy = 65.38, Instantaneous Accuracy = 80.77, Lagged Accuracy = 38.46, Counterfactual Accuracy = 69.23,  Blended Accuracy = 73.08,  RR Accuracy = 53.85  
+2025-03-20 15:48:18,773 INFO -- Edge Accuracy = 62.96, Instantaneous Accuracy = 77.78, Lagged Accuracy = 40.74, Counterfactual Accuracy = 70.37,  Blended Accuracy = 70.37,  RR Accuracy = 55.56  
+2025-03-20 15:48:26,291 INFO -- Edge Accuracy = 60.71, Instantaneous Accuracy = 75.00, Lagged Accuracy = 39.29, Counterfactual Accuracy = 67.86,  Blended Accuracy = 67.86,  RR Accuracy = 57.14  
+2025-03-20 15:48:29,691 INFO -- Edge Accuracy = 58.62, Instantaneous Accuracy = 72.41, Lagged Accuracy = 41.38, Counterfactual Accuracy = 65.52,  Blended Accuracy = 65.52,  RR Accuracy = 58.62  
+2025-03-20 16:44:39,712 INFO -- Edge Accuracy = 0.00, Instantaneous Accuracy = 100.00, Lagged Accuracy = 0.00, Counterfactual Accuracy = 100.00,  Blended Accuracy = 100.00,  RR Accuracy = 100.00  
+2025-03-20 16:44:45,676 INFO -- Edge Accuracy = 0.00, Instantaneous Accuracy = 50.00, Lagged Accuracy = 50.00, Counterfactual Accuracy = 100.00,  Blended Accuracy = 100.00,  RR Accuracy = 100.00  
+2025-03-20 16:44:52,174 INFO -- Edge Accuracy = 33.33, Instantaneous Accuracy = 66.67, Lagged Accuracy = 66.67, Counterfactual Accuracy = 100.00,  Blended Accuracy = 100.00,  RR Accuracy = 100.00  
+2025-03-20 16:44:59,526 INFO -- Edge Accuracy = 50.00, Instantaneous Accuracy = 50.00, Lagged Accuracy = 50.00, Counterfactual Accuracy = 100.00,  Blended Accuracy = 100.00,  RR Accuracy = 100.00  
+2025-03-20 16:45:05,034 INFO -- Edge Accuracy = 60.00, Instantaneous Accuracy = 60.00, Lagged Accuracy = 40.00, Counterfactual Accuracy = 100.00,  Blended Accuracy = 80.00,  RR Accuracy = 100.00  
+2025-03-20 16:45:12,523 INFO -- Edge Accuracy = 66.67, Instantaneous Accuracy = 66.67, Lagged Accuracy = 33.33, Counterfactual Accuracy = 100.00,  Blended Accuracy = 83.33,  RR Accuracy = 83.33  
+2025-03-20 16:45:26,569 INFO -- Edge Accuracy = 57.14, Instantaneous Accuracy = 71.43, Lagged Accuracy = 28.57, Counterfactual Accuracy = 85.71,  Blended Accuracy = 71.43,  RR Accuracy = 71.43  
+2025-03-20 16:45:36,060 INFO -- Edge Accuracy = 50.00, Instantaneous Accuracy = 62.50, Lagged Accuracy = 37.50, Counterfactual Accuracy = 87.50,  Blended Accuracy = 62.50,  RR Accuracy = 75.00  
+2025-03-20 16:45:45,203 INFO -- Edge Accuracy = 44.44, Instantaneous Accuracy = 55.56, Lagged Accuracy = 33.33, Counterfactual Accuracy = 88.89,  Blended Accuracy = 66.67,  RR Accuracy = 77.78  
+2025-03-20 16:45:50,555 INFO -- Edge Accuracy = 40.00, Instantaneous Accuracy = 50.00, Lagged Accuracy = 30.00, Counterfactual Accuracy = 90.00,  Blended Accuracy = 70.00,  RR Accuracy = 80.00  
+2025-03-20 16:45:57,114 INFO -- Edge Accuracy = 45.45, Instantaneous Accuracy = 54.55, Lagged Accuracy = 36.36, Counterfactual Accuracy = 90.91,  Blended Accuracy = 72.73,  RR Accuracy = 81.82  
+2025-03-20 16:46:05,063 INFO -- Edge Accuracy = 50.00, Instantaneous Accuracy = 50.00, Lagged Accuracy = 41.67, Counterfactual Accuracy = 83.33,  Blended Accuracy = 66.67,  RR Accuracy = 75.00  
+2025-03-20 16:46:21,654 INFO -- Edge Accuracy = 53.85, Instantaneous Accuracy = 53.85, Lagged Accuracy = 38.46, Counterfactual Accuracy = 84.62,  Blended Accuracy = 69.23,  RR Accuracy = 76.92  
+2025-03-20 16:46:32,662 INFO -- Edge Accuracy = 57.14, Instantaneous Accuracy = 57.14, Lagged Accuracy = 35.71, Counterfactual Accuracy = 78.57,  Blended Accuracy = 64.29,  RR Accuracy = 78.57  
+2025-03-20 16:46:40,557 INFO -- Edge Accuracy = 60.00, Instantaneous Accuracy = 60.00, Lagged Accuracy = 40.00, Counterfactual Accuracy = 73.33,  Blended Accuracy = 60.00,  RR Accuracy = 80.00  
+2025-03-20 16:46:46,929 INFO -- Edge Accuracy = 62.50, Instantaneous Accuracy = 62.50, Lagged Accuracy = 43.75, Counterfactual Accuracy = 75.00,  Blended Accuracy = 62.50,  RR Accuracy = 81.25  
+2025-03-20 16:46:53,780 INFO -- Edge Accuracy = 64.71, Instantaneous Accuracy = 64.71, Lagged Accuracy = 47.06, Counterfactual Accuracy = 76.47,  Blended Accuracy = 64.71,  RR Accuracy = 82.35  
+2025-03-20 16:47:00,680 INFO -- Edge Accuracy = 66.67, Instantaneous Accuracy = 66.67, Lagged Accuracy = 50.00, Counterfactual Accuracy = 77.78,  Blended Accuracy = 66.67,  RR Accuracy = 83.33  
+2025-03-20 16:47:09,497 INFO -- Edge Accuracy = 68.42, Instantaneous Accuracy = 63.16, Lagged Accuracy = 52.63, Counterfactual Accuracy = 73.68,  Blended Accuracy = 63.16,  RR Accuracy = 78.95  
+2025-03-20 16:47:17,030 INFO -- Edge Accuracy = 70.00, Instantaneous Accuracy = 60.00, Lagged Accuracy = 55.00, Counterfactual Accuracy = 75.00,  Blended Accuracy = 60.00,  RR Accuracy = 80.00  
+2025-03-20 16:47:31,624 INFO -- Edge Accuracy = 66.67, Instantaneous Accuracy = 61.90, Lagged Accuracy = 52.38, Counterfactual Accuracy = 71.43,  Blended Accuracy = 57.14,  RR Accuracy = 76.19  
+2025-03-20 16:47:37,770 INFO -- Edge Accuracy = 68.18, Instantaneous Accuracy = 59.09, Lagged Accuracy = 50.00, Counterfactual Accuracy = 72.73,  Blended Accuracy = 59.09,  RR Accuracy = 72.73  
+2025-03-20 16:47:51,990 INFO -- Edge Accuracy = 65.22, Instantaneous Accuracy = 56.52, Lagged Accuracy = 52.17, Counterfactual Accuracy = 73.91,  Blended Accuracy = 56.52,  RR Accuracy = 69.57  
+2025-03-20 16:48:01,241 INFO -- Edge Accuracy = 66.67, Instantaneous Accuracy = 58.33, Lagged Accuracy = 54.17, Counterfactual Accuracy = 75.00,  Blended Accuracy = 58.33,  RR Accuracy = 66.67  
+2025-03-20 16:48:11,705 INFO -- Edge Accuracy = 64.00, Instantaneous Accuracy = 60.00, Lagged Accuracy = 52.00, Counterfactual Accuracy = 76.00,  Blended Accuracy = 60.00,  RR Accuracy = 68.00  
+2025-03-20 16:48:17,003 INFO -- Edge Accuracy = 65.38, Instantaneous Accuracy = 61.54, Lagged Accuracy = 53.85, Counterfactual Accuracy = 76.92,  Blended Accuracy = 61.54,  RR Accuracy = 65.38  
+2025-03-20 16:48:23,353 INFO -- Edge Accuracy = 66.67, Instantaneous Accuracy = 62.96, Lagged Accuracy = 51.85, Counterfactual Accuracy = 77.78,  Blended Accuracy = 62.96,  RR Accuracy = 62.96  
+2025-03-20 16:48:28,224 INFO -- Edge Accuracy = 64.29, Instantaneous Accuracy = 60.71, Lagged Accuracy = 53.57, Counterfactual Accuracy = 78.57,  Blended Accuracy = 64.29,  RR Accuracy = 60.71  
+2025-03-20 16:48:38,344 INFO -- Edge Accuracy = 62.07, Instantaneous Accuracy = 58.62, Lagged Accuracy = 51.72, Counterfactual Accuracy = 75.86,  Blended Accuracy = 62.07,  RR Accuracy = 58.62  
+2025-03-20 16:48:47,902 INFO -- Edge Accuracy = 60.00, Instantaneous Accuracy = 56.67, Lagged Accuracy = 50.00, Counterfactual Accuracy = 73.33,  Blended Accuracy = 60.00,  RR Accuracy = 56.67  
+2025-03-20 19:24:36,557 INFO -- Model: 0
+2025-03-20 19:26:22,902 INFO -- Edge Accuracy = 0.00, Instantaneous Accuracy = 0.00, Lagged Accuracy = 0.00, Counterfactual Accuracy = 0.00,  Blended Accuracy = 0.00,  RR Accuracy = 0.00  
+2025-03-20 19:26:22,903 INFO -- Model: 1
+2025-03-20 19:35:26,995 INFO -- Edge Accuracy = 0.00, Instantaneous Accuracy = 0.00, Lagged Accuracy = 50.00, Counterfactual Accuracy = 50.00,  Blended Accuracy = 0.00,  RR Accuracy = 0.00  
+2025-03-20 19:35:26,995 INFO -- Model: 2
+2025-03-20 19:39:44,048 INFO -- Edge Accuracy = 0.00, Instantaneous Accuracy = 0.00, Lagged Accuracy = 33.33, Counterfactual Accuracy = 33.33,  Blended Accuracy = 0.00,  RR Accuracy = 33.33  
+2025-03-20 19:39:44,048 INFO -- Model: 3
+2025-03-20 19:41:21,117 INFO -- Edge Accuracy = 25.00, Instantaneous Accuracy = 0.00, Lagged Accuracy = 50.00, Counterfactual Accuracy = 25.00,  Blended Accuracy = 25.00,  RR Accuracy = 50.00  
+2025-03-20 19:41:21,118 INFO -- Model: 4
+2025-03-20 19:43:24,579 INFO -- Edge Accuracy = 20.00, Instantaneous Accuracy = 0.00, Lagged Accuracy = 40.00, Counterfactual Accuracy = 40.00,  Blended Accuracy = 20.00,  RR Accuracy = 40.00  
+2025-03-20 19:43:24,580 INFO -- Model: 5
+2025-03-20 19:45:00,064 INFO -- Edge Accuracy = 33.33, Instantaneous Accuracy = 16.67, Lagged Accuracy = 50.00, Counterfactual Accuracy = 50.00,  Blended Accuracy = 33.33,  RR Accuracy = 33.33  
+2025-03-20 19:45:00,064 INFO -- Model: 6
+2025-03-20 19:47:17,505 INFO -- Edge Accuracy = 42.86, Instantaneous Accuracy = 28.57, Lagged Accuracy = 57.14, Counterfactual Accuracy = 42.86,  Blended Accuracy = 42.86,  RR Accuracy = 28.57  
+2025-03-20 19:47:17,506 INFO -- Model: 7
+2025-03-20 19:49:20,581 INFO -- Edge Accuracy = 37.50, Instantaneous Accuracy = 37.50, Lagged Accuracy = 62.50, Counterfactual Accuracy = 37.50,  Blended Accuracy = 37.50,  RR Accuracy = 37.50  
+2025-03-20 19:49:20,581 INFO -- Model: 8
+2025-03-20 19:51:45,125 INFO -- Edge Accuracy = 44.44, Instantaneous Accuracy = 44.44, Lagged Accuracy = 66.67, Counterfactual Accuracy = 44.44,  Blended Accuracy = 44.44,  RR Accuracy = 44.44  
+2025-03-20 19:51:45,125 INFO -- Model: 9
+2025-03-20 19:52:49,216 INFO -- Edge Accuracy = 40.00, Instantaneous Accuracy = 40.00, Lagged Accuracy = 60.00, Counterfactual Accuracy = 50.00,  Blended Accuracy = 40.00,  RR Accuracy = 50.00  
+2025-03-20 19:52:49,216 INFO -- Model: 10
+2025-03-20 19:53:51,574 INFO -- Edge Accuracy = 36.36, Instantaneous Accuracy = 36.36, Lagged Accuracy = 54.55, Counterfactual Accuracy = 54.55,  Blended Accuracy = 36.36,  RR Accuracy = 45.45  
+2025-03-20 19:53:51,575 INFO -- Model: 11
+2025-03-20 19:55:55,132 INFO -- Edge Accuracy = 33.33, Instantaneous Accuracy = 41.67, Lagged Accuracy = 50.00, Counterfactual Accuracy = 50.00,  Blended Accuracy = 33.33,  RR Accuracy = 41.67  
+2025-03-20 19:55:55,133 INFO -- Model: 12
+2025-03-20 19:59:20,393 INFO -- Edge Accuracy = 30.77, Instantaneous Accuracy = 38.46, Lagged Accuracy = 46.15, Counterfactual Accuracy = 53.85,  Blended Accuracy = 38.46,  RR Accuracy = 38.46  
+2025-03-20 19:59:20,393 INFO -- Model: 13
+2025-03-20 20:01:04,910 INFO -- Edge Accuracy = 28.57, Instantaneous Accuracy = 35.71, Lagged Accuracy = 42.86, Counterfactual Accuracy = 57.14,  Blended Accuracy = 35.71,  RR Accuracy = 35.71  
+2025-03-20 20:01:04,910 INFO -- Model: 14
+2025-03-20 20:02:57,359 INFO -- Edge Accuracy = 26.67, Instantaneous Accuracy = 40.00, Lagged Accuracy = 40.00, Counterfactual Accuracy = 60.00,  Blended Accuracy = 40.00,  RR Accuracy = 33.33  
+2025-03-20 20:02:57,359 INFO -- Model: 15
+2025-03-20 20:04:51,024 INFO -- Edge Accuracy = 25.00, Instantaneous Accuracy = 37.50, Lagged Accuracy = 37.50, Counterfactual Accuracy = 62.50,  Blended Accuracy = 37.50,  RR Accuracy = 31.25  
+2025-03-20 20:04:51,025 INFO -- Model: 16
+2025-03-20 20:06:53,932 INFO -- Edge Accuracy = 23.53, Instantaneous Accuracy = 41.18, Lagged Accuracy = 35.29, Counterfactual Accuracy = 64.71,  Blended Accuracy = 35.29,  RR Accuracy = 29.41  
+2025-03-20 20:06:53,933 INFO -- Model: 17
+2025-03-20 20:27:51,538 INFO -- Edge Accuracy = 22.22, Instantaneous Accuracy = 38.89, Lagged Accuracy = 33.33, Counterfactual Accuracy = 66.67,  Blended Accuracy = 33.33,  RR Accuracy = 27.78  
+2025-03-20 20:27:51,539 INFO -- Model: 18
+2025-03-20 20:30:07,376 INFO -- Edge Accuracy = 21.05, Instantaneous Accuracy = 36.84, Lagged Accuracy = 31.58, Counterfactual Accuracy = 68.42,  Blended Accuracy = 36.84,  RR Accuracy = 31.58  
+2025-03-20 20:30:07,377 INFO -- Model: 19
+2025-03-20 20:32:03,146 INFO -- Edge Accuracy = 20.00, Instantaneous Accuracy = 35.00, Lagged Accuracy = 30.00, Counterfactual Accuracy = 65.00,  Blended Accuracy = 35.00,  RR Accuracy = 30.00  
+2025-03-20 20:32:03,146 INFO -- Model: 20
+2025-03-20 20:33:17,211 INFO -- Edge Accuracy = 23.81, Instantaneous Accuracy = 33.33, Lagged Accuracy = 33.33, Counterfactual Accuracy = 61.90,  Blended Accuracy = 38.10,  RR Accuracy = 28.57  
+2025-03-20 20:33:17,211 INFO -- Model: 21
+2025-03-20 20:35:18,728 INFO -- Edge Accuracy = 27.27, Instantaneous Accuracy = 31.82, Lagged Accuracy = 31.82, Counterfactual Accuracy = 59.09,  Blended Accuracy = 36.36,  RR Accuracy = 27.27  
+2025-03-20 20:35:18,728 INFO -- Model: 22
+2025-03-20 20:37:55,506 INFO -- Edge Accuracy = 30.43, Instantaneous Accuracy = 30.43, Lagged Accuracy = 34.78, Counterfactual Accuracy = 60.87,  Blended Accuracy = 39.13,  RR Accuracy = 30.43  
+2025-03-20 20:37:55,507 INFO -- Model: 23
+2025-03-20 20:48:26,589 INFO -- Edge Accuracy = 33.33, Instantaneous Accuracy = 33.33, Lagged Accuracy = 37.50, Counterfactual Accuracy = 62.50,  Blended Accuracy = 41.67,  RR Accuracy = 33.33  
+2025-03-20 20:48:26,589 INFO -- Model: 24
+2025-03-20 20:49:56,665 INFO -- Edge Accuracy = 36.00, Instantaneous Accuracy = 36.00, Lagged Accuracy = 40.00, Counterfactual Accuracy = 60.00,  Blended Accuracy = 44.00,  RR Accuracy = 32.00  
+2025-03-20 20:49:56,666 INFO -- Model: 25
+2025-03-20 20:51:20,002 INFO -- Edge Accuracy = 38.46, Instantaneous Accuracy = 38.46, Lagged Accuracy = 42.31, Counterfactual Accuracy = 57.69,  Blended Accuracy = 46.15,  RR Accuracy = 30.77  
+2025-03-20 20:51:20,002 INFO -- Model: 26
+2025-03-20 20:54:54,398 INFO -- Edge Accuracy = 37.04, Instantaneous Accuracy = 40.74, Lagged Accuracy = 40.74, Counterfactual Accuracy = 59.26,  Blended Accuracy = 44.44,  RR Accuracy = 33.33  
+2025-03-20 20:54:54,399 INFO -- Model: 27
+2025-03-20 20:56:43,331 INFO -- Edge Accuracy = 39.29, Instantaneous Accuracy = 42.86, Lagged Accuracy = 42.86, Counterfactual Accuracy = 60.71,  Blended Accuracy = 46.43,  RR Accuracy = 35.71  
+2025-03-20 20:56:43,331 INFO -- Model: 28
+2025-03-20 20:58:37,757 INFO -- Edge Accuracy = 41.38, Instantaneous Accuracy = 44.83, Lagged Accuracy = 41.38, Counterfactual Accuracy = 58.62,  Blended Accuracy = 48.28,  RR Accuracy = 37.93  
+2025-03-20 20:58:37,758 INFO -- Model: 29
+2025-03-20 21:00:37,321 INFO -- Edge Accuracy = 40.00, Instantaneous Accuracy = 43.33, Lagged Accuracy = 40.00, Counterfactual Accuracy = 56.67,  Blended Accuracy = 46.67,  RR Accuracy = 36.67  
+2025-03-20 21:00:37,322 INFO -- Model: 30
+2025-03-20 21:03:26,391 INFO -- Edge Accuracy = 38.71, Instantaneous Accuracy = 41.94, Lagged Accuracy = 38.71, Counterfactual Accuracy = 54.84,  Blended Accuracy = 45.16,  RR Accuracy = 35.48  
+2025-03-20 21:03:26,392 INFO -- Model: 31
+2025-03-20 21:08:07,646 INFO -- Edge Accuracy = 37.50, Instantaneous Accuracy = 40.62, Lagged Accuracy = 37.50, Counterfactual Accuracy = 53.12,  Blended Accuracy = 43.75,  RR Accuracy = 34.38  
+2025-03-20 21:08:07,647 INFO -- Model: 32
+2025-03-20 21:10:47,155 INFO -- Edge Accuracy = 36.36, Instantaneous Accuracy = 39.39, Lagged Accuracy = 36.36, Counterfactual Accuracy = 54.55,  Blended Accuracy = 42.42,  RR Accuracy = 33.33  
+2025-03-20 21:10:47,155 INFO -- Model: 33
+2025-03-20 21:12:33,711 INFO -- Edge Accuracy = 35.29, Instantaneous Accuracy = 38.24, Lagged Accuracy = 38.24, Counterfactual Accuracy = 52.94,  Blended Accuracy = 41.18,  RR Accuracy = 35.29  
+2025-03-20 21:12:33,712 INFO -- Model: 34
+2025-03-20 21:14:20,895 INFO -- Edge Accuracy = 37.14, Instantaneous Accuracy = 37.14, Lagged Accuracy = 40.00, Counterfactual Accuracy = 54.29,  Blended Accuracy = 42.86,  RR Accuracy = 34.29  
+2025-03-20 21:14:20,896 INFO -- Model: 35
+2025-03-20 21:15:19,198 INFO -- Edge Accuracy = 38.89, Instantaneous Accuracy = 36.11, Lagged Accuracy = 41.67, Counterfactual Accuracy = 55.56,  Blended Accuracy = 44.44,  RR Accuracy = 33.33  
+2025-03-20 21:15:19,198 INFO -- Model: 36
+2025-03-20 21:17:52,170 INFO -- Edge Accuracy = 37.84, Instantaneous Accuracy = 35.14, Lagged Accuracy = 43.24, Counterfactual Accuracy = 54.05,  Blended Accuracy = 43.24,  RR Accuracy = 35.14  
+2025-03-20 21:17:52,171 INFO -- Model: 37
+2025-03-20 21:19:51,325 INFO -- Edge Accuracy = 39.47, Instantaneous Accuracy = 36.84, Lagged Accuracy = 42.11, Counterfactual Accuracy = 55.26,  Blended Accuracy = 44.74,  RR Accuracy = 34.21  
+2025-03-20 21:19:51,325 INFO -- Model: 38
+2025-03-20 21:21:57,834 INFO -- Edge Accuracy = 41.03, Instantaneous Accuracy = 38.46, Lagged Accuracy = 43.59, Counterfactual Accuracy = 56.41,  Blended Accuracy = 46.15,  RR Accuracy = 33.33  
+2025-03-20 21:21:57,834 INFO -- Model: 39
+2025-03-20 21:26:12,135 INFO -- Edge Accuracy = 40.00, Instantaneous Accuracy = 37.50, Lagged Accuracy = 42.50, Counterfactual Accuracy = 57.50,  Blended Accuracy = 45.00,  RR Accuracy = 32.50  
+2025-03-20 21:26:12,135 INFO -- Model: 40
+2025-03-20 21:29:40,537 INFO -- Edge Accuracy = 39.02, Instantaneous Accuracy = 39.02, Lagged Accuracy = 41.46, Counterfactual Accuracy = 56.10,  Blended Accuracy = 43.90,  RR Accuracy = 31.71  
+2025-03-20 21:29:40,537 INFO -- Model: 41
+2025-03-20 21:30:57,454 INFO -- Edge Accuracy = 38.10, Instantaneous Accuracy = 40.48, Lagged Accuracy = 40.48, Counterfactual Accuracy = 57.14,  Blended Accuracy = 45.24,  RR Accuracy = 33.33  
+2025-03-20 21:30:57,455 INFO -- Model: 42
+2025-03-20 21:34:29,962 INFO -- Edge Accuracy = 39.53, Instantaneous Accuracy = 41.86, Lagged Accuracy = 41.86, Counterfactual Accuracy = 58.14,  Blended Accuracy = 46.51,  RR Accuracy = 34.88  
+2025-03-20 21:34:29,962 INFO -- Model: 43
+2025-03-20 21:36:00,955 INFO -- Edge Accuracy = 38.64, Instantaneous Accuracy = 40.91, Lagged Accuracy = 40.91, Counterfactual Accuracy = 59.09,  Blended Accuracy = 45.45,  RR Accuracy = 34.09  
+2025-03-20 21:36:00,955 INFO -- Model: 44
+2025-03-20 21:37:16,066 INFO -- Edge Accuracy = 37.78, Instantaneous Accuracy = 42.22, Lagged Accuracy = 40.00, Counterfactual Accuracy = 57.78,  Blended Accuracy = 44.44,  RR Accuracy = 35.56  
+2025-03-20 21:37:16,066 INFO -- Model: 45
+2025-03-20 21:41:21,348 INFO -- Edge Accuracy = 36.96, Instantaneous Accuracy = 41.30, Lagged Accuracy = 39.13, Counterfactual Accuracy = 58.70,  Blended Accuracy = 45.65,  RR Accuracy = 36.96  
+2025-03-20 21:41:21,348 INFO -- Model: 46
+2025-03-20 21:42:18,627 INFO -- Edge Accuracy = 36.17, Instantaneous Accuracy = 40.43, Lagged Accuracy = 38.30, Counterfactual Accuracy = 57.45,  Blended Accuracy = 44.68,  RR Accuracy = 38.30  
+2025-03-20 21:42:18,628 INFO -- Model: 47
+2025-03-20 21:50:45,724 INFO -- Model: 0
+2025-03-20 21:53:07,985 INFO -- Edge Accuracy = 0.00, Instantaneous Accuracy = 0.00, Lagged Accuracy = 0.00, Counterfactual Accuracy = 100.00,  Blended Accuracy = 0.00,  RR Accuracy = 0.00  
+2025-03-20 21:53:07,985 INFO -- Model: 1
+2025-03-20 21:53:48,811 INFO -- Model: 0
+2025-03-20 21:54:39,875 INFO -- Model: 0
+2025-03-20 21:55:02,039 INFO -- Edge Accuracy = 100.00, Instantaneous Accuracy = 100.00, Lagged Accuracy = 100.00, Counterfactual Accuracy = 0.00,  Blended Accuracy = 100.00,  RR Accuracy = 100.00  
+2025-03-20 21:55:02,039 INFO -- Model: 1
+2025-03-20 22:05:49,907 INFO -- Edge Accuracy = 50.00, Instantaneous Accuracy = 50.00, Lagged Accuracy = 50.00, Counterfactual Accuracy = 50.00,  Blended Accuracy = 50.00,  RR Accuracy = 50.00  
+2025-03-20 22:05:49,907 INFO -- Model: 2
+2025-03-20 22:07:26,703 INFO -- Edge Accuracy = 33.33, Instantaneous Accuracy = 66.67, Lagged Accuracy = 33.33, Counterfactual Accuracy = 66.67,  Blended Accuracy = 66.67,  RR Accuracy = 66.67  
+2025-03-20 22:07:26,704 INFO -- Model: 3
+2025-03-20 22:08:08,999 INFO -- Edge Accuracy = 50.00, Instantaneous Accuracy = 50.00, Lagged Accuracy = 50.00, Counterfactual Accuracy = 50.00,  Blended Accuracy = 50.00,  RR Accuracy = 75.00  
+2025-03-20 22:08:09,000 INFO -- Model: 4
+2025-03-20 22:08:48,154 INFO -- Edge Accuracy = 60.00, Instantaneous Accuracy = 40.00, Lagged Accuracy = 60.00, Counterfactual Accuracy = 60.00,  Blended Accuracy = 60.00,  RR Accuracy = 60.00  
+2025-03-20 22:08:48,155 INFO -- Model: 5
+2025-03-20 22:10:11,036 INFO -- Edge Accuracy = 50.00, Instantaneous Accuracy = 33.33, Lagged Accuracy = 66.67, Counterfactual Accuracy = 66.67,  Blended Accuracy = 66.67,  RR Accuracy = 66.67  
+2025-03-20 22:10:11,036 INFO -- Model: 6
+2025-03-20 22:10:49,118 INFO -- Edge Accuracy = 57.14, Instantaneous Accuracy = 42.86, Lagged Accuracy = 57.14, Counterfactual Accuracy = 71.43,  Blended Accuracy = 71.43,  RR Accuracy = 57.14  
+2025-03-20 22:10:49,119 INFO -- Model: 7
+2025-03-20 22:11:17,117 INFO -- Edge Accuracy = 50.00, Instantaneous Accuracy = 37.50, Lagged Accuracy = 62.50, Counterfactual Accuracy = 62.50,  Blended Accuracy = 62.50,  RR Accuracy = 50.00  
+2025-03-20 22:11:17,117 INFO -- Model: 8
+2025-03-20 22:12:31,127 INFO -- Edge Accuracy = 55.56, Instantaneous Accuracy = 44.44, Lagged Accuracy = 66.67, Counterfactual Accuracy = 55.56,  Blended Accuracy = 66.67,  RR Accuracy = 55.56  
+2025-03-20 22:12:31,127 INFO -- Model: 9
+2025-03-20 22:13:10,738 INFO -- Edge Accuracy = 50.00, Instantaneous Accuracy = 50.00, Lagged Accuracy = 60.00, Counterfactual Accuracy = 60.00,  Blended Accuracy = 70.00,  RR Accuracy = 50.00  
+2025-03-20 22:13:10,738 INFO -- Model: 10
+2025-03-20 22:13:37,530 INFO -- Edge Accuracy = 45.45, Instantaneous Accuracy = 45.45, Lagged Accuracy = 54.55, Counterfactual Accuracy = 63.64,  Blended Accuracy = 72.73,  RR Accuracy = 45.45  
+2025-03-20 22:13:37,531 INFO -- Model: 11
+2025-03-20 22:14:37,161 INFO -- Edge Accuracy = 41.67, Instantaneous Accuracy = 41.67, Lagged Accuracy = 58.33, Counterfactual Accuracy = 58.33,  Blended Accuracy = 66.67,  RR Accuracy = 41.67  
+2025-03-20 22:14:37,162 INFO -- Model: 12
+2025-03-20 22:16:10,140 INFO -- Edge Accuracy = 46.15, Instantaneous Accuracy = 46.15, Lagged Accuracy = 53.85, Counterfactual Accuracy = 61.54,  Blended Accuracy = 69.23,  RR Accuracy = 38.46  
+2025-03-20 22:16:10,140 INFO -- Model: 13
+2025-03-20 22:16:48,902 INFO -- Edge Accuracy = 42.86, Instantaneous Accuracy = 42.86, Lagged Accuracy = 50.00, Counterfactual Accuracy = 64.29,  Blended Accuracy = 64.29,  RR Accuracy = 42.86  
+2025-03-20 22:16:48,903 INFO -- Model: 14
+2025-03-20 22:17:23,582 INFO -- Edge Accuracy = 40.00, Instantaneous Accuracy = 40.00, Lagged Accuracy = 53.33, Counterfactual Accuracy = 66.67,  Blended Accuracy = 66.67,  RR Accuracy = 40.00  
+2025-03-20 22:17:23,583 INFO -- Model: 15
+2025-03-20 22:18:18,910 INFO -- Edge Accuracy = 37.50, Instantaneous Accuracy = 43.75, Lagged Accuracy = 50.00, Counterfactual Accuracy = 68.75,  Blended Accuracy = 62.50,  RR Accuracy = 43.75  
+2025-03-20 22:18:18,911 INFO -- Model: 16
+2025-03-20 22:19:54,716 INFO -- Edge Accuracy = 41.18, Instantaneous Accuracy = 41.18, Lagged Accuracy = 52.94, Counterfactual Accuracy = 70.59,  Blended Accuracy = 64.71,  RR Accuracy = 47.06  
+2025-03-20 22:19:54,717 INFO -- Model: 17
+2025-03-20 22:26:19,781 INFO -- Edge Accuracy = 38.89, Instantaneous Accuracy = 38.89, Lagged Accuracy = 55.56, Counterfactual Accuracy = 72.22,  Blended Accuracy = 66.67,  RR Accuracy = 44.44  
+2025-03-20 22:26:19,782 INFO -- Model: 18
+2025-03-20 22:27:23,310 INFO -- Edge Accuracy = 36.84, Instantaneous Accuracy = 42.11, Lagged Accuracy = 52.63, Counterfactual Accuracy = 73.68,  Blended Accuracy = 68.42,  RR Accuracy = 42.11  
+2025-03-20 22:27:23,311 INFO -- Model: 19
+2025-03-20 22:27:54,221 INFO -- Edge Accuracy = 40.00, Instantaneous Accuracy = 45.00, Lagged Accuracy = 50.00, Counterfactual Accuracy = 75.00,  Blended Accuracy = 70.00,  RR Accuracy = 45.00  
+2025-03-20 22:27:54,222 INFO -- Model: 20
+2025-03-20 22:28:21,702 INFO -- Edge Accuracy = 38.10, Instantaneous Accuracy = 42.86, Lagged Accuracy = 47.62, Counterfactual Accuracy = 76.19,  Blended Accuracy = 66.67,  RR Accuracy = 47.62  
+2025-03-20 22:28:21,703 INFO -- Model: 21
+2025-03-20 22:29:03,705 INFO -- Edge Accuracy = 36.36, Instantaneous Accuracy = 40.91, Lagged Accuracy = 45.45, Counterfactual Accuracy = 77.27,  Blended Accuracy = 63.64,  RR Accuracy = 45.45  
+2025-03-20 22:29:03,705 INFO -- Model: 22
+2025-03-20 22:30:09,280 INFO -- Edge Accuracy = 34.78, Instantaneous Accuracy = 43.48, Lagged Accuracy = 43.48, Counterfactual Accuracy = 78.26,  Blended Accuracy = 60.87,  RR Accuracy = 47.83  
+2025-03-20 22:30:09,281 INFO -- Model: 23
+2025-03-20 22:36:07,399 INFO -- Edge Accuracy = 33.33, Instantaneous Accuracy = 41.67, Lagged Accuracy = 41.67, Counterfactual Accuracy = 79.17,  Blended Accuracy = 62.50,  RR Accuracy = 50.00  
+2025-03-20 22:36:07,399 INFO -- Model: 24
+2025-03-20 22:36:36,885 INFO -- Edge Accuracy = 32.00, Instantaneous Accuracy = 40.00, Lagged Accuracy = 44.00, Counterfactual Accuracy = 76.00,  Blended Accuracy = 60.00,  RR Accuracy = 52.00  
+2025-03-20 22:36:36,885 INFO -- Model: 25
+2025-03-20 22:37:17,087 INFO -- Edge Accuracy = 30.77, Instantaneous Accuracy = 38.46, Lagged Accuracy = 46.15, Counterfactual Accuracy = 73.08,  Blended Accuracy = 57.69,  RR Accuracy = 50.00  
+2025-03-20 22:37:17,087 INFO -- Model: 26
+2025-03-20 22:38:26,348 INFO -- Edge Accuracy = 29.63, Instantaneous Accuracy = 37.04, Lagged Accuracy = 44.44, Counterfactual Accuracy = 74.07,  Blended Accuracy = 55.56,  RR Accuracy = 51.85  
+2025-03-20 22:38:26,348 INFO -- Model: 27
+2025-03-20 22:39:13,291 INFO -- Edge Accuracy = 28.57, Instantaneous Accuracy = 35.71, Lagged Accuracy = 42.86, Counterfactual Accuracy = 75.00,  Blended Accuracy = 53.57,  RR Accuracy = 50.00  
+2025-03-20 22:39:13,291 INFO -- Model: 28
+2025-03-20 22:40:00,693 INFO -- Edge Accuracy = 31.03, Instantaneous Accuracy = 37.93, Lagged Accuracy = 44.83, Counterfactual Accuracy = 72.41,  Blended Accuracy = 55.17,  RR Accuracy = 51.72  
+2025-03-20 22:40:00,693 INFO -- Model: 29
+2025-03-20 22:40:22,009 INFO -- Edge Accuracy = 30.00, Instantaneous Accuracy = 36.67, Lagged Accuracy = 43.33, Counterfactual Accuracy = 73.33,  Blended Accuracy = 53.33,  RR Accuracy = 53.33  
+2025-03-20 22:40:22,010 INFO -- Model: 30
+2025-03-20 22:41:24,665 INFO -- Edge Accuracy = 29.03, Instantaneous Accuracy = 35.48, Lagged Accuracy = 45.16, Counterfactual Accuracy = 74.19,  Blended Accuracy = 51.61,  RR Accuracy = 51.61  
+2025-03-20 22:41:24,665 INFO -- Model: 31
+2025-03-20 22:42:12,070 INFO -- Edge Accuracy = 31.25, Instantaneous Accuracy = 37.50, Lagged Accuracy = 43.75, Counterfactual Accuracy = 75.00,  Blended Accuracy = 53.12,  RR Accuracy = 50.00  
+2025-03-20 22:42:12,071 INFO -- Model: 32
+2025-03-20 22:43:10,475 INFO -- Edge Accuracy = 30.30, Instantaneous Accuracy = 36.36, Lagged Accuracy = 42.42, Counterfactual Accuracy = 72.73,  Blended Accuracy = 51.52,  RR Accuracy = 48.48  
+2025-03-20 22:43:10,475 INFO -- Model: 33
+2025-03-20 22:43:45,203 INFO -- Edge Accuracy = 29.41, Instantaneous Accuracy = 35.29, Lagged Accuracy = 44.12, Counterfactual Accuracy = 70.59,  Blended Accuracy = 50.00,  RR Accuracy = 50.00  
+2025-03-20 22:43:45,203 INFO -- Model: 34
+2025-03-20 22:44:26,966 INFO -- Edge Accuracy = 31.43, Instantaneous Accuracy = 37.14, Lagged Accuracy = 45.71, Counterfactual Accuracy = 71.43,  Blended Accuracy = 51.43,  RR Accuracy = 51.43  
+2025-03-20 22:44:26,967 INFO -- Model: 35
+2025-03-20 22:45:02,124 INFO -- Edge Accuracy = 30.56, Instantaneous Accuracy = 36.11, Lagged Accuracy = 44.44, Counterfactual Accuracy = 72.22,  Blended Accuracy = 50.00,  RR Accuracy = 50.00  
+2025-03-20 22:45:02,125 INFO -- Model: 36
+2025-03-20 22:45:49,225 INFO -- Edge Accuracy = 32.43, Instantaneous Accuracy = 35.14, Lagged Accuracy = 45.95, Counterfactual Accuracy = 72.97,  Blended Accuracy = 51.35,  RR Accuracy = 48.65  
+2025-03-20 22:45:49,226 INFO -- Model: 37
+2025-03-20 22:46:23,733 INFO -- Edge Accuracy = 34.21, Instantaneous Accuracy = 36.84, Lagged Accuracy = 44.74, Counterfactual Accuracy = 73.68,  Blended Accuracy = 52.63,  RR Accuracy = 47.37  
+2025-03-20 22:46:23,734 INFO -- Model: 38
+2025-03-20 22:47:07,689 INFO -- Edge Accuracy = 35.90, Instantaneous Accuracy = 38.46, Lagged Accuracy = 46.15, Counterfactual Accuracy = 74.36,  Blended Accuracy = 53.85,  RR Accuracy = 46.15  
+2025-03-20 22:47:07,690 INFO -- Model: 39
+2025-03-20 22:48:31,917 INFO -- Edge Accuracy = 37.50, Instantaneous Accuracy = 40.00, Lagged Accuracy = 47.50, Counterfactual Accuracy = 72.50,  Blended Accuracy = 55.00,  RR Accuracy = 45.00  
+2025-03-20 22:48:31,917 INFO -- Model: 40
+2025-03-20 22:50:05,113 INFO -- Edge Accuracy = 39.02, Instantaneous Accuracy = 41.46, Lagged Accuracy = 46.34, Counterfactual Accuracy = 70.73,  Blended Accuracy = 53.66,  RR Accuracy = 46.34  
+2025-03-20 22:50:05,114 INFO -- Model: 41
+2025-03-20 22:50:41,766 INFO -- Edge Accuracy = 38.10, Instantaneous Accuracy = 40.48, Lagged Accuracy = 45.24, Counterfactual Accuracy = 71.43,  Blended Accuracy = 54.76,  RR Accuracy = 45.24  
+2025-03-20 22:50:41,767 INFO -- Model: 42
+2025-03-20 22:51:36,491 INFO -- Edge Accuracy = 39.53, Instantaneous Accuracy = 41.86, Lagged Accuracy = 46.51, Counterfactual Accuracy = 69.77,  Blended Accuracy = 55.81,  RR Accuracy = 46.51  
+2025-03-20 22:51:36,492 INFO -- Model: 43
+2025-03-20 22:52:29,667 INFO -- Edge Accuracy = 40.91, Instantaneous Accuracy = 43.18, Lagged Accuracy = 47.73, Counterfactual Accuracy = 68.18,  Blended Accuracy = 56.82,  RR Accuracy = 47.73  
+2025-03-20 22:52:29,668 INFO -- Model: 44
+2025-03-20 22:52:54,830 INFO -- Edge Accuracy = 42.22, Instantaneous Accuracy = 44.44, Lagged Accuracy = 46.67, Counterfactual Accuracy = 68.89,  Blended Accuracy = 57.78,  RR Accuracy = 46.67  
+2025-03-20 22:52:54,830 INFO -- Model: 45
+2025-03-20 22:54:01,684 INFO -- Edge Accuracy = 41.30, Instantaneous Accuracy = 43.48, Lagged Accuracy = 45.65, Counterfactual Accuracy = 69.57,  Blended Accuracy = 56.52,  RR Accuracy = 47.83  
+2025-03-20 22:54:01,685 INFO -- Model: 46
+2025-03-20 22:54:44,382 INFO -- Edge Accuracy = 42.55, Instantaneous Accuracy = 42.55, Lagged Accuracy = 46.81, Counterfactual Accuracy = 68.09,  Blended Accuracy = 57.45,  RR Accuracy = 46.81  
+2025-03-20 22:54:44,383 INFO -- Model: 47
+2025-03-20 22:59:06,129 INFO -- Edge Accuracy = 41.67, Instantaneous Accuracy = 41.67, Lagged Accuracy = 45.83, Counterfactual Accuracy = 68.75,  Blended Accuracy = 56.25,  RR Accuracy = 45.83  
+2025-03-20 22:59:06,129 INFO -- Model: 48
+2025-03-20 22:59:50,518 INFO -- Edge Accuracy = 42.86, Instantaneous Accuracy = 42.86, Lagged Accuracy = 44.90, Counterfactual Accuracy = 67.35,  Blended Accuracy = 57.14,  RR Accuracy = 46.94  
+2025-03-20 22:59:50,519 INFO -- Model: 49
+2025-03-20 23:06:30,600 INFO -- Edge Accuracy = 42.00, Instantaneous Accuracy = 42.00, Lagged Accuracy = 44.00, Counterfactual Accuracy = 66.00,  Blended Accuracy = 56.00,  RR Accuracy = 48.00  
+2025-03-20 23:06:30,601 INFO -- Model: 50
+2025-03-20 23:06:55,619 INFO -- Edge Accuracy = 43.14, Instantaneous Accuracy = 41.18, Lagged Accuracy = 45.10, Counterfactual Accuracy = 66.67,  Blended Accuracy = 56.86,  RR Accuracy = 47.06  
+2025-03-20 23:06:55,620 INFO -- Model: 51
+2025-03-20 23:08:31,989 INFO -- Edge Accuracy = 42.31, Instantaneous Accuracy = 40.38, Lagged Accuracy = 46.15, Counterfactual Accuracy = 65.38,  Blended Accuracy = 55.77,  RR Accuracy = 46.15  
+2025-03-20 23:08:31,990 INFO -- Model: 52
+2025-03-20 23:09:28,710 INFO -- Edge Accuracy = 41.51, Instantaneous Accuracy = 39.62, Lagged Accuracy = 45.28, Counterfactual Accuracy = 64.15,  Blended Accuracy = 54.72,  RR Accuracy = 45.28  
+2025-03-20 23:09:28,710 INFO -- Model: 53
+2025-03-20 23:18:02,540 INFO -- Edge Accuracy = 42.59, Instantaneous Accuracy = 40.74, Lagged Accuracy = 46.30, Counterfactual Accuracy = 64.81,  Blended Accuracy = 55.56,  RR Accuracy = 44.44  
+2025-03-20 23:18:02,540 INFO -- Model: 54
+2025-03-20 23:20:01,545 INFO -- Edge Accuracy = 41.82, Instantaneous Accuracy = 41.82, Lagged Accuracy = 45.45, Counterfactual Accuracy = 65.45,  Blended Accuracy = 56.36,  RR Accuracy = 43.64  
+2025-03-20 23:20:01,546 INFO -- Model: 55
+2025-03-20 23:20:43,793 INFO -- Edge Accuracy = 41.07, Instantaneous Accuracy = 41.07, Lagged Accuracy = 44.64, Counterfactual Accuracy = 64.29,  Blended Accuracy = 55.36,  RR Accuracy = 44.64  
+2025-03-20 23:20:43,794 INFO -- Model: 56
+2025-03-20 23:21:45,780 INFO -- Edge Accuracy = 42.11, Instantaneous Accuracy = 42.11, Lagged Accuracy = 45.61, Counterfactual Accuracy = 64.91,  Blended Accuracy = 56.14,  RR Accuracy = 43.86  
+2025-03-20 23:21:45,780 INFO -- Model: 57
+2025-03-20 23:22:39,492 INFO -- Edge Accuracy = 41.38, Instantaneous Accuracy = 41.38, Lagged Accuracy = 46.55, Counterfactual Accuracy = 65.52,  Blended Accuracy = 55.17,  RR Accuracy = 43.10  
+2025-03-20 23:22:39,493 INFO -- Model: 58
+2025-03-20 23:23:22,379 INFO -- Edge Accuracy = 42.37, Instantaneous Accuracy = 42.37, Lagged Accuracy = 47.46, Counterfactual Accuracy = 64.41,  Blended Accuracy = 55.93,  RR Accuracy = 42.37  
+2025-03-20 23:23:22,380 INFO -- Model: 59
+2025-03-20 23:23:50,456 INFO -- Edge Accuracy = 43.33, Instantaneous Accuracy = 43.33, Lagged Accuracy = 48.33, Counterfactual Accuracy = 63.33,  Blended Accuracy = 56.67,  RR Accuracy = 41.67  
+2025-03-20 23:23:50,457 INFO -- Model: 60
+2025-03-20 23:24:47,951 INFO -- Edge Accuracy = 44.26, Instantaneous Accuracy = 44.26, Lagged Accuracy = 47.54, Counterfactual Accuracy = 63.93,  Blended Accuracy = 55.74,  RR Accuracy = 42.62  
+2025-03-20 23:24:47,951 INFO -- Model: 61
+2025-03-20 23:25:42,184 INFO -- Edge Accuracy = 45.16, Instantaneous Accuracy = 43.55, Lagged Accuracy = 48.39, Counterfactual Accuracy = 62.90,  Blended Accuracy = 56.45,  RR Accuracy = 41.94  
+2025-03-20 23:25:42,185 INFO -- Model: 62
+2025-03-20 23:26:13,784 INFO -- Edge Accuracy = 46.03, Instantaneous Accuracy = 44.44, Lagged Accuracy = 47.62, Counterfactual Accuracy = 61.90,  Blended Accuracy = 55.56,  RR Accuracy = 42.86  
+2025-03-20 23:26:13,784 INFO -- Model: 63
+2025-03-20 23:27:19,600 INFO -- Edge Accuracy = 45.31, Instantaneous Accuracy = 43.75, Lagged Accuracy = 46.88, Counterfactual Accuracy = 62.50,  Blended Accuracy = 54.69,  RR Accuracy = 42.19  
+2025-03-20 23:27:19,600 INFO -- Model: 64
+2025-03-20 23:28:02,035 INFO -- Edge Accuracy = 46.15, Instantaneous Accuracy = 44.62, Lagged Accuracy = 46.15, Counterfactual Accuracy = 61.54,  Blended Accuracy = 55.38,  RR Accuracy = 43.08  
+2025-03-20 23:28:02,036 INFO -- Model: 65
+2025-03-20 23:29:14,542 INFO -- Edge Accuracy = 45.45, Instantaneous Accuracy = 45.45, Lagged Accuracy = 45.45, Counterfactual Accuracy = 60.61,  Blended Accuracy = 54.55,  RR Accuracy = 43.94  
+2025-03-20 23:29:14,543 INFO -- Model: 66
+2025-03-20 23:30:16,700 INFO -- Edge Accuracy = 44.78, Instantaneous Accuracy = 44.78, Lagged Accuracy = 44.78, Counterfactual Accuracy = 61.19,  Blended Accuracy = 55.22,  RR Accuracy = 44.78  
+2025-03-20 23:30:16,700 INFO -- Model: 67
+2025-03-20 23:30:54,242 INFO -- Edge Accuracy = 45.59, Instantaneous Accuracy = 45.59, Lagged Accuracy = 45.59, Counterfactual Accuracy = 61.76,  Blended Accuracy = 55.88,  RR Accuracy = 44.12  
+2025-03-20 23:30:54,242 INFO -- Model: 68
+2025-03-20 23:31:26,049 INFO -- Edge Accuracy = 46.38, Instantaneous Accuracy = 46.38, Lagged Accuracy = 46.38, Counterfactual Accuracy = 62.32,  Blended Accuracy = 56.52,  RR Accuracy = 44.93  
+2025-03-20 23:31:26,050 INFO -- Model: 69
+2025-03-20 23:35:19,537 INFO -- Edge Accuracy = 45.71, Instantaneous Accuracy = 47.14, Lagged Accuracy = 45.71, Counterfactual Accuracy = 61.43,  Blended Accuracy = 55.71,  RR Accuracy = 45.71  
+2025-03-20 23:35:19,538 INFO -- Model: 70
+2025-03-20 23:35:52,102 INFO -- Edge Accuracy = 46.48, Instantaneous Accuracy = 47.89, Lagged Accuracy = 45.07, Counterfactual Accuracy = 60.56,  Blended Accuracy = 56.34,  RR Accuracy = 46.48  
+2025-03-20 23:35:52,103 INFO -- Model: 71
+2025-03-20 23:37:03,875 INFO -- Edge Accuracy = 45.83, Instantaneous Accuracy = 47.22, Lagged Accuracy = 45.83, Counterfactual Accuracy = 61.11,  Blended Accuracy = 56.94,  RR Accuracy = 45.83  
+2025-03-20 23:37:03,876 INFO -- Model: 72
+2025-03-20 23:42:22,919 INFO -- Edge Accuracy = 45.21, Instantaneous Accuracy = 46.58, Lagged Accuracy = 45.21, Counterfactual Accuracy = 60.27,  Blended Accuracy = 56.16,  RR Accuracy = 46.58  
+2025-03-20 23:42:22,919 INFO -- Model: 73
+2025-03-20 23:43:01,616 INFO -- Edge Accuracy = 45.95, Instantaneous Accuracy = 47.30, Lagged Accuracy = 44.59, Counterfactual Accuracy = 59.46,  Blended Accuracy = 56.76,  RR Accuracy = 45.95  
+2025-03-20 23:43:01,617 INFO -- Model: 74
+2025-03-20 23:44:35,713 INFO -- Edge Accuracy = 45.33, Instantaneous Accuracy = 48.00, Lagged Accuracy = 44.00, Counterfactual Accuracy = 58.67,  Blended Accuracy = 56.00,  RR Accuracy = 46.67  
+2025-03-20 23:44:35,714 INFO -- Model: 75
+2025-03-20 23:45:13,115 INFO -- Edge Accuracy = 44.74, Instantaneous Accuracy = 47.37, Lagged Accuracy = 43.42, Counterfactual Accuracy = 57.89,  Blended Accuracy = 55.26,  RR Accuracy = 46.05  
+2025-03-20 23:45:13,115 INFO -- Model: 76
+2025-03-20 23:47:09,525 INFO -- Edge Accuracy = 45.45, Instantaneous Accuracy = 48.05, Lagged Accuracy = 44.16, Counterfactual Accuracy = 58.44,  Blended Accuracy = 55.84,  RR Accuracy = 45.45  
+2025-03-20 23:47:09,526 INFO -- Model: 77
+2025-03-20 23:47:49,212 INFO -- Edge Accuracy = 44.87, Instantaneous Accuracy = 47.44, Lagged Accuracy = 43.59, Counterfactual Accuracy = 57.69,  Blended Accuracy = 55.13,  RR Accuracy = 46.15  
+2025-03-20 23:47:49,212 INFO -- Model: 78
+2025-03-20 23:48:46,907 INFO -- Edge Accuracy = 44.30, Instantaneous Accuracy = 46.84, Lagged Accuracy = 43.04, Counterfactual Accuracy = 56.96,  Blended Accuracy = 54.43,  RR Accuracy = 45.57  
+2025-03-20 23:48:46,908 INFO -- Model: 79
+2025-03-20 23:49:21,406 INFO -- Edge Accuracy = 43.75, Instantaneous Accuracy = 46.25, Lagged Accuracy = 42.50, Counterfactual Accuracy = 56.25,  Blended Accuracy = 53.75,  RR Accuracy = 45.00  
+2025-03-20 23:49:21,407 INFO -- Model: 80
+2025-03-20 23:50:08,031 INFO -- Edge Accuracy = 44.44, Instantaneous Accuracy = 46.91, Lagged Accuracy = 43.21, Counterfactual Accuracy = 56.79,  Blended Accuracy = 54.32,  RR Accuracy = 45.68  
+2025-03-20 23:50:08,031 INFO -- Model: 81
+2025-03-20 23:51:30,497 INFO -- Edge Accuracy = 43.90, Instantaneous Accuracy = 46.34, Lagged Accuracy = 42.68, Counterfactual Accuracy = 57.32,  Blended Accuracy = 53.66,  RR Accuracy = 45.12  
+2025-03-20 23:51:30,497 INFO -- Model: 82
+2025-03-20 23:52:31,281 INFO -- Edge Accuracy = 43.37, Instantaneous Accuracy = 45.78, Lagged Accuracy = 42.17, Counterfactual Accuracy = 57.83,  Blended Accuracy = 53.01,  RR Accuracy = 44.58  
+2025-03-20 23:52:31,282 INFO -- Model: 83
+2025-03-20 23:53:32,936 INFO -- Edge Accuracy = 42.86, Instantaneous Accuracy = 45.24, Lagged Accuracy = 41.67, Counterfactual Accuracy = 57.14,  Blended Accuracy = 52.38,  RR Accuracy = 45.24  
+2025-03-20 23:53:32,937 INFO -- Model: 84
+2025-03-20 23:54:16,625 INFO -- Edge Accuracy = 43.53, Instantaneous Accuracy = 45.88, Lagged Accuracy = 42.35, Counterfactual Accuracy = 56.47,  Blended Accuracy = 52.94,  RR Accuracy = 44.71  
+2025-03-20 23:54:16,626 INFO -- Model: 85
+2025-03-20 23:54:50,596 INFO -- Edge Accuracy = 43.02, Instantaneous Accuracy = 45.35, Lagged Accuracy = 41.86, Counterfactual Accuracy = 55.81,  Blended Accuracy = 52.33,  RR Accuracy = 45.35  
+2025-03-20 23:54:50,597 INFO -- Model: 86
+2025-03-21 00:13:12,344 INFO -- Edge Accuracy = 43.68, Instantaneous Accuracy = 45.98, Lagged Accuracy = 42.53, Counterfactual Accuracy = 56.32,  Blended Accuracy = 52.87,  RR Accuracy = 44.83  
+2025-03-21 00:13:12,345 INFO -- Model: 87
+2025-03-21 00:13:58,298 INFO -- Edge Accuracy = 44.32, Instantaneous Accuracy = 45.45, Lagged Accuracy = 43.18, Counterfactual Accuracy = 56.82,  Blended Accuracy = 53.41,  RR Accuracy = 44.32  
+2025-03-21 00:13:58,298 INFO -- Model: 88
+2025-03-21 00:24:00,946 INFO -- Edge Accuracy = 43.82, Instantaneous Accuracy = 44.94, Lagged Accuracy = 42.70, Counterfactual Accuracy = 57.30,  Blended Accuracy = 53.93,  RR Accuracy = 43.82  
+2025-03-21 00:24:00,946 INFO -- Model: 89
+2025-03-21 00:32:16,119 INFO -- Edge Accuracy = 43.33, Instantaneous Accuracy = 44.44, Lagged Accuracy = 43.33, Counterfactual Accuracy = 56.67,  Blended Accuracy = 53.33,  RR Accuracy = 44.44  
+2025-03-21 00:32:16,119 INFO -- Model: 90
+2025-03-21 00:36:02,806 INFO -- Edge Accuracy = 43.96, Instantaneous Accuracy = 45.05, Lagged Accuracy = 42.86, Counterfactual Accuracy = 57.14,  Blended Accuracy = 53.85,  RR Accuracy = 45.05  
+2025-03-21 00:36:02,806 INFO -- Model: 91
+2025-03-21 00:36:42,818 INFO -- Edge Accuracy = 43.48, Instantaneous Accuracy = 44.57, Lagged Accuracy = 42.39, Counterfactual Accuracy = 57.61,  Blended Accuracy = 53.26,  RR Accuracy = 44.57  
+2025-03-21 00:36:42,818 INFO -- Model: 92
+2025-03-21 00:38:55,257 INFO -- Edge Accuracy = 43.01, Instantaneous Accuracy = 45.16, Lagged Accuracy = 41.94, Counterfactual Accuracy = 58.06,  Blended Accuracy = 53.76,  RR Accuracy = 44.09  
+2025-03-21 00:38:55,257 INFO -- Model: 93
+2025-03-21 00:39:28,188 INFO -- Edge Accuracy = 42.55, Instantaneous Accuracy = 45.74, Lagged Accuracy = 41.49, Counterfactual Accuracy = 57.45,  Blended Accuracy = 53.19,  RR Accuracy = 44.68  
+2025-03-21 00:39:28,188 INFO -- Model: 94
+2025-03-21 00:40:25,549 INFO -- Edge Accuracy = 42.11, Instantaneous Accuracy = 45.26, Lagged Accuracy = 41.05, Counterfactual Accuracy = 57.89,  Blended Accuracy = 53.68,  RR Accuracy = 45.26  
+2025-03-21 00:40:25,550 INFO -- Model: 95
+2025-03-21 00:41:24,045 INFO -- Edge Accuracy = 42.71, Instantaneous Accuracy = 45.83, Lagged Accuracy = 40.62, Counterfactual Accuracy = 58.33,  Blended Accuracy = 54.17,  RR Accuracy = 45.83  
+2025-03-21 00:41:24,045 INFO -- Model: 96
+2025-03-21 00:41:59,901 INFO -- Edge Accuracy = 42.27, Instantaneous Accuracy = 46.39, Lagged Accuracy = 40.21, Counterfactual Accuracy = 57.73,  Blended Accuracy = 53.61,  RR Accuracy = 46.39  
+2025-03-21 00:41:59,902 INFO -- Model: 97
+2025-03-21 00:42:50,728 INFO -- Edge Accuracy = 41.84, Instantaneous Accuracy = 46.94, Lagged Accuracy = 39.80, Counterfactual Accuracy = 57.14,  Blended Accuracy = 53.06,  RR Accuracy = 46.94  
+2025-03-21 00:42:50,728 INFO -- Model: 98
+2025-03-21 00:43:44,851 INFO -- Edge Accuracy = 42.42, Instantaneous Accuracy = 47.47, Lagged Accuracy = 40.40, Counterfactual Accuracy = 57.58,  Blended Accuracy = 53.54,  RR Accuracy = 46.46  
+2025-03-21 00:43:44,852 INFO -- Model: 99
+2025-03-21 00:44:11,394 INFO -- Edge Accuracy = 43.00, Instantaneous Accuracy = 48.00, Lagged Accuracy = 40.00, Counterfactual Accuracy = 58.00,  Blended Accuracy = 54.00,  RR Accuracy = 46.00  
+2025-03-21 00:44:11,395 INFO -- Model: 100
+2025-03-21 00:48:07,776 INFO -- Edge Accuracy = 43.56, Instantaneous Accuracy = 48.51, Lagged Accuracy = 39.60, Counterfactual Accuracy = 57.43,  Blended Accuracy = 54.46,  RR Accuracy = 46.53  
+2025-03-21 00:48:07,776 INFO -- Model: 101
+2025-03-21 00:49:35,675 INFO -- Edge Accuracy = 44.12, Instantaneous Accuracy = 48.04, Lagged Accuracy = 40.20, Counterfactual Accuracy = 57.84,  Blended Accuracy = 54.90,  RR Accuracy = 47.06  
+2025-03-21 00:49:35,675 INFO -- Model: 102
+2025-03-21 00:50:14,047 INFO -- Edge Accuracy = 43.69, Instantaneous Accuracy = 47.57, Lagged Accuracy = 39.81, Counterfactual Accuracy = 57.28,  Blended Accuracy = 54.37,  RR Accuracy = 46.60  
+2025-03-21 00:50:14,047 INFO -- Model: 103
+2025-03-21 00:51:28,971 INFO -- Edge Accuracy = 43.27, Instantaneous Accuracy = 47.12, Lagged Accuracy = 39.42, Counterfactual Accuracy = 56.73,  Blended Accuracy = 53.85,  RR Accuracy = 46.15  
+2025-03-21 00:51:28,972 INFO -- Model: 104
+2025-03-21 00:56:20,495 INFO -- Edge Accuracy = 42.86, Instantaneous Accuracy = 46.67, Lagged Accuracy = 39.05, Counterfactual Accuracy = 57.14,  Blended Accuracy = 53.33,  RR Accuracy = 45.71  
+2025-03-21 00:56:20,495 INFO -- Model: 105
+2025-03-21 00:59:03,707 INFO -- Edge Accuracy = 42.45, Instantaneous Accuracy = 46.23, Lagged Accuracy = 38.68, Counterfactual Accuracy = 57.55,  Blended Accuracy = 52.83,  RR Accuracy = 46.23  
+2025-03-21 00:59:03,707 INFO -- Model: 106
+2025-03-21 00:59:37,309 INFO -- Edge Accuracy = 42.99, Instantaneous Accuracy = 46.73, Lagged Accuracy = 38.32, Counterfactual Accuracy = 57.01,  Blended Accuracy = 53.27,  RR Accuracy = 46.73  
+2025-03-21 00:59:37,309 INFO -- Model: 107
+2025-03-21 01:00:10,301 INFO -- Edge Accuracy = 43.52, Instantaneous Accuracy = 46.30, Lagged Accuracy = 38.89, Counterfactual Accuracy = 56.48,  Blended Accuracy = 53.70,  RR Accuracy = 46.30  
+2025-03-21 01:00:10,301 INFO -- Model: 108
+2025-03-21 01:00:39,861 INFO -- Edge Accuracy = 44.04, Instantaneous Accuracy = 46.79, Lagged Accuracy = 38.53, Counterfactual Accuracy = 55.96,  Blended Accuracy = 54.13,  RR Accuracy = 46.79  
+2025-03-21 01:00:39,861 INFO -- Model: 109
+2025-03-21 01:01:21,622 INFO -- Edge Accuracy = 44.55, Instantaneous Accuracy = 46.36, Lagged Accuracy = 39.09, Counterfactual Accuracy = 55.45,  Blended Accuracy = 54.55,  RR Accuracy = 47.27  
+2025-03-21 01:01:21,622 INFO -- Model: 110
+2025-03-21 01:02:00,072 INFO -- Edge Accuracy = 45.05, Instantaneous Accuracy = 46.85, Lagged Accuracy = 39.64, Counterfactual Accuracy = 55.86,  Blended Accuracy = 54.95,  RR Accuracy = 47.75  
+2025-03-21 01:02:00,072 INFO -- Model: 111
+2025-03-21 01:02:38,774 INFO -- Edge Accuracy = 44.64, Instantaneous Accuracy = 46.43, Lagged Accuracy = 39.29, Counterfactual Accuracy = 56.25,  Blended Accuracy = 54.46,  RR Accuracy = 48.21  
+2025-03-21 01:02:38,775 INFO -- Model: 112
+2025-03-21 01:04:34,390 INFO -- Edge Accuracy = 44.25, Instantaneous Accuracy = 46.02, Lagged Accuracy = 39.82, Counterfactual Accuracy = 56.64,  Blended Accuracy = 54.87,  RR Accuracy = 47.79  
+2025-03-21 01:04:34,390 INFO -- Model: 113
+2025-03-21 01:05:20,803 INFO -- Edge Accuracy = 44.74, Instantaneous Accuracy = 45.61, Lagged Accuracy = 40.35, Counterfactual Accuracy = 57.02,  Blended Accuracy = 55.26,  RR Accuracy = 48.25  
+2025-03-21 01:05:20,803 INFO -- Model: 114
+2025-03-21 01:05:56,119 INFO -- Edge Accuracy = 45.22, Instantaneous Accuracy = 45.22, Lagged Accuracy = 40.87, Counterfactual Accuracy = 56.52,  Blended Accuracy = 55.65,  RR Accuracy = 48.70  
+2025-03-21 01:05:56,120 INFO -- Model: 115
+2025-03-21 01:09:02,713 INFO -- Edge Accuracy = 45.69, Instantaneous Accuracy = 45.69, Lagged Accuracy = 41.38, Counterfactual Accuracy = 56.03,  Blended Accuracy = 56.03,  RR Accuracy = 49.14  
+2025-03-21 01:09:02,713 INFO -- Model: 116
+2025-03-21 01:10:27,968 INFO -- Edge Accuracy = 45.30, Instantaneous Accuracy = 45.30, Lagged Accuracy = 41.88, Counterfactual Accuracy = 56.41,  Blended Accuracy = 56.41,  RR Accuracy = 49.57  
+2025-03-21 01:10:27,968 INFO -- Model: 117
+2025-03-21 01:11:13,750 INFO -- Edge Accuracy = 45.76, Instantaneous Accuracy = 44.92, Lagged Accuracy = 42.37, Counterfactual Accuracy = 55.93,  Blended Accuracy = 55.93,  RR Accuracy = 49.15  
+2025-03-21 01:11:13,751 INFO -- Model: 118
+2025-03-21 01:12:13,625 INFO -- Edge Accuracy = 46.22, Instantaneous Accuracy = 45.38, Lagged Accuracy = 42.86, Counterfactual Accuracy = 56.30,  Blended Accuracy = 56.30,  RR Accuracy = 48.74  
+2025-03-21 01:12:13,625 INFO -- Model: 119
+2025-03-21 01:13:05,523 INFO -- Edge Accuracy = 46.67, Instantaneous Accuracy = 45.83, Lagged Accuracy = 43.33, Counterfactual Accuracy = 55.83,  Blended Accuracy = 56.67,  RR Accuracy = 48.33  
+2025-03-21 01:13:05,524 INFO -- Model: 120
+2025-03-21 01:14:12,735 INFO -- Edge Accuracy = 46.28, Instantaneous Accuracy = 45.45, Lagged Accuracy = 42.98, Counterfactual Accuracy = 55.37,  Blended Accuracy = 56.20,  RR Accuracy = 48.76  
+2025-03-21 01:14:12,736 INFO -- Model: 121
+2025-03-21 01:15:25,234 INFO -- Edge Accuracy = 45.90, Instantaneous Accuracy = 45.08, Lagged Accuracy = 42.62, Counterfactual Accuracy = 54.92,  Blended Accuracy = 55.74,  RR Accuracy = 48.36  
+2025-03-21 01:15:25,235 INFO -- Model: 122
+2025-03-21 01:16:04,869 INFO -- Edge Accuracy = 46.34, Instantaneous Accuracy = 45.53, Lagged Accuracy = 42.28, Counterfactual Accuracy = 54.47,  Blended Accuracy = 55.28,  RR Accuracy = 47.97  
+2025-03-21 01:16:04,869 INFO -- Model: 123
+2025-03-21 01:16:43,200 INFO -- Edge Accuracy = 45.97, Instantaneous Accuracy = 45.97, Lagged Accuracy = 41.94, Counterfactual Accuracy = 54.03,  Blended Accuracy = 54.84,  RR Accuracy = 48.39  
+2025-03-21 01:16:43,200 INFO -- Model: 124
+2025-03-21 01:18:30,972 INFO -- Edge Accuracy = 45.60, Instantaneous Accuracy = 45.60, Lagged Accuracy = 41.60, Counterfactual Accuracy = 54.40,  Blended Accuracy = 54.40,  RR Accuracy = 48.00  
+2025-03-21 01:18:30,973 INFO -- Model: 125
+2025-03-21 01:19:30,800 INFO -- Edge Accuracy = 45.24, Instantaneous Accuracy = 45.24, Lagged Accuracy = 41.27, Counterfactual Accuracy = 53.97,  Blended Accuracy = 53.97,  RR Accuracy = 48.41  
+2025-03-21 01:19:30,801 INFO -- Model: 126
+2025-03-21 01:20:32,781 INFO -- Edge Accuracy = 44.88, Instantaneous Accuracy = 45.67, Lagged Accuracy = 40.94, Counterfactual Accuracy = 53.54,  Blended Accuracy = 53.54,  RR Accuracy = 48.03  
+2025-03-21 01:20:32,781 INFO -- Model: 127
+2025-03-21 01:21:32,243 INFO -- Edge Accuracy = 45.31, Instantaneous Accuracy = 45.31, Lagged Accuracy = 41.41, Counterfactual Accuracy = 53.91,  Blended Accuracy = 53.91,  RR Accuracy = 47.66  
+2025-03-21 01:21:32,244 INFO -- Model: 128
+2025-03-21 01:22:17,075 INFO -- Edge Accuracy = 44.96, Instantaneous Accuracy = 44.96, Lagged Accuracy = 41.09, Counterfactual Accuracy = 53.49,  Blended Accuracy = 53.49,  RR Accuracy = 48.06  
+2025-03-21 01:22:17,075 INFO -- Model: 129
+2025-03-21 01:22:46,088 INFO -- Edge Accuracy = 45.38, Instantaneous Accuracy = 45.38, Lagged Accuracy = 41.54, Counterfactual Accuracy = 53.85,  Blended Accuracy = 53.85,  RR Accuracy = 47.69  
+2025-03-21 01:22:46,088 INFO -- Model: 130
+2025-03-21 01:23:12,562 INFO -- Edge Accuracy = 45.04, Instantaneous Accuracy = 45.04, Lagged Accuracy = 41.22, Counterfactual Accuracy = 54.20,  Blended Accuracy = 53.44,  RR Accuracy = 47.33  
+2025-03-21 01:23:12,563 INFO -- Model: 131
+2025-03-21 01:24:04,771 INFO -- Edge Accuracy = 44.70, Instantaneous Accuracy = 44.70, Lagged Accuracy = 40.91, Counterfactual Accuracy = 54.55,  Blended Accuracy = 53.03,  RR Accuracy = 47.73  
+2025-03-21 01:24:04,772 INFO -- Model: 132
+2025-03-21 01:25:43,997 INFO -- Edge Accuracy = 45.11, Instantaneous Accuracy = 45.11, Lagged Accuracy = 41.35, Counterfactual Accuracy = 54.89,  Blended Accuracy = 53.38,  RR Accuracy = 48.12  
+2025-03-21 01:25:43,997 INFO -- Model: 133
+2025-03-21 01:26:44,134 INFO -- Edge Accuracy = 45.52, Instantaneous Accuracy = 44.78, Lagged Accuracy = 41.79, Counterfactual Accuracy = 55.22,  Blended Accuracy = 53.73,  RR Accuracy = 48.51  
+2025-03-21 01:26:44,135 INFO -- Model: 134
+2025-03-21 01:27:56,640 INFO -- Edge Accuracy = 45.93, Instantaneous Accuracy = 45.19, Lagged Accuracy = 42.22, Counterfactual Accuracy = 54.81,  Blended Accuracy = 54.07,  RR Accuracy = 48.89  
+2025-03-21 01:27:56,641 INFO -- Model: 135
+2025-03-21 01:31:44,388 INFO -- Edge Accuracy = 46.32, Instantaneous Accuracy = 44.85, Lagged Accuracy = 42.65, Counterfactual Accuracy = 54.41,  Blended Accuracy = 53.68,  RR Accuracy = 49.26  
+2025-03-21 01:31:44,388 INFO -- Model: 136
+2025-03-21 01:32:55,559 INFO -- Edge Accuracy = 45.99, Instantaneous Accuracy = 44.53, Lagged Accuracy = 42.34, Counterfactual Accuracy = 54.74,  Blended Accuracy = 53.28,  RR Accuracy = 48.91  
+2025-03-21 01:32:55,559 INFO -- Model: 137
+2025-03-21 01:33:32,305 INFO -- Edge Accuracy = 45.65, Instantaneous Accuracy = 44.20, Lagged Accuracy = 42.75, Counterfactual Accuracy = 54.35,  Blended Accuracy = 52.90,  RR Accuracy = 49.28  
+2025-03-21 01:33:32,305 INFO -- Model: 138
+2025-03-21 01:40:28,678 INFO -- Edge Accuracy = 46.04, Instantaneous Accuracy = 44.60, Lagged Accuracy = 42.45, Counterfactual Accuracy = 54.68,  Blended Accuracy = 52.52,  RR Accuracy = 48.92  
+2025-03-21 01:40:28,678 INFO -- Model: 139
+2025-03-21 01:41:36,666 INFO -- Edge Accuracy = 45.71, Instantaneous Accuracy = 45.00, Lagged Accuracy = 42.14, Counterfactual Accuracy = 55.00,  Blended Accuracy = 52.86,  RR Accuracy = 49.29  
+2025-03-21 01:41:36,667 INFO -- Model: 140
+2025-03-21 01:42:23,657 INFO -- Edge Accuracy = 46.10, Instantaneous Accuracy = 45.39, Lagged Accuracy = 42.55, Counterfactual Accuracy = 54.61,  Blended Accuracy = 53.19,  RR Accuracy = 49.65  
+2025-03-21 01:42:23,657 INFO -- Model: 141
+2025-03-21 01:43:06,840 INFO -- Edge Accuracy = 45.77, Instantaneous Accuracy = 45.07, Lagged Accuracy = 42.25, Counterfactual Accuracy = 54.23,  Blended Accuracy = 52.82,  RR Accuracy = 50.00  
+2025-03-21 01:43:06,841 INFO -- Model: 142
+2025-03-21 01:47:23,847 INFO -- Edge Accuracy = 46.15, Instantaneous Accuracy = 45.45, Lagged Accuracy = 42.66, Counterfactual Accuracy = 54.55,  Blended Accuracy = 53.15,  RR Accuracy = 49.65  
+2025-03-21 01:47:23,847 INFO -- Model: 143
+2025-03-21 01:48:33,625 INFO -- Edge Accuracy = 46.53, Instantaneous Accuracy = 45.14, Lagged Accuracy = 43.06, Counterfactual Accuracy = 54.86,  Blended Accuracy = 53.47,  RR Accuracy = 49.31  
+2025-03-21 01:48:33,625 INFO -- Model: 144
+2025-03-21 01:49:12,318 INFO -- Edge Accuracy = 46.21, Instantaneous Accuracy = 44.83, Lagged Accuracy = 42.76, Counterfactual Accuracy = 54.48,  Blended Accuracy = 53.10,  RR Accuracy = 48.97  
+2025-03-21 01:49:12,319 INFO -- Model: 145
+2025-03-21 01:51:49,371 INFO -- Edge Accuracy = 45.89, Instantaneous Accuracy = 45.21, Lagged Accuracy = 43.15, Counterfactual Accuracy = 54.11,  Blended Accuracy = 52.74,  RR Accuracy = 49.32  
+2025-03-21 01:51:49,371 INFO -- Model: 146
+2025-03-21 01:52:30,277 INFO -- Edge Accuracy = 45.58, Instantaneous Accuracy = 45.58, Lagged Accuracy = 42.86, Counterfactual Accuracy = 53.74,  Blended Accuracy = 52.38,  RR Accuracy = 48.98  
+2025-03-21 01:52:30,278 INFO -- Model: 147
+2025-03-21 01:56:13,978 INFO -- Edge Accuracy = 45.27, Instantaneous Accuracy = 45.27, Lagged Accuracy = 42.57, Counterfactual Accuracy = 53.38,  Blended Accuracy = 52.03,  RR Accuracy = 49.32  
+2025-03-21 01:56:13,979 INFO -- Model: 148
+2025-03-21 01:57:06,183 INFO -- Edge Accuracy = 45.64, Instantaneous Accuracy = 45.64, Lagged Accuracy = 42.95, Counterfactual Accuracy = 53.69,  Blended Accuracy = 52.35,  RR Accuracy = 49.66  
+2025-03-21 01:57:06,183 INFO -- Model: 149
+2025-03-21 01:58:05,473 INFO -- Edge Accuracy = 46.00, Instantaneous Accuracy = 46.00, Lagged Accuracy = 43.33, Counterfactual Accuracy = 54.00,  Blended Accuracy = 52.67,  RR Accuracy = 49.33  
+2025-03-21 01:58:05,474 INFO -- Model: 150
+2025-03-21 01:59:31,443 INFO -- Edge Accuracy = 46.36, Instantaneous Accuracy = 46.36, Lagged Accuracy = 43.71, Counterfactual Accuracy = 53.64,  Blended Accuracy = 52.98,  RR Accuracy = 49.01  
+2025-03-21 01:59:31,444 INFO -- Model: 151
+2025-03-21 02:00:08,715 INFO -- Edge Accuracy = 46.05, Instantaneous Accuracy = 46.05, Lagged Accuracy = 43.42, Counterfactual Accuracy = 53.29,  Blended Accuracy = 52.63,  RR Accuracy = 48.68  
+2025-03-21 02:00:08,716 INFO -- Model: 152
+2025-03-21 02:00:28,148 INFO -- Edge Accuracy = 46.41, Instantaneous Accuracy = 45.75, Lagged Accuracy = 43.79, Counterfactual Accuracy = 53.59,  Blended Accuracy = 52.94,  RR Accuracy = 48.37  
+2025-03-21 02:00:28,148 INFO -- Model: 153
+2025-03-21 02:01:34,136 INFO -- Edge Accuracy = 46.75, Instantaneous Accuracy = 46.10, Lagged Accuracy = 44.16, Counterfactual Accuracy = 53.25,  Blended Accuracy = 53.25,  RR Accuracy = 48.05  
+2025-03-21 02:01:34,137 INFO -- Model: 154
+2025-03-21 02:02:24,386 INFO -- Edge Accuracy = 46.45, Instantaneous Accuracy = 45.81, Lagged Accuracy = 44.52, Counterfactual Accuracy = 53.55,  Blended Accuracy = 52.90,  RR Accuracy = 47.74  
+2025-03-21 02:02:24,386 INFO -- Model: 155
+2025-03-21 02:04:49,919 INFO -- Edge Accuracy = 46.15, Instantaneous Accuracy = 45.51, Lagged Accuracy = 44.87, Counterfactual Accuracy = 53.85,  Blended Accuracy = 53.21,  RR Accuracy = 47.44  
+2025-03-21 02:04:49,919 INFO -- Model: 156
+2025-03-21 02:05:48,082 INFO -- Edge Accuracy = 46.50, Instantaneous Accuracy = 45.86, Lagged Accuracy = 45.22, Counterfactual Accuracy = 53.50,  Blended Accuracy = 52.87,  RR Accuracy = 47.77  
+2025-03-21 02:05:48,082 INFO -- Model: 157
+2025-03-21 02:07:12,268 INFO -- Edge Accuracy = 46.20, Instantaneous Accuracy = 45.57, Lagged Accuracy = 44.94, Counterfactual Accuracy = 53.80,  Blended Accuracy = 52.53,  RR Accuracy = 47.47  
+2025-03-21 02:07:12,269 INFO -- Model: 158
+2025-03-21 02:07:37,434 INFO -- Edge Accuracy = 46.54, Instantaneous Accuracy = 45.91, Lagged Accuracy = 45.28, Counterfactual Accuracy = 53.46,  Blended Accuracy = 52.83,  RR Accuracy = 47.80  
+2025-03-21 02:07:37,434 INFO -- Model: 159
+2025-03-21 02:09:03,071 INFO -- Edge Accuracy = 46.25, Instantaneous Accuracy = 45.62, Lagged Accuracy = 45.00, Counterfactual Accuracy = 53.75,  Blended Accuracy = 52.50,  RR Accuracy = 47.50  
+2025-03-21 02:09:03,071 INFO -- Model: 160
+2025-03-21 02:09:36,045 INFO -- Edge Accuracy = 46.58, Instantaneous Accuracy = 45.96, Lagged Accuracy = 44.72, Counterfactual Accuracy = 53.42,  Blended Accuracy = 52.80,  RR Accuracy = 47.83  
+2025-03-21 02:09:36,045 INFO -- Model: 161
+2025-03-21 02:10:14,366 INFO -- Edge Accuracy = 46.91, Instantaneous Accuracy = 46.30, Lagged Accuracy = 45.06, Counterfactual Accuracy = 53.09,  Blended Accuracy = 53.09,  RR Accuracy = 48.15  
+2025-03-21 02:10:14,367 INFO -- Model: 162
+2025-03-21 02:10:55,779 INFO -- Edge Accuracy = 47.24, Instantaneous Accuracy = 46.63, Lagged Accuracy = 45.40, Counterfactual Accuracy = 52.76,  Blended Accuracy = 53.37,  RR Accuracy = 48.47  
+2025-03-21 02:10:55,780 INFO -- Model: 163
+2025-03-21 02:11:23,666 INFO -- Edge Accuracy = 46.95, Instantaneous Accuracy = 46.95, Lagged Accuracy = 45.12, Counterfactual Accuracy = 52.44,  Blended Accuracy = 53.05,  RR Accuracy = 48.78  
+2025-03-21 02:11:23,667 INFO -- Model: 164
+2025-03-21 02:12:01,272 INFO -- Edge Accuracy = 47.27, Instantaneous Accuracy = 46.67, Lagged Accuracy = 44.85, Counterfactual Accuracy = 52.73,  Blended Accuracy = 53.33,  RR Accuracy = 49.09  
+2025-03-21 02:12:01,273 INFO -- Model: 165
+2025-03-21 02:13:28,469 INFO -- Edge Accuracy = 46.99, Instantaneous Accuracy = 46.39, Lagged Accuracy = 44.58, Counterfactual Accuracy = 53.01,  Blended Accuracy = 53.01,  RR Accuracy = 49.40  
+2025-03-21 02:13:28,469 INFO -- Model: 166
+2025-03-21 02:14:12,996 INFO -- Edge Accuracy = 46.71, Instantaneous Accuracy = 46.11, Lagged Accuracy = 44.91, Counterfactual Accuracy = 52.69,  Blended Accuracy = 52.69,  RR Accuracy = 49.70  
+2025-03-21 02:14:12,997 INFO -- Model: 167
+2025-03-21 02:15:19,393 INFO -- Edge Accuracy = 46.43, Instantaneous Accuracy = 45.83, Lagged Accuracy = 44.64, Counterfactual Accuracy = 52.38,  Blended Accuracy = 52.38,  RR Accuracy = 49.40  
+2025-03-21 02:15:19,393 INFO -- Model: 168
+2025-03-21 02:21:55,360 INFO -- Edge Accuracy = 46.15, Instantaneous Accuracy = 45.56, Lagged Accuracy = 44.38, Counterfactual Accuracy = 52.66,  Blended Accuracy = 52.07,  RR Accuracy = 49.70  
+2025-03-21 02:21:55,360 INFO -- Model: 169
+2025-03-21 02:22:34,884 INFO -- Edge Accuracy = 46.47, Instantaneous Accuracy = 45.88, Lagged Accuracy = 44.71, Counterfactual Accuracy = 52.35,  Blended Accuracy = 52.35,  RR Accuracy = 49.41  
+2025-03-21 02:22:34,885 INFO -- Model: 170
+2025-03-21 02:23:12,844 INFO -- Edge Accuracy = 46.20, Instantaneous Accuracy = 46.20, Lagged Accuracy = 44.44, Counterfactual Accuracy = 52.05,  Blended Accuracy = 52.05,  RR Accuracy = 49.71  
+2025-03-21 02:23:12,844 INFO -- Model: 171
+2025-03-21 02:24:19,380 INFO -- Edge Accuracy = 46.51, Instantaneous Accuracy = 46.51, Lagged Accuracy = 44.77, Counterfactual Accuracy = 51.74,  Blended Accuracy = 52.33,  RR Accuracy = 49.42  
+2025-03-21 02:24:19,381 INFO -- Model: 172
+2025-03-21 02:25:19,281 INFO -- Edge Accuracy = 46.24, Instantaneous Accuracy = 46.24, Lagged Accuracy = 44.51, Counterfactual Accuracy = 52.02,  Blended Accuracy = 52.02,  RR Accuracy = 49.71  
+2025-03-21 02:25:19,282 INFO -- Model: 173
+2025-03-21 02:26:05,479 INFO -- Edge Accuracy = 45.98, Instantaneous Accuracy = 45.98, Lagged Accuracy = 44.83, Counterfactual Accuracy = 52.30,  Blended Accuracy = 52.30,  RR Accuracy = 50.00  
+2025-03-21 02:26:05,479 INFO -- Model: 174
+2025-03-21 02:26:36,909 INFO -- Edge Accuracy = 45.71, Instantaneous Accuracy = 45.71, Lagged Accuracy = 44.57, Counterfactual Accuracy = 52.57,  Blended Accuracy = 52.00,  RR Accuracy = 49.71  
+2025-03-21 02:26:36,910 INFO -- Model: 175
+2025-03-21 02:27:28,980 INFO -- Edge Accuracy = 46.02, Instantaneous Accuracy = 46.02, Lagged Accuracy = 44.89, Counterfactual Accuracy = 52.84,  Blended Accuracy = 52.27,  RR Accuracy = 49.43  
+2025-03-21 02:27:28,980 INFO -- Model: 176
+2025-03-21 02:28:22,614 INFO -- Edge Accuracy = 45.76, Instantaneous Accuracy = 46.33, Lagged Accuracy = 44.63, Counterfactual Accuracy = 53.11,  Blended Accuracy = 51.98,  RR Accuracy = 49.15  
+2025-03-21 02:28:22,615 INFO -- Model: 177
+2025-03-21 02:28:58,886 INFO -- Edge Accuracy = 46.07, Instantaneous Accuracy = 46.63, Lagged Accuracy = 44.38, Counterfactual Accuracy = 53.37,  Blended Accuracy = 52.25,  RR Accuracy = 48.88  
+2025-03-21 02:28:58,886 INFO -- Model: 178
+2025-03-21 02:29:59,533 INFO -- Edge Accuracy = 46.37, Instantaneous Accuracy = 46.93, Lagged Accuracy = 44.69, Counterfactual Accuracy = 53.07,  Blended Accuracy = 52.51,  RR Accuracy = 49.16  
+2025-03-21 02:29:59,533 INFO -- Model: 179
+2025-03-21 02:30:53,633 INFO -- Edge Accuracy = 46.11, Instantaneous Accuracy = 46.67, Lagged Accuracy = 45.00, Counterfactual Accuracy = 52.78,  Blended Accuracy = 52.22,  RR Accuracy = 49.44  
+2025-03-21 02:30:53,633 INFO -- Model: 180
+2025-03-21 02:31:21,933 INFO -- Edge Accuracy = 45.86, Instantaneous Accuracy = 46.96, Lagged Accuracy = 44.75, Counterfactual Accuracy = 52.49,  Blended Accuracy = 51.93,  RR Accuracy = 49.72  
+2025-03-21 02:31:21,934 INFO -- Model: 181
+2025-03-21 02:31:57,512 INFO -- Edge Accuracy = 45.60, Instantaneous Accuracy = 46.70, Lagged Accuracy = 45.05, Counterfactual Accuracy = 52.75,  Blended Accuracy = 52.20,  RR Accuracy = 50.00  
+2025-03-21 02:31:57,512 INFO -- Model: 182
+2025-03-21 02:32:37,971 INFO -- Edge Accuracy = 45.36, Instantaneous Accuracy = 46.45, Lagged Accuracy = 44.81, Counterfactual Accuracy = 53.01,  Blended Accuracy = 51.91,  RR Accuracy = 49.73  
+2025-03-21 02:32:37,972 INFO -- Model: 183
+2025-03-21 02:33:36,810 INFO -- Edge Accuracy = 45.65, Instantaneous Accuracy = 46.20, Lagged Accuracy = 45.11, Counterfactual Accuracy = 53.26,  Blended Accuracy = 52.17,  RR Accuracy = 49.46  
+2025-03-21 02:33:36,811 INFO -- Model: 184
+2025-03-21 02:34:23,753 INFO -- Edge Accuracy = 45.95, Instantaneous Accuracy = 46.49, Lagged Accuracy = 45.41, Counterfactual Accuracy = 52.97,  Blended Accuracy = 52.43,  RR Accuracy = 49.73  
+2025-03-21 02:34:23,753 INFO -- Model: 185
+2025-03-21 02:35:07,656 INFO -- Edge Accuracy = 46.24, Instantaneous Accuracy = 46.77, Lagged Accuracy = 45.70, Counterfactual Accuracy = 52.69,  Blended Accuracy = 52.69,  RR Accuracy = 50.00  
+2025-03-21 02:35:07,656 INFO -- Model: 186
+2025-03-21 02:35:33,785 INFO -- Edge Accuracy = 45.99, Instantaneous Accuracy = 46.52, Lagged Accuracy = 45.99, Counterfactual Accuracy = 52.94,  Blended Accuracy = 52.41,  RR Accuracy = 49.73  
+2025-03-21 02:35:33,786 INFO -- Model: 187
+2025-03-21 02:35:56,591 INFO -- Edge Accuracy = 45.74, Instantaneous Accuracy = 46.28, Lagged Accuracy = 45.74, Counterfactual Accuracy = 52.66,  Blended Accuracy = 52.13,  RR Accuracy = 50.00  
+2025-03-21 02:35:56,591 INFO -- Model: 188
+2025-03-21 02:37:53,246 INFO -- Edge Accuracy = 45.50, Instantaneous Accuracy = 46.03, Lagged Accuracy = 45.50, Counterfactual Accuracy = 52.91,  Blended Accuracy = 51.85,  RR Accuracy = 50.26  
+2025-03-21 02:37:53,246 INFO -- Model: 189
+2025-03-21 02:39:44,154 INFO -- Edge Accuracy = 45.26, Instantaneous Accuracy = 45.79, Lagged Accuracy = 45.26, Counterfactual Accuracy = 53.16,  Blended Accuracy = 52.11,  RR Accuracy = 50.00  
+2025-03-21 02:39:44,154 INFO -- Model: 190
+2025-03-21 02:40:17,686 INFO -- Edge Accuracy = 45.03, Instantaneous Accuracy = 45.55, Lagged Accuracy = 45.03, Counterfactual Accuracy = 52.88,  Blended Accuracy = 51.83,  RR Accuracy = 50.26  
+2025-03-21 02:40:17,687 INFO -- Model: 191
+2025-03-21 02:41:49,121 INFO -- Edge Accuracy = 44.79, Instantaneous Accuracy = 45.31, Lagged Accuracy = 45.31, Counterfactual Accuracy = 53.12,  Blended Accuracy = 51.56,  RR Accuracy = 50.00  
+2025-03-21 02:41:49,121 INFO -- Model: 192
+2025-03-21 02:42:35,571 INFO -- Edge Accuracy = 44.56, Instantaneous Accuracy = 45.08, Lagged Accuracy = 45.08, Counterfactual Accuracy = 53.37,  Blended Accuracy = 51.30,  RR Accuracy = 49.74  
+2025-03-21 02:42:35,572 INFO -- Model: 193
+2025-03-21 02:54:42,480 INFO -- Edge Accuracy = 44.33, Instantaneous Accuracy = 44.85, Lagged Accuracy = 44.85, Counterfactual Accuracy = 53.09,  Blended Accuracy = 51.03,  RR Accuracy = 50.00  
+2025-03-21 02:54:42,481 INFO -- Model: 194
+2025-03-21 02:55:17,675 INFO -- Edge Accuracy = 44.10, Instantaneous Accuracy = 44.62, Lagged Accuracy = 44.62, Counterfactual Accuracy = 53.33,  Blended Accuracy = 50.77,  RR Accuracy = 49.74  
+2025-03-21 02:55:17,676 INFO -- Model: 195
+2025-03-21 02:55:55,435 INFO -- Edge Accuracy = 44.39, Instantaneous Accuracy = 44.90, Lagged Accuracy = 44.90, Counterfactual Accuracy = 53.06,  Blended Accuracy = 51.02,  RR Accuracy = 49.49  
+2025-03-21 02:55:55,435 INFO -- Model: 196
+2025-03-21 02:56:31,373 INFO -- Edge Accuracy = 44.16, Instantaneous Accuracy = 45.18, Lagged Accuracy = 44.67, Counterfactual Accuracy = 52.79,  Blended Accuracy = 50.76,  RR Accuracy = 49.24  
+2025-03-21 02:56:31,373 INFO -- Model: 197
+2025-03-21 02:57:08,007 INFO -- Edge Accuracy = 43.94, Instantaneous Accuracy = 45.45, Lagged Accuracy = 44.44, Counterfactual Accuracy = 53.03,  Blended Accuracy = 51.01,  RR Accuracy = 49.49  
+2025-03-21 02:57:08,008 INFO -- Model: 198
+2025-03-21 02:58:47,291 INFO -- Edge Accuracy = 44.22, Instantaneous Accuracy = 45.73, Lagged Accuracy = 44.22, Counterfactual Accuracy = 52.76,  Blended Accuracy = 50.75,  RR Accuracy = 49.25  
+2025-03-21 02:58:47,291 INFO -- Model: 199
+2025-03-21 03:00:11,539 INFO -- Edge Accuracy = 44.00, Instantaneous Accuracy = 45.50, Lagged Accuracy = 44.00, Counterfactual Accuracy = 53.00,  Blended Accuracy = 50.50,  RR Accuracy = 49.00  
+2025-03-21 07:53:53,078 INFO -- Model: 0
+2025-03-21 07:55:01,183 INFO -- Edge Accuracy = 0.00, Instantaneous Accuracy = 100.00, Lagged Accuracy = 100.00, Counterfactual Accuracy = 0.00,  Blended Accuracy = 0.00,  RR Accuracy = 0.00  
+2025-03-21 07:55:01,184 INFO -- Model: 1
+2025-03-21 07:55:26,334 INFO -- Model: 0
+2025-03-21 07:56:20,789 INFO -- Edge Accuracy = 100.00, Instantaneous Accuracy = 100.00, Lagged Accuracy = 100.00, Counterfactual Accuracy = 0.00,  Blended Accuracy = 100.00,  RR Accuracy = 0.00  
+2025-03-21 07:56:20,789 INFO -- Model: 1
+2025-03-21 08:00:09,269 INFO -- Edge Accuracy = 50.00, Instantaneous Accuracy = 50.00, Lagged Accuracy = 50.00, Counterfactual Accuracy = 0.00,  Blended Accuracy = 50.00,  RR Accuracy = 0.00  
+2025-03-21 08:00:09,269 INFO -- Model: 2
+2025-03-21 08:01:52,167 INFO -- Edge Accuracy = 33.33, Instantaneous Accuracy = 33.33, Lagged Accuracy = 33.33, Counterfactual Accuracy = 33.33,  Blended Accuracy = 33.33,  RR Accuracy = 33.33  
+2025-03-21 08:01:52,168 INFO -- Model: 3
+2025-03-21 08:02:31,351 INFO -- Edge Accuracy = 50.00, Instantaneous Accuracy = 50.00, Lagged Accuracy = 25.00, Counterfactual Accuracy = 25.00,  Blended Accuracy = 50.00,  RR Accuracy = 50.00  
+2025-03-21 08:02:31,351 INFO -- Model: 4
+2025-03-21 08:03:13,249 INFO -- Edge Accuracy = 40.00, Instantaneous Accuracy = 40.00, Lagged Accuracy = 20.00, Counterfactual Accuracy = 40.00,  Blended Accuracy = 40.00,  RR Accuracy = 40.00  
+2025-03-21 08:03:13,249 INFO -- Model: 5
+2025-03-21 08:05:17,519 INFO -- Edge Accuracy = 50.00, Instantaneous Accuracy = 33.33, Lagged Accuracy = 33.33, Counterfactual Accuracy = 50.00,  Blended Accuracy = 50.00,  RR Accuracy = 33.33  
+2025-03-21 08:05:17,520 INFO -- Model: 6
+2025-03-21 08:06:22,123 INFO -- Edge Accuracy = 42.86, Instantaneous Accuracy = 28.57, Lagged Accuracy = 28.57, Counterfactual Accuracy = 42.86,  Blended Accuracy = 42.86,  RR Accuracy = 28.57  
+2025-03-21 08:06:22,123 INFO -- Model: 7
+2025-03-21 08:07:27,849 INFO -- Edge Accuracy = 37.50, Instantaneous Accuracy = 25.00, Lagged Accuracy = 25.00, Counterfactual Accuracy = 37.50,  Blended Accuracy = 37.50,  RR Accuracy = 25.00  
+2025-03-21 08:07:27,850 INFO -- Model: 8
+2025-03-21 08:08:29,026 INFO -- Edge Accuracy = 33.33, Instantaneous Accuracy = 22.22, Lagged Accuracy = 22.22, Counterfactual Accuracy = 33.33,  Blended Accuracy = 33.33,  RR Accuracy = 33.33  
+2025-03-21 08:08:29,026 INFO -- Model: 9
+2025-03-21 08:09:10,188 INFO -- Edge Accuracy = 30.00, Instantaneous Accuracy = 20.00, Lagged Accuracy = 20.00, Counterfactual Accuracy = 40.00,  Blended Accuracy = 30.00,  RR Accuracy = 30.00  
+2025-03-21 08:09:10,189 INFO -- Model: 10
+2025-03-21 08:09:36,662 INFO -- Edge Accuracy = 27.27, Instantaneous Accuracy = 18.18, Lagged Accuracy = 27.27, Counterfactual Accuracy = 36.36,  Blended Accuracy = 27.27,  RR Accuracy = 27.27  
+2025-03-21 08:09:36,662 INFO -- Model: 11
+2025-03-21 08:11:11,128 INFO -- Edge Accuracy = 25.00, Instantaneous Accuracy = 25.00, Lagged Accuracy = 25.00, Counterfactual Accuracy = 33.33,  Blended Accuracy = 25.00,  RR Accuracy = 25.00  
+2025-03-21 08:11:11,128 INFO -- Model: 12
+2025-03-21 08:13:39,883 INFO -- Edge Accuracy = 30.77, Instantaneous Accuracy = 30.77, Lagged Accuracy = 30.77, Counterfactual Accuracy = 38.46,  Blended Accuracy = 30.77,  RR Accuracy = 23.08  
+2025-03-21 08:13:39,883 INFO -- Model: 13
+2025-03-21 08:14:20,472 INFO -- Edge Accuracy = 35.71, Instantaneous Accuracy = 35.71, Lagged Accuracy = 35.71, Counterfactual Accuracy = 42.86,  Blended Accuracy = 35.71,  RR Accuracy = 28.57  
+2025-03-21 08:14:20,472 INFO -- Model: 14
+2025-03-21 08:15:07,793 INFO -- Edge Accuracy = 33.33, Instantaneous Accuracy = 33.33, Lagged Accuracy = 33.33, Counterfactual Accuracy = 46.67,  Blended Accuracy = 33.33,  RR Accuracy = 26.67  
+2025-03-21 08:15:07,793 INFO -- Model: 15
+2025-03-21 08:16:06,956 INFO -- Edge Accuracy = 37.50, Instantaneous Accuracy = 37.50, Lagged Accuracy = 31.25, Counterfactual Accuracy = 50.00,  Blended Accuracy = 37.50,  RR Accuracy = 25.00  
+2025-03-21 08:16:06,957 INFO -- Model: 16
+2025-03-21 08:18:53,632 INFO -- Edge Accuracy = 35.29, Instantaneous Accuracy = 35.29, Lagged Accuracy = 29.41, Counterfactual Accuracy = 52.94,  Blended Accuracy = 41.18,  RR Accuracy = 23.53  
+2025-03-21 08:18:53,632 INFO -- Model: 17
+2025-03-21 08:22:21,356 INFO -- Model: 0
+2025-03-21 08:23:17,948 INFO -- Edge Accuracy = 100.00, Instantaneous Accuracy = 100.00, Lagged Accuracy = 100.00, Counterfactual Accuracy = 100.00,  Blended Accuracy = 100.00,  RR Accuracy = 0.00  
+2025-03-21 08:23:17,948 INFO -- Model: 1
+2025-03-21 08:35:11,689 INFO -- Edge Accuracy = 100.00, Instantaneous Accuracy = 100.00, Lagged Accuracy = 100.00, Counterfactual Accuracy = 100.00,  Blended Accuracy = 100.00,  RR Accuracy = 0.00  
+2025-03-21 08:35:11,689 INFO -- Model: 2
+2025-03-21 08:37:40,871 INFO -- Edge Accuracy = 66.67, Instantaneous Accuracy = 66.67, Lagged Accuracy = 66.67, Counterfactual Accuracy = 66.67,  Blended Accuracy = 66.67,  RR Accuracy = 33.33  
+2025-03-21 08:37:40,871 INFO -- Model: 3
+2025-03-21 08:38:29,685 INFO -- Edge Accuracy = 50.00, Instantaneous Accuracy = 50.00, Lagged Accuracy = 75.00, Counterfactual Accuracy = 50.00,  Blended Accuracy = 50.00,  RR Accuracy = 50.00  
+2025-03-21 08:38:29,686 INFO -- Model: 4
+2025-03-21 08:39:05,170 INFO -- Edge Accuracy = 40.00, Instantaneous Accuracy = 60.00, Lagged Accuracy = 60.00, Counterfactual Accuracy = 60.00,  Blended Accuracy = 60.00,  RR Accuracy = 40.00  
+2025-03-21 08:39:05,171 INFO -- Model: 5
+2025-03-21 08:40:17,105 INFO -- Edge Accuracy = 33.33, Instantaneous Accuracy = 50.00, Lagged Accuracy = 50.00, Counterfactual Accuracy = 50.00,  Blended Accuracy = 50.00,  RR Accuracy = 33.33  
+2025-03-21 08:40:17,105 INFO -- Model: 6
+2025-03-21 08:40:52,957 INFO -- Edge Accuracy = 42.86, Instantaneous Accuracy = 57.14, Lagged Accuracy = 57.14, Counterfactual Accuracy = 42.86,  Blended Accuracy = 57.14,  RR Accuracy = 42.86  
+2025-03-21 08:40:52,958 INFO -- Model: 7
+2025-03-21 08:41:34,199 INFO -- Edge Accuracy = 37.50, Instantaneous Accuracy = 62.50, Lagged Accuracy = 50.00, Counterfactual Accuracy = 37.50,  Blended Accuracy = 50.00,  RR Accuracy = 50.00  
+2025-03-21 08:41:34,199 INFO -- Model: 8
+2025-03-21 08:42:59,640 INFO -- Edge Accuracy = 33.33, Instantaneous Accuracy = 55.56, Lagged Accuracy = 44.44, Counterfactual Accuracy = 44.44,  Blended Accuracy = 44.44,  RR Accuracy = 55.56  
+2025-03-21 08:42:59,640 INFO -- Model: 9
+2025-03-21 08:44:18,797 INFO -- Edge Accuracy = 40.00, Instantaneous Accuracy = 50.00, Lagged Accuracy = 50.00, Counterfactual Accuracy = 40.00,  Blended Accuracy = 50.00,  RR Accuracy = 60.00  
+2025-03-21 08:44:18,798 INFO -- Model: 10
+2025-03-21 08:44:57,668 INFO -- Edge Accuracy = 45.45, Instantaneous Accuracy = 54.55, Lagged Accuracy = 54.55, Counterfactual Accuracy = 45.45,  Blended Accuracy = 54.55,  RR Accuracy = 54.55  
+2025-03-21 08:44:57,669 INFO -- Model: 11
+2025-03-21 08:46:28,371 INFO -- Edge Accuracy = 41.67, Instantaneous Accuracy = 50.00, Lagged Accuracy = 58.33, Counterfactual Accuracy = 50.00,  Blended Accuracy = 50.00,  RR Accuracy = 58.33  
+2025-03-21 08:46:28,372 INFO -- Model: 12
+2025-03-21 08:48:33,313 INFO -- Edge Accuracy = 46.15, Instantaneous Accuracy = 53.85, Lagged Accuracy = 53.85, Counterfactual Accuracy = 46.15,  Blended Accuracy = 53.85,  RR Accuracy = 53.85  
+2025-03-21 08:48:33,314 INFO -- Model: 13
+2025-03-21 08:49:35,314 INFO -- Edge Accuracy = 50.00, Instantaneous Accuracy = 57.14, Lagged Accuracy = 57.14, Counterfactual Accuracy = 50.00,  Blended Accuracy = 57.14,  RR Accuracy = 50.00  
+2025-03-21 08:49:35,315 INFO -- Model: 14
+2025-03-21 08:50:09,456 INFO -- Edge Accuracy = 53.33, Instantaneous Accuracy = 53.33, Lagged Accuracy = 60.00, Counterfactual Accuracy = 46.67,  Blended Accuracy = 60.00,  RR Accuracy = 46.67  
+2025-03-21 08:50:09,457 INFO -- Model: 15
+2025-03-21 08:50:51,787 INFO -- Edge Accuracy = 56.25, Instantaneous Accuracy = 56.25, Lagged Accuracy = 56.25, Counterfactual Accuracy = 50.00,  Blended Accuracy = 56.25,  RR Accuracy = 43.75  
+2025-03-21 08:50:51,787 INFO -- Model: 16
+2025-03-21 08:52:32,442 INFO -- Edge Accuracy = 58.82, Instantaneous Accuracy = 58.82, Lagged Accuracy = 58.82, Counterfactual Accuracy = 52.94,  Blended Accuracy = 58.82,  RR Accuracy = 41.18  
+2025-03-21 08:52:32,442 INFO -- Model: 17
+2025-03-21 09:00:01,278 INFO -- Edge Accuracy = 61.11, Instantaneous Accuracy = 61.11, Lagged Accuracy = 55.56, Counterfactual Accuracy = 50.00,  Blended Accuracy = 61.11,  RR Accuracy = 38.89  
+2025-03-21 09:00:01,279 INFO -- Model: 18
+2025-03-21 09:00:53,293 INFO -- Edge Accuracy = 57.89, Instantaneous Accuracy = 57.89, Lagged Accuracy = 57.89, Counterfactual Accuracy = 52.63,  Blended Accuracy = 63.16,  RR Accuracy = 36.84  
+2025-03-21 09:00:53,293 INFO -- Model: 19
+2025-03-21 09:01:40,323 INFO -- Edge Accuracy = 60.00, Instantaneous Accuracy = 60.00, Lagged Accuracy = 55.00, Counterfactual Accuracy = 55.00,  Blended Accuracy = 65.00,  RR Accuracy = 40.00  
+2025-03-21 09:01:40,324 INFO -- Model: 20
+2025-03-21 09:02:25,182 INFO -- Edge Accuracy = 57.14, Instantaneous Accuracy = 57.14, Lagged Accuracy = 52.38, Counterfactual Accuracy = 52.38,  Blended Accuracy = 61.90,  RR Accuracy = 38.10  
+2025-03-21 09:02:25,182 INFO -- Model: 21
+2025-03-21 09:03:25,331 INFO -- Edge Accuracy = 59.09, Instantaneous Accuracy = 59.09, Lagged Accuracy = 54.55, Counterfactual Accuracy = 50.00,  Blended Accuracy = 63.64,  RR Accuracy = 40.91  
+2025-03-21 09:03:25,332 INFO -- Model: 22
+2025-03-21 09:04:29,274 INFO -- Edge Accuracy = 56.52, Instantaneous Accuracy = 56.52, Lagged Accuracy = 56.52, Counterfactual Accuracy = 47.83,  Blended Accuracy = 60.87,  RR Accuracy = 39.13  
+2025-03-21 09:04:29,275 INFO -- Model: 23
+2025-03-21 09:09:48,532 INFO -- Edge Accuracy = 54.17, Instantaneous Accuracy = 58.33, Lagged Accuracy = 58.33, Counterfactual Accuracy = 45.83,  Blended Accuracy = 62.50,  RR Accuracy = 41.67  
+2025-03-21 09:09:48,532 INFO -- Model: 24
+2025-03-21 09:10:31,988 INFO -- Edge Accuracy = 52.00, Instantaneous Accuracy = 56.00, Lagged Accuracy = 56.00, Counterfactual Accuracy = 44.00,  Blended Accuracy = 60.00,  RR Accuracy = 40.00  
+2025-03-21 09:10:31,989 INFO -- Model: 25
+2025-03-21 09:11:30,296 INFO -- Edge Accuracy = 50.00, Instantaneous Accuracy = 53.85, Lagged Accuracy = 53.85, Counterfactual Accuracy = 42.31,  Blended Accuracy = 57.69,  RR Accuracy = 38.46  
+2025-03-21 09:11:30,297 INFO -- Model: 26
+2025-03-21 09:12:38,352 INFO -- Edge Accuracy = 48.15, Instantaneous Accuracy = 51.85, Lagged Accuracy = 51.85, Counterfactual Accuracy = 44.44,  Blended Accuracy = 55.56,  RR Accuracy = 40.74  
+2025-03-21 09:12:38,352 INFO -- Model: 27
+2025-03-21 09:13:26,107 INFO -- Edge Accuracy = 46.43, Instantaneous Accuracy = 53.57, Lagged Accuracy = 50.00, Counterfactual Accuracy = 46.43,  Blended Accuracy = 53.57,  RR Accuracy = 42.86  
+2025-03-21 09:13:26,107 INFO -- Model: 28
+2025-03-21 09:14:12,101 INFO -- Edge Accuracy = 44.83, Instantaneous Accuracy = 51.72, Lagged Accuracy = 51.72, Counterfactual Accuracy = 48.28,  Blended Accuracy = 51.72,  RR Accuracy = 44.83  
+2025-03-21 09:14:12,102 INFO -- Model: 29
+2025-03-21 09:14:54,080 INFO -- Edge Accuracy = 43.33, Instantaneous Accuracy = 50.00, Lagged Accuracy = 53.33, Counterfactual Accuracy = 46.67,  Blended Accuracy = 50.00,  RR Accuracy = 43.33  
+2025-03-21 09:14:54,080 INFO -- Model: 30
+2025-03-21 09:16:49,726 INFO -- Edge Accuracy = 45.16, Instantaneous Accuracy = 51.61, Lagged Accuracy = 54.84, Counterfactual Accuracy = 45.16,  Blended Accuracy = 51.61,  RR Accuracy = 45.16  
+2025-03-21 09:16:49,726 INFO -- Model: 31
+2025-03-21 09:18:02,165 INFO -- Edge Accuracy = 43.75, Instantaneous Accuracy = 50.00, Lagged Accuracy = 53.12, Counterfactual Accuracy = 46.88,  Blended Accuracy = 53.12,  RR Accuracy = 43.75  
+2025-03-21 09:18:02,166 INFO -- Model: 32
+2025-03-21 09:18:53,380 INFO -- Edge Accuracy = 42.42, Instantaneous Accuracy = 48.48, Lagged Accuracy = 51.52, Counterfactual Accuracy = 48.48,  Blended Accuracy = 51.52,  RR Accuracy = 42.42  
+2025-03-21 09:18:53,380 INFO -- Model: 33
+2025-03-21 09:19:29,560 INFO -- Edge Accuracy = 44.12, Instantaneous Accuracy = 47.06, Lagged Accuracy = 52.94, Counterfactual Accuracy = 47.06,  Blended Accuracy = 50.00,  RR Accuracy = 44.12  
+2025-03-21 09:19:29,561 INFO -- Model: 34
+2025-03-21 09:20:04,728 INFO -- Edge Accuracy = 42.86, Instantaneous Accuracy = 45.71, Lagged Accuracy = 51.43, Counterfactual Accuracy = 45.71,  Blended Accuracy = 48.57,  RR Accuracy = 42.86  
+2025-03-21 09:20:04,729 INFO -- Model: 35
+2025-03-21 09:20:41,440 INFO -- Edge Accuracy = 41.67, Instantaneous Accuracy = 44.44, Lagged Accuracy = 50.00, Counterfactual Accuracy = 44.44,  Blended Accuracy = 47.22,  RR Accuracy = 41.67  
+2025-03-21 09:20:41,441 INFO -- Model: 36
+2025-03-21 09:22:08,806 INFO -- Edge Accuracy = 40.54, Instantaneous Accuracy = 43.24, Lagged Accuracy = 48.65, Counterfactual Accuracy = 45.95,  Blended Accuracy = 45.95,  RR Accuracy = 43.24  
+2025-03-21 09:22:08,807 INFO -- Model: 37
+2025-03-21 09:22:54,920 INFO -- Edge Accuracy = 39.47, Instantaneous Accuracy = 42.11, Lagged Accuracy = 50.00, Counterfactual Accuracy = 44.74,  Blended Accuracy = 44.74,  RR Accuracy = 42.11  
+2025-03-21 09:22:54,920 INFO -- Model: 38
+2025-03-21 09:23:29,290 INFO -- Edge Accuracy = 38.46, Instantaneous Accuracy = 41.03, Lagged Accuracy = 48.72, Counterfactual Accuracy = 43.59,  Blended Accuracy = 43.59,  RR Accuracy = 41.03  
+2025-03-21 09:23:29,290 INFO -- Model: 39
+2025-03-21 09:24:46,640 INFO -- Edge Accuracy = 37.50, Instantaneous Accuracy = 40.00, Lagged Accuracy = 47.50, Counterfactual Accuracy = 45.00,  Blended Accuracy = 42.50,  RR Accuracy = 42.50  
+2025-03-21 09:24:46,640 INFO -- Model: 40
+2025-03-21 09:27:14,780 INFO -- Edge Accuracy = 39.02, Instantaneous Accuracy = 41.46, Lagged Accuracy = 48.78, Counterfactual Accuracy = 43.90,  Blended Accuracy = 43.90,  RR Accuracy = 43.90  
+2025-03-21 09:27:14,780 INFO -- Model: 41
+2025-03-21 09:28:31,479 INFO -- Edge Accuracy = 40.48, Instantaneous Accuracy = 42.86, Lagged Accuracy = 50.00, Counterfactual Accuracy = 45.24,  Blended Accuracy = 45.24,  RR Accuracy = 45.24  
+2025-03-21 09:28:31,480 INFO -- Model: 42
+2025-03-21 09:29:51,210 INFO -- Edge Accuracy = 39.53, Instantaneous Accuracy = 41.86, Lagged Accuracy = 48.84, Counterfactual Accuracy = 46.51,  Blended Accuracy = 44.19,  RR Accuracy = 44.19  
+2025-03-21 09:29:51,211 INFO -- Model: 43
+2025-03-21 09:31:03,883 INFO -- Edge Accuracy = 40.91, Instantaneous Accuracy = 43.18, Lagged Accuracy = 47.73, Counterfactual Accuracy = 45.45,  Blended Accuracy = 45.45,  RR Accuracy = 43.18  
+2025-03-21 09:31:03,883 INFO -- Model: 44
+2025-03-21 09:31:54,312 INFO -- Edge Accuracy = 42.22, Instantaneous Accuracy = 42.22, Lagged Accuracy = 48.89, Counterfactual Accuracy = 46.67,  Blended Accuracy = 46.67,  RR Accuracy = 42.22  
+2025-03-21 09:31:54,313 INFO -- Model: 45
+2025-03-21 09:32:48,058 INFO -- Edge Accuracy = 41.30, Instantaneous Accuracy = 41.30, Lagged Accuracy = 50.00, Counterfactual Accuracy = 45.65,  Blended Accuracy = 47.83,  RR Accuracy = 41.30  
+2025-03-21 09:32:48,058 INFO -- Model: 46
+2025-03-21 09:33:58,761 INFO -- Edge Accuracy = 40.43, Instantaneous Accuracy = 40.43, Lagged Accuracy = 48.94, Counterfactual Accuracy = 44.68,  Blended Accuracy = 46.81,  RR Accuracy = 42.55  
+2025-03-21 09:33:58,762 INFO -- Model: 47
+2025-03-21 09:37:30,961 INFO -- Model: 0
+2025-03-21 09:40:42,939 INFO -- Edge Accuracy = 100.00, Instantaneous Accuracy = 100.00, Lagged Accuracy = 0.00, Counterfactual Accuracy = 100.00,  Blended Accuracy = 100.00,  RR Accuracy = 100.00  
+2025-03-21 09:40:42,940 INFO -- Model: 1
+2025-03-21 10:12:32,368 INFO -- Edge Accuracy = 100.00, Instantaneous Accuracy = 50.00, Lagged Accuracy = 50.00, Counterfactual Accuracy = 100.00,  Blended Accuracy = 100.00,  RR Accuracy = 50.00  
+2025-03-21 10:12:32,369 INFO -- Model: 2
+2025-03-21 10:22:03,004 INFO -- Edge Accuracy = 100.00, Instantaneous Accuracy = 66.67, Lagged Accuracy = 33.33, Counterfactual Accuracy = 100.00,  Blended Accuracy = 100.00,  RR Accuracy = 66.67  
+2025-03-21 10:22:03,005 INFO -- Model: 3
+2025-03-21 10:23:15,898 INFO -- Edge Accuracy = 100.00, Instantaneous Accuracy = 50.00, Lagged Accuracy = 50.00, Counterfactual Accuracy = 75.00,  Blended Accuracy = 75.00,  RR Accuracy = 75.00  
+2025-03-21 10:23:15,899 INFO -- Model: 4
+2025-03-21 10:24:39,442 INFO -- Edge Accuracy = 100.00, Instantaneous Accuracy = 60.00, Lagged Accuracy = 40.00, Counterfactual Accuracy = 80.00,  Blended Accuracy = 80.00,  RR Accuracy = 60.00  
+2025-03-21 10:24:39,442 INFO -- Model: 5
+2025-03-21 10:27:53,037 INFO -- Edge Accuracy = 83.33, Instantaneous Accuracy = 50.00, Lagged Accuracy = 33.33, Counterfactual Accuracy = 83.33,  Blended Accuracy = 83.33,  RR Accuracy = 50.00  
+2025-03-21 10:27:53,038 INFO -- Model: 6
+2025-03-21 10:29:39,998 INFO -- Edge Accuracy = 85.71, Instantaneous Accuracy = 57.14, Lagged Accuracy = 42.86, Counterfactual Accuracy = 85.71,  Blended Accuracy = 85.71,  RR Accuracy = 57.14  
+2025-03-21 10:29:39,999 INFO -- Model: 7
+2025-03-21 10:31:11,203 INFO -- Edge Accuracy = 75.00, Instantaneous Accuracy = 50.00, Lagged Accuracy = 37.50, Counterfactual Accuracy = 75.00,  Blended Accuracy = 75.00,  RR Accuracy = 50.00  
+2025-03-21 10:31:11,203 INFO -- Model: 8
+2025-03-21 10:36:09,345 INFO -- Edge Accuracy = 66.67, Instantaneous Accuracy = 55.56, Lagged Accuracy = 33.33, Counterfactual Accuracy = 66.67,  Blended Accuracy = 66.67,  RR Accuracy = 55.56  
+2025-03-21 10:36:09,346 INFO -- Model: 9
+2025-03-21 10:38:33,170 INFO -- Edge Accuracy = 60.00, Instantaneous Accuracy = 50.00, Lagged Accuracy = 40.00, Counterfactual Accuracy = 70.00,  Blended Accuracy = 60.00,  RR Accuracy = 50.00  
+2025-03-21 10:38:33,170 INFO -- Model: 10
+2025-03-21 10:39:25,108 INFO -- Edge Accuracy = 54.55, Instantaneous Accuracy = 45.45, Lagged Accuracy = 36.36, Counterfactual Accuracy = 63.64,  Blended Accuracy = 54.55,  RR Accuracy = 45.45  
+2025-03-21 10:39:25,109 INFO -- Model: 11
+2025-03-21 10:43:17,152 INFO -- Edge Accuracy = 50.00, Instantaneous Accuracy = 41.67, Lagged Accuracy = 33.33, Counterfactual Accuracy = 58.33,  Blended Accuracy = 50.00,  RR Accuracy = 50.00  
+2025-03-21 10:43:17,152 INFO -- Model: 12
+2025-03-21 10:46:49,795 INFO -- Edge Accuracy = 53.85, Instantaneous Accuracy = 46.15, Lagged Accuracy = 38.46, Counterfactual Accuracy = 61.54,  Blended Accuracy = 53.85,  RR Accuracy = 53.85  
+2025-03-21 10:46:49,795 INFO -- Model: 13
+2025-03-21 10:48:05,206 INFO -- Edge Accuracy = 50.00, Instantaneous Accuracy = 50.00, Lagged Accuracy = 35.71, Counterfactual Accuracy = 64.29,  Blended Accuracy = 50.00,  RR Accuracy = 57.14  
+2025-03-21 10:48:05,206 INFO -- Model: 14
+2025-03-21 10:49:17,169 INFO -- Edge Accuracy = 46.67, Instantaneous Accuracy = 46.67, Lagged Accuracy = 33.33, Counterfactual Accuracy = 66.67,  Blended Accuracy = 46.67,  RR Accuracy = 53.33  
+2025-03-21 10:49:17,170 INFO -- Model: 15
+2025-03-21 10:51:57,234 INFO -- Edge Accuracy = 50.00, Instantaneous Accuracy = 50.00, Lagged Accuracy = 31.25, Counterfactual Accuracy = 68.75,  Blended Accuracy = 50.00,  RR Accuracy = 56.25  
+2025-03-21 10:51:57,234 INFO -- Model: 16
+2025-03-21 10:55:07,374 INFO -- Edge Accuracy = 52.94, Instantaneous Accuracy = 52.94, Lagged Accuracy = 35.29, Counterfactual Accuracy = 70.59,  Blended Accuracy = 52.94,  RR Accuracy = 58.82  
+2025-03-21 10:55:07,375 INFO -- Model: 17
+2025-03-21 11:11:24,354 INFO -- Edge Accuracy = 50.00, Instantaneous Accuracy = 50.00, Lagged Accuracy = 33.33, Counterfactual Accuracy = 72.22,  Blended Accuracy = 50.00,  RR Accuracy = 55.56  
+2025-03-21 11:11:24,354 INFO -- Model: 18
+2025-03-21 11:14:13,249 INFO -- Edge Accuracy = 52.63, Instantaneous Accuracy = 47.37, Lagged Accuracy = 36.84, Counterfactual Accuracy = 73.68,  Blended Accuracy = 52.63,  RR Accuracy = 57.89  
+2025-03-21 11:14:13,250 INFO -- Model: 19
+2025-03-21 11:15:18,726 INFO -- Edge Accuracy = 50.00, Instantaneous Accuracy = 50.00, Lagged Accuracy = 35.00, Counterfactual Accuracy = 75.00,  Blended Accuracy = 55.00,  RR Accuracy = 60.00  
+2025-03-21 11:15:18,726 INFO -- Model: 20
+2025-03-21 11:17:16,977 INFO -- Edge Accuracy = 52.38, Instantaneous Accuracy = 52.38, Lagged Accuracy = 33.33, Counterfactual Accuracy = 71.43,  Blended Accuracy = 52.38,  RR Accuracy = 57.14  
+2025-03-21 11:17:16,977 INFO -- Model: 21
+2025-03-21 11:20:03,111 INFO -- Edge Accuracy = 54.55, Instantaneous Accuracy = 54.55, Lagged Accuracy = 31.82, Counterfactual Accuracy = 68.18,  Blended Accuracy = 54.55,  RR Accuracy = 59.09  
+2025-03-21 11:20:03,111 INFO -- Model: 22
+2025-03-21 11:22:23,429 INFO -- Edge Accuracy = 56.52, Instantaneous Accuracy = 56.52, Lagged Accuracy = 34.78, Counterfactual Accuracy = 65.22,  Blended Accuracy = 56.52,  RR Accuracy = 56.52  
+2025-03-21 11:22:23,430 INFO -- Model: 23
+2025-03-21 11:55:15,084 INFO -- Edge Accuracy = 54.17, Instantaneous Accuracy = 54.17, Lagged Accuracy = 37.50, Counterfactual Accuracy = 66.67,  Blended Accuracy = 58.33,  RR Accuracy = 58.33  
+2025-03-21 11:55:15,085 INFO -- Model: 24
+2025-03-21 11:57:23,990 INFO -- Edge Accuracy = 56.00, Instantaneous Accuracy = 52.00, Lagged Accuracy = 40.00, Counterfactual Accuracy = 68.00,  Blended Accuracy = 60.00,  RR Accuracy = 60.00  
+2025-03-21 11:57:23,991 INFO -- Model: 25
+2025-03-21 11:58:41,586 INFO -- Edge Accuracy = 57.69, Instantaneous Accuracy = 53.85, Lagged Accuracy = 42.31, Counterfactual Accuracy = 69.23,  Blended Accuracy = 61.54,  RR Accuracy = 61.54  
+2025-03-21 11:58:41,587 INFO -- Model: 26
+2025-03-21 12:01:50,368 INFO -- Edge Accuracy = 55.56, Instantaneous Accuracy = 51.85, Lagged Accuracy = 40.74, Counterfactual Accuracy = 66.67,  Blended Accuracy = 59.26,  RR Accuracy = 59.26  
+2025-03-21 12:01:50,369 INFO -- Model: 27
+2025-03-21 12:03:35,810 INFO -- Edge Accuracy = 53.57, Instantaneous Accuracy = 53.57, Lagged Accuracy = 39.29, Counterfactual Accuracy = 67.86,  Blended Accuracy = 60.71,  RR Accuracy = 57.14  
+2025-03-21 12:03:35,811 INFO -- Model: 28
+2025-03-21 12:06:02,316 INFO -- Edge Accuracy = 51.72, Instantaneous Accuracy = 51.72, Lagged Accuracy = 41.38, Counterfactual Accuracy = 65.52,  Blended Accuracy = 62.07,  RR Accuracy = 58.62  
+2025-03-21 12:06:02,316 INFO -- Model: 29
+2025-03-21 12:07:22,967 INFO -- Edge Accuracy = 53.33, Instantaneous Accuracy = 53.33, Lagged Accuracy = 40.00, Counterfactual Accuracy = 63.33,  Blended Accuracy = 60.00,  RR Accuracy = 56.67  
+2025-03-21 12:07:22,967 INFO -- Model: 30
+2025-03-21 12:11:13,076 INFO -- Edge Accuracy = 54.84, Instantaneous Accuracy = 54.84, Lagged Accuracy = 41.94, Counterfactual Accuracy = 61.29,  Blended Accuracy = 61.29,  RR Accuracy = 58.06  
+2025-03-21 12:11:13,076 INFO -- Model: 31
+2025-03-21 12:16:09,506 INFO -- Edge Accuracy = 53.12, Instantaneous Accuracy = 53.12, Lagged Accuracy = 40.62, Counterfactual Accuracy = 62.50,  Blended Accuracy = 59.38,  RR Accuracy = 56.25  
+2025-03-21 12:16:09,507 INFO -- Model: 32
+2025-03-21 12:20:17,003 INFO -- Edge Accuracy = 51.52, Instantaneous Accuracy = 51.52, Lagged Accuracy = 39.39, Counterfactual Accuracy = 63.64,  Blended Accuracy = 57.58,  RR Accuracy = 54.55  
+2025-03-21 12:20:17,003 INFO -- Model: 33
+2025-03-21 12:21:50,471 INFO -- Edge Accuracy = 50.00, Instantaneous Accuracy = 50.00, Lagged Accuracy = 41.18, Counterfactual Accuracy = 61.76,  Blended Accuracy = 55.88,  RR Accuracy = 55.88  
+2025-03-21 12:21:50,471 INFO -- Model: 34
+2025-03-21 12:24:13,482 INFO -- Edge Accuracy = 48.57, Instantaneous Accuracy = 48.57, Lagged Accuracy = 40.00, Counterfactual Accuracy = 62.86,  Blended Accuracy = 57.14,  RR Accuracy = 57.14  
+2025-03-21 12:24:13,483 INFO -- Model: 35
+2025-03-21 12:26:31,180 INFO -- Edge Accuracy = 50.00, Instantaneous Accuracy = 47.22, Lagged Accuracy = 41.67, Counterfactual Accuracy = 63.89,  Blended Accuracy = 58.33,  RR Accuracy = 55.56  
+2025-03-21 12:26:31,180 INFO -- Model: 36
+2025-03-21 12:29:10,953 INFO -- Edge Accuracy = 51.35, Instantaneous Accuracy = 48.65, Lagged Accuracy = 43.24, Counterfactual Accuracy = 62.16,  Blended Accuracy = 56.76,  RR Accuracy = 56.76  
+2025-03-21 12:29:10,954 INFO -- Model: 37
+2025-03-21 12:29:51,212 INFO -- Edge Accuracy = 52.63, Instantaneous Accuracy = 50.00, Lagged Accuracy = 44.74, Counterfactual Accuracy = 63.16,  Blended Accuracy = 57.89,  RR Accuracy = 55.26  
+2025-03-21 12:29:51,213 INFO -- Model: 38
+2025-03-21 12:32:09,105 INFO -- Edge Accuracy = 53.85, Instantaneous Accuracy = 51.28, Lagged Accuracy = 46.15, Counterfactual Accuracy = 61.54,  Blended Accuracy = 58.97,  RR Accuracy = 56.41  
+2025-03-21 12:32:09,106 INFO -- Model: 39
+2025-03-21 12:38:24,610 INFO -- Edge Accuracy = 52.50, Instantaneous Accuracy = 50.00, Lagged Accuracy = 47.50, Counterfactual Accuracy = 60.00,  Blended Accuracy = 60.00,  RR Accuracy = 55.00  
+2025-03-21 12:38:24,611 INFO -- Model: 40
+2025-03-21 12:49:59,866 INFO -- Edge Accuracy = 53.66, Instantaneous Accuracy = 48.78, Lagged Accuracy = 48.78, Counterfactual Accuracy = 58.54,  Blended Accuracy = 58.54,  RR Accuracy = 53.66  
+2025-03-21 12:49:59,867 INFO -- Model: 41
+2025-03-21 12:53:54,887 INFO -- Edge Accuracy = 52.38, Instantaneous Accuracy = 47.62, Lagged Accuracy = 47.62, Counterfactual Accuracy = 59.52,  Blended Accuracy = 57.14,  RR Accuracy = 52.38  
+2025-03-21 12:53:54,888 INFO -- Model: 42
+2025-03-21 12:58:41,319 INFO -- Edge Accuracy = 53.49, Instantaneous Accuracy = 46.51, Lagged Accuracy = 48.84, Counterfactual Accuracy = 60.47,  Blended Accuracy = 58.14,  RR Accuracy = 53.49  
+2025-03-21 12:58:41,320 INFO -- Model: 43
+2025-03-21 13:00:46,811 INFO -- Edge Accuracy = 54.55, Instantaneous Accuracy = 47.73, Lagged Accuracy = 50.00, Counterfactual Accuracy = 59.09,  Blended Accuracy = 59.09,  RR Accuracy = 52.27  
+2025-03-21 13:00:46,811 INFO -- Model: 44
+2025-03-21 13:02:34,706 INFO -- Edge Accuracy = 55.56, Instantaneous Accuracy = 48.89, Lagged Accuracy = 51.11, Counterfactual Accuracy = 60.00,  Blended Accuracy = 60.00,  RR Accuracy = 53.33  
+2025-03-21 13:02:34,707 INFO -- Model: 45
+2025-03-21 13:06:09,153 INFO -- Edge Accuracy = 56.52, Instantaneous Accuracy = 50.00, Lagged Accuracy = 50.00, Counterfactual Accuracy = 60.87,  Blended Accuracy = 60.87,  RR Accuracy = 54.35  
+2025-03-21 13:06:09,153 INFO -- Model: 46
+2025-03-21 13:09:27,871 INFO -- Edge Accuracy = 57.45, Instantaneous Accuracy = 51.06, Lagged Accuracy = 51.06, Counterfactual Accuracy = 61.70,  Blended Accuracy = 61.70,  RR Accuracy = 55.32  
+2025-03-21 13:09:27,871 INFO -- Model: 47
+2025-03-21 13:30:17,541 INFO -- Edge Accuracy = 56.25, Instantaneous Accuracy = 50.00, Lagged Accuracy = 52.08, Counterfactual Accuracy = 62.50,  Blended Accuracy = 60.42,  RR Accuracy = 54.17  
+2025-03-21 13:30:17,542 INFO -- Model: 48
+2025-03-21 13:31:35,445 INFO -- Edge Accuracy = 57.14, Instantaneous Accuracy = 51.02, Lagged Accuracy = 53.06, Counterfactual Accuracy = 61.22,  Blended Accuracy = 61.22,  RR Accuracy = 55.10  
+2025-03-21 13:31:35,446 INFO -- Model: 49
+2025-03-21 14:02:29,317 INFO -- Edge Accuracy = 56.00, Instantaneous Accuracy = 50.00, Lagged Accuracy = 52.00, Counterfactual Accuracy = 60.00,  Blended Accuracy = 60.00,  RR Accuracy = 54.00  
+2025-03-21 14:02:29,317 INFO -- Model: 50
+2025-03-21 14:04:32,176 INFO -- Edge Accuracy = 56.86, Instantaneous Accuracy = 50.98, Lagged Accuracy = 52.94, Counterfactual Accuracy = 58.82,  Blended Accuracy = 60.78,  RR Accuracy = 52.94  
+2025-03-21 14:04:32,176 INFO -- Model: 51
+2025-03-21 14:14:32,809 INFO -- Edge Accuracy = 55.77, Instantaneous Accuracy = 50.00, Lagged Accuracy = 53.85, Counterfactual Accuracy = 59.62,  Blended Accuracy = 61.54,  RR Accuracy = 51.92  
+2025-03-21 14:14:32,809 INFO -- Model: 52
+2025-03-21 14:18:47,702 INFO -- Edge Accuracy = 56.60, Instantaneous Accuracy = 50.94, Lagged Accuracy = 54.72, Counterfactual Accuracy = 58.49,  Blended Accuracy = 62.26,  RR Accuracy = 50.94  
+2025-03-21 14:18:47,702 INFO -- Model: 53
+2025-03-21 14:40:55,125 INFO -- Edge Accuracy = 57.41, Instantaneous Accuracy = 50.00, Lagged Accuracy = 55.56, Counterfactual Accuracy = 59.26,  Blended Accuracy = 62.96,  RR Accuracy = 50.00  
+2025-03-21 14:40:55,126 INFO -- Model: 54
+2025-03-21 14:50:06,157 INFO -- Edge Accuracy = 58.18, Instantaneous Accuracy = 49.09, Lagged Accuracy = 54.55, Counterfactual Accuracy = 60.00,  Blended Accuracy = 63.64,  RR Accuracy = 49.09  
+2025-03-21 14:50:06,157 INFO -- Model: 55
+2025-03-21 14:52:53,072 INFO -- Edge Accuracy = 57.14, Instantaneous Accuracy = 50.00, Lagged Accuracy = 55.36, Counterfactual Accuracy = 60.71,  Blended Accuracy = 64.29,  RR Accuracy = 48.21  
+2025-03-21 14:52:53,072 INFO -- Model: 56
+2025-03-21 15:01:45,783 INFO -- Edge Accuracy = 56.14, Instantaneous Accuracy = 49.12, Lagged Accuracy = 56.14, Counterfactual Accuracy = 61.40,  Blended Accuracy = 63.16,  RR Accuracy = 47.37  
+2025-03-21 15:01:45,784 INFO -- Model: 57
+2025-03-21 15:03:28,317 INFO -- Edge Accuracy = 56.90, Instantaneous Accuracy = 50.00, Lagged Accuracy = 56.90, Counterfactual Accuracy = 60.34,  Blended Accuracy = 63.79,  RR Accuracy = 48.28  
+2025-03-21 15:03:28,318 INFO -- Model: 58
+2025-03-21 15:06:05,466 INFO -- Edge Accuracy = 57.63, Instantaneous Accuracy = 50.85, Lagged Accuracy = 57.63, Counterfactual Accuracy = 59.32,  Blended Accuracy = 64.41,  RR Accuracy = 49.15  
+2025-03-21 15:06:05,467 INFO -- Model: 59
+2025-03-21 15:07:24,762 INFO -- Edge Accuracy = 58.33, Instantaneous Accuracy = 51.67, Lagged Accuracy = 58.33, Counterfactual Accuracy = 60.00,  Blended Accuracy = 65.00,  RR Accuracy = 50.00  
+2025-03-21 15:07:24,762 INFO -- Model: 60
+2025-03-21 15:09:42,395 INFO -- Edge Accuracy = 57.38, Instantaneous Accuracy = 50.82, Lagged Accuracy = 59.02, Counterfactual Accuracy = 60.66,  Blended Accuracy = 65.57,  RR Accuracy = 50.82  
+2025-03-21 15:09:42,396 INFO -- Model: 61
+2025-03-21 15:15:31,748 INFO -- Edge Accuracy = 56.45, Instantaneous Accuracy = 50.00, Lagged Accuracy = 58.06, Counterfactual Accuracy = 59.68,  Blended Accuracy = 64.52,  RR Accuracy = 50.00  
+2025-03-21 15:15:31,748 INFO -- Model: 62
+2025-03-21 15:17:17,695 INFO -- Edge Accuracy = 57.14, Instantaneous Accuracy = 50.79, Lagged Accuracy = 58.73, Counterfactual Accuracy = 60.32,  Blended Accuracy = 65.08,  RR Accuracy = 49.21  
+2025-03-21 15:17:17,695 INFO -- Model: 63
+2025-03-21 15:23:36,982 INFO -- Edge Accuracy = 56.25, Instantaneous Accuracy = 50.00, Lagged Accuracy = 57.81, Counterfactual Accuracy = 60.94,  Blended Accuracy = 64.06,  RR Accuracy = 48.44  
+2025-03-21 15:23:36,982 INFO -- Model: 64
+2025-03-21 15:25:49,904 INFO -- Edge Accuracy = 55.38, Instantaneous Accuracy = 49.23, Lagged Accuracy = 56.92, Counterfactual Accuracy = 61.54,  Blended Accuracy = 63.08,  RR Accuracy = 49.23  
+2025-03-21 15:25:49,905 INFO -- Model: 65
+2025-03-21 15:28:40,496 INFO -- Edge Accuracy = 56.06, Instantaneous Accuracy = 50.00, Lagged Accuracy = 56.06, Counterfactual Accuracy = 62.12,  Blended Accuracy = 63.64,  RR Accuracy = 50.00  
+2025-03-21 15:28:40,497 INFO -- Model: 66
+2025-03-21 15:34:35,112 INFO -- Edge Accuracy = 55.22, Instantaneous Accuracy = 49.25, Lagged Accuracy = 56.72, Counterfactual Accuracy = 61.19,  Blended Accuracy = 62.69,  RR Accuracy = 49.25  
+2025-03-21 15:34:35,112 INFO -- Model: 67
+2025-03-21 15:36:47,859 INFO -- Edge Accuracy = 54.41, Instantaneous Accuracy = 48.53, Lagged Accuracy = 55.88, Counterfactual Accuracy = 61.76,  Blended Accuracy = 61.76,  RR Accuracy = 48.53  
+2025-03-21 15:36:47,860 INFO -- Model: 68
+2025-03-21 15:38:21,812 INFO -- Edge Accuracy = 55.07, Instantaneous Accuracy = 49.28, Lagged Accuracy = 56.52, Counterfactual Accuracy = 60.87,  Blended Accuracy = 62.32,  RR Accuracy = 47.83  
+2025-03-21 15:38:21,813 INFO -- Model: 69
+2025-03-21 15:53:48,876 INFO -- Edge Accuracy = 54.29, Instantaneous Accuracy = 48.57, Lagged Accuracy = 55.71, Counterfactual Accuracy = 60.00,  Blended Accuracy = 61.43,  RR Accuracy = 47.14  
+2025-03-21 15:53:48,876 INFO -- Model: 70
+2025-03-21 15:55:53,704 INFO -- Edge Accuracy = 54.93, Instantaneous Accuracy = 49.30, Lagged Accuracy = 56.34, Counterfactual Accuracy = 60.56,  Blended Accuracy = 61.97,  RR Accuracy = 47.89  
+2025-03-21 15:55:53,704 INFO -- Model: 71
+2025-03-21 15:59:28,772 INFO -- Edge Accuracy = 55.56, Instantaneous Accuracy = 50.00, Lagged Accuracy = 55.56, Counterfactual Accuracy = 61.11,  Blended Accuracy = 62.50,  RR Accuracy = 47.22  
+2025-03-21 15:59:28,773 INFO -- Model: 72
+2025-03-21 16:27:57,591 INFO -- Edge Accuracy = 54.79, Instantaneous Accuracy = 50.68, Lagged Accuracy = 54.79, Counterfactual Accuracy = 60.27,  Blended Accuracy = 61.64,  RR Accuracy = 47.95  
+2025-03-21 16:27:57,591 INFO -- Model: 73
+2025-03-21 16:29:33,641 INFO -- Edge Accuracy = 54.05, Instantaneous Accuracy = 50.00, Lagged Accuracy = 54.05, Counterfactual Accuracy = 60.81,  Blended Accuracy = 60.81,  RR Accuracy = 47.30  
+2025-03-21 16:29:33,642 INFO -- Model: 74
+2025-03-21 16:33:02,528 INFO -- Edge Accuracy = 54.67, Instantaneous Accuracy = 50.67, Lagged Accuracy = 53.33, Counterfactual Accuracy = 60.00,  Blended Accuracy = 61.33,  RR Accuracy = 48.00  
+2025-03-21 16:33:02,528 INFO -- Model: 75
+2025-03-21 16:34:18,830 INFO -- Edge Accuracy = 53.95, Instantaneous Accuracy = 50.00, Lagged Accuracy = 52.63, Counterfactual Accuracy = 59.21,  Blended Accuracy = 60.53,  RR Accuracy = 47.37  
+2025-03-21 16:34:18,830 INFO -- Model: 76
+2025-03-21 16:42:19,593 INFO -- Edge Accuracy = 53.25, Instantaneous Accuracy = 49.35, Lagged Accuracy = 51.95, Counterfactual Accuracy = 58.44,  Blended Accuracy = 59.74,  RR Accuracy = 46.75  
+2025-03-21 16:42:19,594 INFO -- Model: 77
+2025-03-21 16:43:34,214 INFO -- Edge Accuracy = 52.56, Instantaneous Accuracy = 48.72, Lagged Accuracy = 51.28, Counterfactual Accuracy = 57.69,  Blended Accuracy = 58.97,  RR Accuracy = 47.44  
+2025-03-21 16:43:34,215 INFO -- Model: 78
